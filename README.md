@@ -15,7 +15,7 @@ My current plan is:
 
 The License
 ---
-Licensed under Open Font License (OFL). Available to anyone and everyone. Contributions welcome
+Licensed under Open Font License (OFL). Available to anyone and everyone. Contributions welcome.
 
 Contact
 ---
