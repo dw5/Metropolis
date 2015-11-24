@@ -7,6 +7,7 @@ To create a modern, geometric typeface. Open sourced, and openly available. Infl
 The Plan
 ---
 My current plan is:
+
 1. Start with a 'regular' design (weight and width, as well as default metrics and glyph variations)
 2. Design a 'black' weight at the above regular width to create instances at various weights
 3. Start designing other widths or a light/hairline weight
