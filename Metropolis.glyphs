@@ -9,7 +9,10 @@ b,
 d,
 hopin
 );
-date = "2015-11-24 08:31:31 +0000";
+copyright = "Copyright (c) 2015 Chris Simpson";
+date = "2015-11-24 10:02:39 +0000";
+designer = "Chris Simpson";
+designerURL = "https://github.com/chrismsimpson/Metropolis";
 familyName = "Metropolis";
 fontMaster = (
 {
@@ -892,6 +895,8 @@ interpolationWidth = 5;
 name = Regular;
 }
 );
+manufacturer = "Victory One Media Pty Ltd";
+manufacturerURL = "http://victoryonemedia.com";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;

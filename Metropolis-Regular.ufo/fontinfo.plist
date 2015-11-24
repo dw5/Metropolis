@@ -6,12 +6,22 @@
 	<integer>795</integer>
 	<key>capHeight</key>
 	<integer>687</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2015 Chris Simpson</string>
 	<key>descender</key>
 	<integer>-205</integer>
 	<key>familyName</key>
 	<string>Metropolis</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/11/24 19:31:31</string>
+	<string>2015/11/24 21:02:39</string>
+	<key>openTypeNameDesigner</key>
+	<string>Chris Simpson</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://github.com/chrismsimpson/Metropolis</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Victory One Media Pty Ltd</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://victoryonemedia.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Metropolis</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
