@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="1">
+  <advance width="622"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="151" y="-172" type="line"/>
+      <point x="151" y="517" type="line"/>
+      <point x="76" y="517" type="line"/>
+      <point x="76" y="-172" type="line"/>
+    </contour>
+    <component base="lowercase_loop" xOffset="23"/>
+  </outline>
+</glyph>
