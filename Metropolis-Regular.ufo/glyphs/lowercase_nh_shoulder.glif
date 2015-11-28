@@ -5,18 +5,18 @@
     <contour>
       <point x="516" y="0" type="line"/>
       <point x="516" y="329" type="line"/>
-      <point x="516" y="438"/>
-      <point x="423" y="529"/>
-      <point x="312" y="529" type="curve"/>
-      <point x="216" y="529"/>
-      <point x="136" y="463"/>
-      <point x="136" y="384" type="curve"/>
+      <point x="516" y="446"/>
+      <point x="436" y="529"/>
+      <point x="322" y="529" type="curve"/>
+      <point x="226" y="529"/>
+      <point x="141" y="460"/>
+      <point x="136" y="379" type="curve"/>
       <point x="152" y="329" type="line"/>
       <point x="152" y="401"/>
-      <point x="221" y="462"/>
-      <point x="302" y="462" type="curve"/>
-      <point x="377" y="462"/>
-      <point x="441" y="397"/>
+      <point x="225" y="462"/>
+      <point x="312" y="462" type="curve"/>
+      <point x="388" y="462"/>
+      <point x="441" y="403"/>
       <point x="441" y="319" type="curve"/>
       <point x="441" y="0" type="line"/>
     </contour>

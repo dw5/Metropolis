@@ -2,6 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>35616FF6-3D9C-499B-B113-AC9E0DB5842A</key>
+		<dict>
+			<key>HV</key>
+			<integer>78</integer>
+			<key>OH</key>
+			<integer>71</integer>
+			<key>OV</key>
+			<integer>79</integer>
+			<key>nV</key>
+			<integer>75</integer>
+			<key>nd</key>
+			<integer>67</integer>
+			<key>oH</key>
+			<integer>67</integer>
+			<key>oV</key>
+			<integer>75</integer>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>35616FF6-3D9C-499B-B113-AC9E0DB5842A</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
