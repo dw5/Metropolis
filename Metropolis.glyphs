@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+Q
+);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -375,11 +378,28 @@ unicode = 0050;
 },
 {
 glyphname = Q;
+lastChange = "2015-11-29 04:23:32 +0000";
 layers = (
 {
+components = (
+{
+name = O;
+}
+);
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"755 58 LINE",
+"511 270 LINE",
+"461 212 LINE",
+"705 0 LINE"
+);
+}
+);
+width = 807;
 }
 );
 unicode = 0051;
