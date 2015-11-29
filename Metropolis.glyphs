@@ -940,11 +940,12 @@ unicode = 007A;
 },
 {
 glyphname = space;
+lastChange = "2015-11-29 02:42:40 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+width = 312;
 }
 );
 unicode = 0020;
