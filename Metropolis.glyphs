@@ -1,19 +1,4 @@
 {
-DisplayStrings = (
-hill,
-n,
-hiq,
-u,
-l,
-b,
-d,
-hopin,
-Icon,
-o,
-O,
-"chop/lowercase_loop pin",
-"/lowercase_nh_shoulder h"
-);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -522,11 +507,47 @@ unicode = 0064;
 },
 {
 glyphname = e;
+lastChange = "2015-11-29 02:34:49 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"382 -12 OFFCURVE",
+"473 19 OFFCURVE",
+"518 68 CURVE",
+"472 117 LINE",
+"440 82 OFFCURVE",
+"370 55 OFFCURVE",
+"309 55 CURVE SMOOTH",
+"197 55 OFFCURVE",
+"123 144 OFFCURVE",
+"123 260 CURVE SMOOTH",
+"123 380 OFFCURVE",
+"203 462 OFFCURVE",
+"306 462 CURVE SMOOTH",
+"407 462 OFFCURVE",
+"473 382 OFFCURVE",
+"473 297 CURVE",
+"99 297 LINE",
+"99 230 LINE",
+"548 230 LINE",
+"548 411 OFFCURVE",
+"459 529 OFFCURVE",
+"303 529 CURVE SMOOTH",
+"164 529 OFFCURVE",
+"48 414 OFFCURVE",
+"48 260 CURVE SMOOTH",
+"48 101 OFFCURVE",
+"172 -12 OFFCURVE",
+"310 -12 CURVE SMOOTH"
+);
+}
+);
+width = 595;
 }
 );
 unicode = 0065;
