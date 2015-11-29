@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-G
-);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -214,11 +211,26 @@ unicode = 004B;
 },
 {
 glyphname = L;
+lastChange = "2015-11-29 03:39:25 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"521 0 LINE",
+"521 74 LINE",
+"123 74 LINE",
+"146 50 LINE",
+"146 687 LINE",
+"68 687 LINE",
+"68 0 LINE"
+);
+}
+);
+width = 555;
 }
 );
 unicode = 004C;
