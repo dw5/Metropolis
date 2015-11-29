@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+G
+);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -124,11 +127,31 @@ unicode = 0046;
 },
 {
 glyphname = G;
+lastChange = "2015-11-29 03:01:01 +0000";
 layers = (
 {
+components = (
+{
+name = C;
+}
+);
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"605 288 LINE",
+"573 329 LINE",
+"573 93 LINE",
+"651 93 LINE",
+"651 362 LINE",
+"376 362 LINE",
+"376 288 LINE"
+);
+}
+);
+width = 680;
 }
 );
 unicode = 0047;
@@ -1100,6 +1123,7 @@ unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = {
+HH = 74;
 HV = 78;
 OH = 71;
 OV = 79;

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="1">
-  <advance width="600"/>
+  <advance width="680"/>
   <unicode hex="0047"/>
   <outline>
+    <contour>
+      <point x="605" y="288" type="line"/>
+      <point x="573" y="329" type="line"/>
+      <point x="573" y="93" type="line"/>
+      <point x="651" y="93" type="line"/>
+      <point x="651" y="362" type="line"/>
+      <point x="376" y="362" type="line"/>
+      <point x="376" y="288" type="line"/>
+    </contour>
+    <component base="C"/>
   </outline>
 </glyph>
