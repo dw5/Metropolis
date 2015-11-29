@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+H
+);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -155,11 +158,35 @@ unicode = 0047;
 },
 {
 glyphname = H;
+lastChange = "2015-11-29 03:48:58 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"157 0 LINE",
+"157 335 LINE",
+"135 313 LINE",
+"583 313 LINE",
+"562 335 LINE",
+"562 0 LINE",
+"640 0 LINE",
+"640 687 LINE",
+"562 687 LINE",
+"562 365 LINE",
+"584 387 LINE",
+"135 387 LINE",
+"157 365 LINE",
+"157 687 LINE",
+"79 687 LINE",
+"79 0 LINE"
+);
+}
+);
+width = 719;
 }
 );
 unicode = 0048;
