@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="600"/>
+  <advance width="650"/>
   <unicode hex="0052"/>
   <outline>
+    <contour>
+      <point x="602" y="0" type="line"/>
+      <point x="413" y="269" type="line"/>
+      <point x="329" y="269" type="line"/>
+      <point x="518" y="0" type="line"/>
+    </contour>
+    <component base="P"/>
   </outline>
 </glyph>
