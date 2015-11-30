@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-Q,
-E
-);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -919,11 +915,65 @@ unicode = 006C;
 },
 {
 glyphname = m;
+lastChange = "2015-11-30 09:23:13 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 name = Regular;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"819 0 LINE",
+"819 329 LINE SMOOTH",
+"819 446 OFFCURVE",
+"743 529 OFFCURVE",
+"635 529 CURVE SMOOTH",
+"543 529 OFFCURVE",
+"466 469 OFFCURVE",
+"461 381 CURVE",
+"485 329 LINE",
+"485 407 OFFCURVE",
+"543 462 OFFCURVE",
+"625 462 CURVE SMOOTH",
+"695 462 OFFCURVE",
+"744 403 OFFCURVE",
+"744 319 CURVE SMOOTH",
+"744 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"151 0 LINE",
+"151 517 LINE",
+"76 517 LINE",
+"76 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"485 0 LINE",
+"485 329 LINE SMOOTH",
+"485 446 OFFCURVE",
+"409 529 OFFCURVE",
+"301 529 CURVE SMOOTH",
+"209 529 OFFCURVE",
+"140 467 OFFCURVE",
+"135 379 CURVE",
+"151 329 LINE",
+"151 407 OFFCURVE",
+"209 462 OFFCURVE",
+"291 462 CURVE SMOOTH",
+"361 462 OFFCURVE",
+"410 403 OFFCURVE",
+"410 319 CURVE SMOOTH",
+"410 0 LINE"
+);
+}
+);
+width = 895;
 }
 );
 unicode = 006D;
