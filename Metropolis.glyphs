@@ -1,22 +1,12 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-cap,
-e,
-PR,
-N,
-p,
-n,
-TOUGH,
-cap,
-" ",
+gac,
+a,
+J,
+UVWefg,
 U,
-/lowercase_loop,
-"",
-HUGH,
-QuicP,
-quicp,
-c
+i
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -495,7 +485,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2016-06-04 03:55:52 +0000";
+lastChange = "2016-06-04 05:47:59 +0000";
 layers = (
 {
 components = (
@@ -558,7 +548,7 @@ unicode = 0054;
 },
 {
 glyphname = U;
-lastChange = "2016-06-04 05:25:09 +0000";
+lastChange = "2016-06-04 05:55:11 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -566,10 +556,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"86 285 LINE",
-"86 111 OFFCURVE",
-"205 -12 OFFCURVE",
-"373 -12 CURVE",
 "541 -12 OFFCURVE",
 "660 111 OFFCURVE",
 "660 285 CURVE",
@@ -583,7 +569,11 @@ nodes = (
 "164 153 OFFCURVE",
 "164 285 CURVE",
 "164 687 LINE",
-"86 687 LINE"
+"86 687 LINE",
+"86 285 LINE",
+"86 111 OFFCURVE",
+"205 -12 OFFCURVE",
+"373 -12 CURVE"
 );
 }
 );
@@ -865,10 +855,64 @@ unicode = 0066;
 },
 {
 glyphname = g;
+lastChange = "2016-06-04 06:03:51 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"448 -172 OFFCURVE",
+"553 -78 OFFCURVE",
+"553 55 CURVE SMOOTH",
+"553 517 LINE",
+"478 517 LINE",
+"478 428 LINE",
+"438 491 OFFCURVE",
+"372 529 OFFCURVE",
+"290 529 CURVE SMOOTH",
+"151 529 OFFCURVE",
+"52 428 OFFCURVE",
+"52 284 CURVE SMOOTH",
+"52 140 OFFCURVE",
+"151 38 OFFCURVE",
+"290 38 CURVE SMOOTH",
+"372 38 OFFCURVE",
+"438 76 OFFCURVE",
+"478 139 CURVE",
+"478 55 LINE SMOOTH",
+"478 -46 OFFCURVE",
+"408 -105 OFFCURVE",
+"289 -105 CURVE SMOOTH",
+"225 -105 OFFCURVE",
+"163 -82 OFFCURVE",
+"123 -44 CURVE",
+"90 -103 LINE",
+"137 -143 OFFCURVE",
+"215 -172 OFFCURVE",
+"299 -172 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"203 105 OFFCURVE",
+"131 179 OFFCURVE",
+"131 284 CURVE SMOOTH",
+"131 388 OFFCURVE",
+"203 462 OFFCURVE",
+"304 462 CURVE SMOOTH",
+"406 462 OFFCURVE",
+"478 388 OFFCURVE",
+"478 284 CURVE SMOOTH",
+"478 179 OFFCURVE",
+"406 105 OFFCURVE",
+"304 105 CURVE SMOOTH"
+);
+}
+);
+width = 636;
 }
 );
 unicode = 0067;
@@ -1121,7 +1165,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2016-06-04 05:41:30 +0000";
+lastChange = "2016-06-04 06:02:52 +0000";
 layers = (
 {
 components = (
@@ -1149,7 +1193,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-06-04 05:41:27 +0000";
+lastChange = "2016-06-04 05:47:57 +0000";
 layers = (
 {
 components = (
