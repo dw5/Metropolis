@@ -2,7 +2,8 @@
 .appVersion = "895";
 DisplayStrings = (
 GRUMP,
-P
+P,
+A
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -32,10 +33,40 @@ xHeight = 517;
 glyphs = (
 {
 glyphname = A;
+lastChange = "2016-06-04 11:07:29 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"723 0 LINE",
+"420 687 LINE",
+"335 687 LINE",
+"638 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"117 0 LINE",
+"420 687 LINE",
+"335 687 LINE",
+"32 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"591 176 LINE",
+"591 250 LINE",
+"172 250 LINE",
+"172 176 LINE"
+);
+}
+);
+width = 755;
 }
 );
 unicode = 0041;
@@ -708,10 +739,31 @@ unicode = 0055;
 },
 {
 glyphname = V;
+lastChange = "2016-06-04 11:08:13 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"420 0 LINE",
+"723 687 LINE",
+"638 687 LINE",
+"335 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 0 LINE",
+"117 687 LINE",
+"32 687 LINE",
+"335 0 LINE"
+);
+}
+);
+width = 755;
 }
 );
 unicode = 0056;
@@ -1721,6 +1773,16 @@ instanceInterpolations = {
 name = Regular;
 }
 );
+kerning = {
+"35616FF6-3D9C-499B-B113-AC9E0DB5842A" = {
+V = {
+A = -89;
+};
+L = {
+V = -109;
+};
+};
+};
 manufacturer = "Victory One Media Pty Ltd";
 manufacturerURL = "http://victoryonemedia.com";
 unitsPerEm = 1000;
