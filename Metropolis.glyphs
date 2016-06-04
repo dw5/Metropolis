@@ -13,7 +13,9 @@ j,
 g,
 table,
 "File  FILE  Edit  Path  Fit",
-TOUGH
+MONE,
+M,
+D
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -363,10 +365,30 @@ unicode = 004C;
 },
 {
 glyphname = M;
+lastChange = "2016-06-04 06:51:26 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"172 0 LINE",
+"172 519 LINE",
+"427 40 LINE",
+"682 519 LINE",
+"682 0 LINE",
+"760 0 LINE",
+"760 687 LINE",
+"682 687 LINE",
+"427 208 LINE",
+"172 687 LINE",
+"94 687 LINE",
+"94 0 LINE"
+);
+}
+);
+width = 854;
 }
 );
 unicode = 004D;
