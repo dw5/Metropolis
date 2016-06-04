@@ -8,7 +8,8 @@ N,
 p,
 n,
 T,
-cap
+cap,
+" "
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -1289,11 +1290,11 @@ width = 622;
 },
 {
 glyphname = space;
-lastChange = "2015-11-29 02:42:40 +0000";
+lastChange = "2016-06-04 05:17:18 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 312;
+width = 290;
 }
 );
 unicode = 0020;
