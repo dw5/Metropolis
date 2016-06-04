@@ -1,10 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-GRUMP,
-P,
-A
-);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -1415,7 +1410,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2016-06-04 06:30:29 +0000";
+lastChange = "2016-06-04 11:57:39 +0000";
 layers = (
 {
 components = (
@@ -1647,7 +1642,7 @@ unicode = 007A;
 },
 {
 glyphname = a.001;
-lastChange = "2016-06-04 04:48:52 +0000";
+lastChange = "2016-06-04 11:57:34 +0000";
 layers = (
 {
 components = (
