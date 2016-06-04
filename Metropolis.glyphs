@@ -7,9 +7,11 @@ PR,
 N,
 p,
 n,
-T,
+TOUGH,
 cap,
-" "
+" ",
+U,
+/lowercase_loop
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -178,7 +180,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2015-11-29 03:01:01 +0000";
+lastChange = "2016-06-04 05:25:31 +0000";
 layers = (
 {
 components = (
@@ -527,10 +529,36 @@ unicode = 0054;
 },
 {
 glyphname = U;
+lastChange = "2016-06-04 05:25:09 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"86 285 LINE",
+"86 111 OFFCURVE",
+"205 -12 OFFCURVE",
+"373 -12 CURVE",
+"541 -12 OFFCURVE",
+"660 111 OFFCURVE",
+"660 285 CURVE",
+"660 687 LINE",
+"582 687 LINE",
+"582 285 LINE",
+"582 153 OFFCURVE",
+"495 59 OFFCURVE",
+"373 59 CURVE",
+"251 59 OFFCURVE",
+"164 153 OFFCURVE",
+"164 285 CURVE",
+"164 687 LINE",
+"86 687 LINE"
+);
+}
+);
+width = 746;
 }
 );
 unicode = 0055;
