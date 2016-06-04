@@ -15,7 +15,7 @@ table,
 "File  FILE  Edit  Path  Fit",
 MONE,
 M,
-D
+Dabble
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -109,10 +109,41 @@ unicode = 0043;
 },
 {
 glyphname = D;
+lastChange = "2016-06-04 06:58:09 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"326 0 LINE SMOOTH",
+"544 0 OFFCURVE",
+"698 143 OFFCURVE",
+"698 344 CURVE SMOOTH",
+"698 545 OFFCURVE",
+"544 687 OFFCURVE",
+"326 687 CURVE SMOOTH",
+"94 687 LINE",
+"94 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 616 LINE",
+"326 616 LINE SMOOTH",
+"498 616 OFFCURVE",
+"619 503 OFFCURVE",
+"619 344 CURVE SMOOTH",
+"619 184 OFFCURVE",
+"498 71 OFFCURVE",
+"326 71 CURVE SMOOTH",
+"172 71 LINE"
+);
+}
+);
+width = 762;
 }
 );
 unicode = 0044;
@@ -754,7 +785,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2016-06-04 06:24:08 +0000";
+lastChange = "2016-06-04 06:58:19 +0000";
 layers = (
 {
 components = (
