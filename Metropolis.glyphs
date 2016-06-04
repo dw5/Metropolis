@@ -757,40 +757,6 @@ width = 600;
 unicode = 005A;
 },
 {
-glyphname = B.001;
-layers = (
-{
-layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-paths = (
-{
-closed = 1;
-nodes = (
-"431 107 LINE",
-"458 107 OFFCURVE",
-"512 137 OFFCURVE",
-"512 211 CURVE",
-"512 285 OFFCURVE",
-"458 315 OFFCURVE",
-"431 315 CURVE",
-"127 315 LINE",
-"127 411 LINE",
-"431 411 LINE",
-"508 411 OFFCURVE",
-"661 285 OFFCURVE",
-"661 211 CURVE",
-"664 137 OFFCURVE",
-"508 0 OFFCURVE",
-"431 0 CURVE",
-"127 0 LINE",
-"127 107 LINE"
-);
-}
-);
-width = 600;
-}
-);
-},
-{
 glyphname = a;
 lastChange = "2016-06-04 05:09:13 +0000";
 layers = (
