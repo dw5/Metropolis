@@ -11,7 +11,12 @@ TOUGH,
 cap,
 " ",
 U,
-/lowercase_loop
+/lowercase_loop,
+"",
+HUGH,
+QuicP,
+quicp,
+c
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -180,7 +185,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2016-06-04 05:25:31 +0000";
+lastChange = "2016-06-04 05:39:41 +0000";
 layers = (
 {
 components = (
@@ -203,7 +208,7 @@ nodes = (
 );
 }
 );
-width = 680;
+width = 725;
 }
 );
 unicode = 0047;
@@ -266,10 +271,34 @@ unicode = 0049;
 },
 {
 glyphname = J;
+lastChange = "2016-06-04 05:37:22 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"364 -12 OFFCURVE",
+"454 86 OFFCURVE",
+"454 224 CURVE SMOOTH",
+"454 687 LINE",
+"376 687 LINE",
+"376 224 LINE SMOOTH",
+"376 127 OFFCURVE",
+"318 59 OFFCURVE",
+"237 59 CURVE SMOOTH",
+"174 59 OFFCURVE",
+"110 100 OFFCURVE",
+"83 158 CURVE",
+"26 102 LINE",
+"68 35 OFFCURVE",
+"156 -12 OFFCURVE",
+"237 -12 CURVE SMOOTH"
+);
+}
+);
+width = 540;
 }
 );
 unicode = 004A;
@@ -439,7 +468,7 @@ unicode = 0050;
 },
 {
 glyphname = Q;
-lastChange = "2015-11-29 04:23:32 +0000";
+lastChange = "2016-06-04 05:40:24 +0000";
 layers = (
 {
 components = (
@@ -708,7 +737,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2015-11-28 00:25:49 +0000";
+lastChange = "2016-06-04 05:41:54 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -745,7 +774,7 @@ nodes = (
 );
 }
 );
-width = 535;
+width = 542;
 }
 );
 unicode = 0063;
@@ -1018,7 +1047,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-06-04 04:08:53 +0000";
+lastChange = "2016-06-04 05:40:37 +0000";
 layers = (
 {
 components = (
@@ -1092,7 +1121,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2016-06-04 05:09:36 +0000";
+lastChange = "2016-06-04 05:41:30 +0000";
 layers = (
 {
 components = (
@@ -1120,7 +1149,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2015-11-24 09:17:42 +0000";
+lastChange = "2016-06-04 05:41:27 +0000";
 layers = (
 {
 components = (
@@ -1224,7 +1253,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2015-11-24 09:40:59 +0000";
+lastChange = "2016-06-04 05:40:37 +0000";
 layers = (
 {
 components = (
