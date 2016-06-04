@@ -41,6 +41,8 @@
 		<integer>795</integer>
 		<integer>811</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Metropolis-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-221</integer>

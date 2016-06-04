@@ -11,4 +11,10 @@
     </contour>
     <component base="lowercase_loop" xOffset="599" xScale="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-11-24 09:17:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

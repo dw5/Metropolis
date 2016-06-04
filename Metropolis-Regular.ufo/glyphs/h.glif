@@ -11,4 +11,10 @@
     </contour>
     <component base="lowercase_nh_shoulder"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-11-24 09:41:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

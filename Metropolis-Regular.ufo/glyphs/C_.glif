@@ -32,4 +32,10 @@
       <point x="404" y="-12" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-11-28 01:05:17 +0000</string>
+    </dict>
+  </lib>
 </glyph>

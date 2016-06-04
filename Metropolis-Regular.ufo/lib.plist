@@ -24,10 +24,14 @@
 			<integer>75</integer>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>35616FF6-3D9C-499B-B113-AC9E0DB5842A</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>5</integer>
 	<key>public.glyphOrder</key>

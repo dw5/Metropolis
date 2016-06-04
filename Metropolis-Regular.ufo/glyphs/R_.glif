@@ -6,9 +6,15 @@
     <contour>
       <point x="602" y="0" type="line"/>
       <point x="413" y="269" type="line"/>
-      <point x="329" y="269" type="line"/>
-      <point x="518" y="0" type="line"/>
+      <point x="324" y="269" type="line"/>
+      <point x="513" y="0" type="line"/>
     </contour>
     <component base="P"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-06-04 03:55:52 +0000</string>
+    </dict>
+  </lib>
 </glyph>
