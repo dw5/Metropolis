@@ -1,8 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-r,
-n
+n,
+t
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -1214,7 +1214,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2016-06-04 06:26:09 +0000";
+lastChange = "2016-06-05 01:37:12 +0000";
 layers = (
 {
 components = (
@@ -1427,7 +1427,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-06-05 01:33:24 +0000";
+lastChange = "2016-06-05 01:37:18 +0000";
 layers = (
 {
 components = (
@@ -1501,7 +1501,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2016-06-04 11:57:39 +0000";
+lastChange = "2016-06-05 01:37:18 +0000";
 layers = (
 {
 components = (
@@ -1648,7 +1648,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2016-06-04 06:24:20 +0000";
+lastChange = "2016-06-05 01:44:30 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1677,8 +1677,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"295 450 LINE",
-"295 517 LINE",
+"305 450 LINE",
+"305 517 LINE",
 "37 517 LINE",
 "37 450 LINE"
 );
