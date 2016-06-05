@@ -2,9 +2,10 @@
 .appVersion = "895";
 DisplayStrings = (
 O,
-H,
+"Hello ",
 Metropolis,
-TO
+TO,
+e
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -1453,7 +1454,7 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 08:22:20 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1474,9 +1475,10 @@ nodes = (
 "123 380 OFFCURVE",
 "203 462 OFFCURVE",
 "306 462 CURVE SMOOTH",
-"407 462 OFFCURVE",
-"473 382 OFFCURVE",
-"473 297 CURVE",
+"419 462 OFFCURVE",
+"475 374 OFFCURVE",
+"475 268 CURVE",
+"518 297 LINE",
 "99 297 LINE",
 "99 230 LINE",
 "548 230 LINE",
@@ -1496,7 +1498,43 @@ width = 595;
 },
 {
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"387 -12 OFFCURVE",
+"475 21 OFFCURVE",
+"521 68 CURVE",
+"417 167 LINE",
+"386 142 OFFCURVE",
+"342 127 OFFCURVE",
+"300 127 CURVE SMOOTH",
+"236 127 OFFCURVE",
+"192 182 OFFCURVE",
+"192 259 CURVE SMOOTH",
+"192 336 OFFCURVE",
+"237 390 OFFCURVE",
+"300 390 CURVE SMOOTH",
+"356 390 OFFCURVE",
+"396 338 OFFCURVE",
+"396 265 CURVE",
+"438 314 LINE",
+"81 314 LINE",
+"81 213 LINE",
+"564 213 LINE",
+"564 412 OFFCURVE",
+"466 529 OFFCURVE",
+"300 529 CURVE SMOOTH",
+"140 529 OFFCURVE",
+"27 418 OFFCURVE",
+"27 260 CURVE SMOOTH",
+"27 101 OFFCURVE",
+"143 -12 OFFCURVE",
+"308 -12 CURVE SMOOTH"
+);
+}
+);
+width = 590;
 }
 );
 unicode = 0065;
@@ -2536,7 +2574,7 @@ unicode = 0020;
 },
 {
 glyphname = lowercase_loop;
-lastChange = "2015-11-28 01:08:34 +0000";
+lastChange = "2016-06-05 08:14:30 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -2577,12 +2615,16 @@ nodes = (
 }
 );
 width = 600;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 },
 {
 glyphname = lowercase_nh_shoulder;
-lastChange = "2015-11-28 01:07:13 +0000";
+lastChange = "2016-06-05 08:14:30 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -2609,6 +2651,10 @@ nodes = (
 );
 }
 );
+width = 600;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 width = 600;
 }
 );
