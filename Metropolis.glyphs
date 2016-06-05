@@ -2,7 +2,8 @@
 .appVersion = "895";
 DisplayStrings = (
 n,
-t
+t,
+v
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -1708,10 +1709,25 @@ unicode = 0075;
 },
 {
 glyphname = v;
+lastChange = "2016-06-05 02:11:14 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"319 0 LINE",
+"536 517 LINE",
+"452 517 LINE",
+"283 88 LINE",
+"111 517 LINE",
+"27 517 LINE",
+"247 0 LINE"
+);
+}
+);
+width = 563;
 }
 );
 unicode = 0076;
