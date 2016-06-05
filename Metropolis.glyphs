@@ -919,10 +919,28 @@ unicode = 0059;
 },
 {
 glyphname = Z;
+lastChange = "2016-06-05 02:31:29 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"583 0 LINE",
+"583 74 LINE",
+"164 74 LINE",
+"579 625 LINE",
+"579 687 LINE",
+"65 687 LINE",
+"65 613 LINE",
+"472 613 LINE",
+"58 62 LINE",
+"58 0 LINE"
+);
+}
+);
+width = 639;
 }
 );
 unicode = 005A;
@@ -1140,7 +1158,7 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2016-06-04 06:24:34 +0000";
+lastChange = "2016-06-05 02:28:12 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1176,7 +1194,7 @@ nodes = (
 );
 }
 );
-width = 339;
+width = 351;
 }
 );
 unicode = 0066;
@@ -1247,7 +1265,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2016-06-05 02:25:21 +0000";
+lastChange = "2016-06-05 02:27:05 +0000";
 layers = (
 {
 components = (
@@ -1681,7 +1699,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2016-06-05 01:44:30 +0000";
+lastChange = "2016-06-05 02:27:47 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1717,7 +1735,7 @@ nodes = (
 );
 }
 );
-width = 339;
+width = 370;
 }
 );
 unicode = 0074;
@@ -1786,7 +1804,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2016-06-05 02:25:12 +0000";
+lastChange = "2016-06-05 02:26:40 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1794,30 +1812,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"206 -179 OFFCURVE",
-"256 -146 OFFCURVE",
-"292 -58 CURVE SMOOTH",
-"528 517 LINE",
-"447 517 LINE",
-"276 87 LINE",
-"95 517 LINE",
-"12 517 LINE",
-"237 -2 LINE",
-"207 -66 LINE",
-"187 -101 OFFCURVE",
-"165 -112 OFFCURVE",
-"132 -112 CURVE SMOOTH",
-"110 -112 OFFCURVE",
-"89 -108 OFFCURVE",
-"71 -99 CURVE",
-"53 -163 LINE",
-"77 -174 OFFCURVE",
-"105 -180 OFFCURVE",
-"135 -180 CURVE SMOOTH"
+"224 -179 OFFCURVE",
+"274 -146 OFFCURVE",
+"310 -58 CURVE SMOOTH",
+"546 517 LINE",
+"465 517 LINE",
+"294 87 LINE",
+"113 517 LINE",
+"30 517 LINE",
+"255 -2 LINE",
+"225 -66 LINE",
+"205 -101 OFFCURVE",
+"183 -112 OFFCURVE",
+"150 -112 CURVE SMOOTH",
+"128 -112 OFFCURVE",
+"107 -108 OFFCURVE",
+"89 -99 CURVE",
+"71 -163 LINE",
+"95 -174 OFFCURVE",
+"123 -180 OFFCURVE",
+"153 -180 CURVE SMOOTH"
 );
 }
 );
-width = 600;
+width = 593;
 }
 );
 unicode = 0079;
