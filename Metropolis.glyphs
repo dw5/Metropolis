@@ -1,7 +1,6 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-i,
 .,
 bdlkh,
 Bb,
@@ -66,6 +65,7 @@ id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 15;
 };
+visible = 1;
 weightValue = 400;
 widthValue = 5;
 xHeight = 517;
@@ -82,6 +82,7 @@ ascender = 795;
 capHeight = 687;
 descender = -205;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+visible = 1;
 weight = Bold;
 weightValue = 900;
 widthValue = 5;
@@ -1491,7 +1492,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 03:31:23 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1527,7 +1528,35 @@ width = 225;
 },
 {
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"248 0 LINE",
+"248 517 LINE",
+"55 517 LINE",
+"55 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"207 572 OFFCURVE",
+"251 618 OFFCURVE",
+"251 672 CURVE SMOOTH",
+"251 724 OFFCURVE",
+"207 770 OFFCURVE",
+"153 770 CURVE SMOOTH",
+"97 770 OFFCURVE",
+"53 724 OFFCURVE",
+"53 672 CURVE SMOOTH",
+"53 618 OFFCURVE",
+"97 572 OFFCURVE",
+"153 572 CURVE SMOOTH"
+);
+}
+);
+width = 304;
 }
 );
 unicode = 0069;
@@ -2401,6 +2430,55 @@ instanceInterpolations = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 1;
 };
 name = Regular;
+},
+{
+interpolationWeight = 500;
+interpolationWidth = 5;
+instanceInterpolations = {
+"35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.8;
+"A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.2;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 600;
+interpolationWidth = 5;
+instanceInterpolations = {
+"35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.6;
+"A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.4;
+};
+name = "Semi Bold";
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 700;
+interpolationWidth = 5;
+instanceInterpolations = {
+"35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.4;
+"A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.6;
+};
+name = Bold;
+weightClass = Bold;
+},
+{
+interpolationWeight = 800;
+interpolationWidth = 5;
+instanceInterpolations = {
+"35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.2;
+"A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.8;
+};
+name = "Extra Bold";
+weightClass = ExtraBold;
+},
+{
+interpolationWeight = 900;
+interpolationWidth = 5;
+instanceInterpolations = {
+"A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 1;
+};
+name = Black;
+weightClass = Black;
 }
 );
 kerning = {
@@ -2432,6 +2510,7 @@ oH = 67;
 oV = 75;
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
+nV = "193";
 oH = "160";
 oV = "184";
 };
