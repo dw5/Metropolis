@@ -5,7 +5,8 @@ O,
 "Hello ",
 Metropolis,
 TO,
-e
+e,
+DOH
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -250,7 +251,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 08:54:51 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -288,7 +289,37 @@ width = 762;
 },
 {
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"316 0 LINE SMOOTH",
+"556 0 OFFCURVE",
+"726 143 OFFCURVE",
+"726 344 CURVE SMOOTH",
+"726 545 OFFCURVE",
+"556 687 OFFCURVE",
+"316 687 CURVE SMOOTH",
+"60 687 LINE",
+"60 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"254 511 LINE",
+"348 511 LINE SMOOTH",
+"452 511 OFFCURVE",
+"526 442 OFFCURVE",
+"526 344 CURVE SMOOTH",
+"526 246 OFFCURVE",
+"452 176 OFFCURVE",
+"348 176 CURVE SMOOTH",
+"254 176 LINE"
+);
+}
+);
+width = 760;
 }
 );
 unicode = 0044;
@@ -2749,6 +2780,8 @@ oV = 75;
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
 HV = "194";
+OH = "176";
+OV = "200";
 nV = "193";
 oH = "160";
 oV = "184";
