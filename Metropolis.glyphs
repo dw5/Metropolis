@@ -3,8 +3,8 @@
 DisplayStrings = (
 i,
 .,
-"Enter. This is.",
-bdlkh
+bdlkh,
+Bb
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -66,6 +66,23 @@ userData = {
 GSCornerRadius = 15;
 };
 weightValue = 400;
+widthValue = 5;
+xHeight = 517;
+},
+{
+alignmentZones = (
+"{795, 16}",
+"{687, 16}",
+"{517, 16}",
+"{0, -16}",
+"{-205, -16}"
+);
+ascender = 795;
+capHeight = 687;
+descender = -205;
+id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+weight = Bold;
+weightValue = 900;
 widthValue = 5;
 xHeight = 517;
 }
@@ -583,7 +600,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2015-11-28 01:03:15 +0000";
+lastChange = "2016-06-05 03:16:53 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -624,6 +641,10 @@ nodes = (
 }
 );
 width = 807;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 unicode = 004F;
@@ -992,7 +1013,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2016-06-04 05:09:13 +0000";
+lastChange = "2016-06-05 03:14:58 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1051,13 +1072,17 @@ nodes = (
 }
 );
 width = 573;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2016-06-05 03:09:34 +0000";
+lastChange = "2016-06-05 03:10:41 +0000";
 layers = (
 {
 components = (
@@ -1203,7 +1228,7 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2016-06-05 02:28:12 +0000";
+lastChange = "2016-06-05 03:16:53 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1240,13 +1265,17 @@ nodes = (
 }
 );
 width = 351;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2016-06-04 06:03:51 +0000";
+lastChange = "2016-06-05 03:16:53 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1304,6 +1333,10 @@ nodes = (
 }
 );
 width = 636;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 unicode = 0067;
@@ -1570,7 +1603,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2015-11-24 09:12:16 +0000";
+lastChange = "2016-06-05 03:16:53 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1611,6 +1644,10 @@ nodes = (
 }
 );
 width = 631;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 unicode = 006F;
