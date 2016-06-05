@@ -1,5 +1,9 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+r,
+n
+);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -1423,7 +1427,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-06-05 01:16:13 +0000";
+lastChange = "2016-06-05 01:33:24 +0000";
 layers = (
 {
 components = (
@@ -1553,10 +1557,35 @@ unicode = 0071;
 },
 {
 glyphname = r;
+lastChange = "2016-06-05 01:36:55 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"158 390 OFFCURVE",
+"241 462 OFFCURVE",
+"358 462 CURVE",
+"358 529 LINE",
+"231 529 OFFCURVE",
+"142 450 OFFCURVE",
+"142 339 CURVE",
+"158 289 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"158 0 LINE",
+"158 517 LINE",
+"83 517 LINE",
+"83 0 LINE"
+);
+}
+);
+width = 386;
 }
 );
 unicode = 0072;
