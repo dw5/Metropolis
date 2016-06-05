@@ -765,10 +765,31 @@ unicode = 0056;
 },
 {
 glyphname = W;
+lastChange = "2016-06-05 01:04:37 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"272 0 LINE",
+"349 0 LINE",
+"541 585 LINE",
+"732 0 LINE",
+"809 0 LINE",
+"1044 687 LINE",
+"956 687 LINE",
+"766 131 LINE",
+"584 687 LINE",
+"497 687 LINE",
+"315 131 LINE",
+"125 687 LINE",
+"37 687 LINE"
+);
+}
+);
+width = 1081;
 }
 );
 unicode = 0057;
