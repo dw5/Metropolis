@@ -2,7 +2,9 @@
 .appVersion = "895";
 DisplayStrings = (
 i,
-.
+.,
+"Enter. This is.",
+bdlkh
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -20,11 +22,50 @@ alignmentZones = (
 );
 ascender = 795;
 capHeight = 687;
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -210;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+}
+);
 descender = -205;
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 15;
 };
+weightValue = 400;
 widthValue = 5;
 xHeight = 517;
 }
@@ -1016,7 +1057,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2016-06-05 02:52:46 +0000";
+lastChange = "2016-06-05 03:09:34 +0000";
 layers = (
 {
 components = (
@@ -1088,7 +1129,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2016-06-05 02:11:35 +0000";
+lastChange = "2016-06-05 03:09:45 +0000";
 layers = (
 {
 components = (
@@ -1269,7 +1310,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2016-06-05 02:27:05 +0000";
+lastChange = "2016-06-05 03:09:51 +0000";
 layers = (
 {
 components = (
@@ -1386,7 +1427,7 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2016-06-05 02:37:25 +0000";
+lastChange = "2016-06-05 03:10:11 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1403,8 +1444,8 @@ nodes = (
 "529 517 LINE",
 "433 517 LINE",
 "150 231 LINE",
-"150 687 LINE",
-"75 687 LINE",
+"150 699 LINE",
+"75 699 LINE",
 "75 0 LINE"
 );
 }
@@ -1502,7 +1543,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-06-05 02:25:22 +0000";
+lastChange = "2016-06-05 02:57:16 +0000";
 layers = (
 {
 components = (
