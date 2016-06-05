@@ -1,11 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-.,
-bdlkh,
-Bb,
-o
-);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -1184,7 +1178,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2016-06-05 03:17:20 +0000";
+lastChange = "2016-06-05 03:38:15 +0000";
 layers = (
 {
 components = (
@@ -1461,7 +1455,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 03:38:13 +0000";
 layers = (
 {
 components = (
@@ -1746,7 +1740,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 03:38:37 +0000";
 layers = (
 {
 components = (
@@ -1896,7 +1890,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 03:38:14 +0000";
 layers = (
 {
 components = (
@@ -2074,7 +2068,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2016-06-05 03:17:29 +0000";
+lastChange = "2016-06-05 03:38:37 +0000";
 layers = (
 {
 components = (
@@ -2333,11 +2327,15 @@ unicode = 002E;
 },
 {
 glyphname = space;
-lastChange = "2016-06-04 05:17:18 +0000";
+lastChange = "2016-06-05 03:38:13 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 width = 290;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+width = 600;
 }
 );
 unicode = 0020;
