@@ -43,7 +43,7 @@ value = 795;
 },
 {
 name = hheaDescender;
-value = -210;
+value = -205;
 },
 {
 name = underlinePosition;
@@ -74,6 +74,44 @@ alignmentZones = (
 );
 ascender = 795;
 capHeight = 687;
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 descender = -205;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 visible = 1;
@@ -5145,6 +5183,44 @@ width = 600;
 );
 instances = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -5153,6 +5229,44 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 interpolationWeight = 500;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -5163,6 +5277,44 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 interpolationWeight = 600;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -5173,6 +5325,44 @@ name = "Semi Bold";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -5183,6 +5373,44 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 interpolationWeight = 800;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -5193,6 +5421,44 @@ name = "Extra Bold";
 weightClass = ExtraBold;
 },
 {
+customParameters = (
+{
+name = typoAscender;
+value = 795;
+},
+{
+name = typoDescender;
+value = -205;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 795;
+},
+{
+name = hheaDescender;
+value = -205;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+},
+{
+name = winAscent;
+value = 795;
+},
+{
+name = winDescent;
+value = 205;
+}
+);
 interpolationWeight = 900;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -5204,6 +5470,9 @@ weightClass = Black;
 );
 kerning = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = {
+C = {
+O = -15;
+};
 L = {
 V = -109;
 };
@@ -5212,9 +5481,6 @@ A = -89;
 };
 Y = {
 e = -114;
-};
-C = {
-O = -15;
 };
 slash = {
 slash = -125;

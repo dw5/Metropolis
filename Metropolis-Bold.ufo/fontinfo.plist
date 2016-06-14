@@ -14,6 +14,10 @@
 	<string>Metropolis</string>
 	<key>openTypeHeadCreated</key>
 	<string>2015/11/24 21:02:39</string>
+	<key>openTypeHheaAscender</key>
+	<integer>795</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-205</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Chris Simpson</string>
 	<key>openTypeNameDesignerURL</key>
@@ -26,10 +30,20 @@
 	<string>Metropolis</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Black</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>795</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-205</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
 	<key>openTypeOS2WeightClass</key>
 	<integer>900</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>795</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>205</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-16</integer>
@@ -48,6 +62,10 @@
 		<integer>-221</integer>
 		<integer>-205</integer>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-133</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>20</integer>
 	<key>styleMapFamilyName</key>
 	<string>Metropolis Black</string>
 	<key>styleMapStyleName</key>
