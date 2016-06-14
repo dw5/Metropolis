@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"ADD TO BAG"
+);
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
 designer = "Chris Simpson";
@@ -124,7 +127,7 @@ xHeight = 517;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2016-06-12 05:20:24 +0000";
+lastChange = "2016-06-14 13:37:54 +0000";
 layers = (
 {
 components = (
@@ -560,7 +563,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2016-06-12 05:09:55 +0000";
+lastChange = "2016-06-14 13:35:41 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -1022,7 +1025,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2016-06-12 05:28:10 +0000";
+lastChange = "2016-06-14 13:37:50 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -5485,6 +5488,12 @@ e = -114;
 slash = {
 slash = -125;
 };
+A = {
+G = -19;
+};
+T = {
+O = -43;
+};
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
 C = {
@@ -5492,6 +5501,12 @@ O = -15;
 };
 slash = {
 slash = -135;
+};
+A = {
+G = -15;
+};
+T = {
+O = -28;
 };
 };
 };
