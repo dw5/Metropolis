@@ -23,15 +23,43 @@
 			<key>oV</key>
 			<integer>75</integer>
 		</dict>
+		<key>A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B</key>
+		<dict>
+			<key>HH</key>
+			<string>173</string>
+			<key>HV</key>
+			<string>194</string>
+			<key>OH</key>
+			<string>176</string>
+			<key>OV</key>
+			<string>200</string>
+			<key>nV</key>
+			<string>193</string>
+			<key>nd</key>
+			<string>160</string>
+			<key>oH</key>
+			<string>160</string>
+			<key>oV</key>
+			<string>184</string>
+			<key>tH</key>
+			<string>152</string>
+		</dict>
 	</dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<integer>74</integer>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>35616FF6-3D9C-499B-B113-AC9E0DB5842A</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
+	<key>com.schriftgestaltung.weightValue</key>
+	<integer>400</integer>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>5</integer>
 	<key>public.glyphOrder</key>
@@ -88,6 +116,9 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>a.001</string>
+		<string>comma</string>
+		<string>period</string>
 		<string>space</string>
 		<string>lowercase_loop</string>
 		<string>lowercase_nh_shoulder</string>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d" format="1">
-  <advance width="622"/>
+  <advance width="638"/>
   <unicode hex="0064"/>
   <outline>
     <contour>
-      <point x="546" y="1" type="line"/>
-      <point x="546" y="699" type="line"/>
-      <point x="471" y="699" type="line"/>
-      <point x="471" y="1" type="line"/>
+      <point x="555" y="1" type="line"/>
+      <point x="555" y="699" type="line"/>
+      <point x="480" y="699" type="line"/>
+      <point x="480" y="1" type="line"/>
     </contour>
-    <component base="lowercase_loop" xOffset="599" xScale="-1"/>
+    <component base="lowercase_loop" xOffset="608" xScale="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-11-24 09:19:19 +0000</string>
+      <string>2016-06-14 10:53:45 +0000</string>
     </dict>
   </lib>
 </glyph>

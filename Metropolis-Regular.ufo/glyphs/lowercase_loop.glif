@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lowercase_loop" format="1">
-  <advance width="600"/>
+  <advance width="608"/>
   <outline>
     <contour>
       <point x="452" y="-12"/>
@@ -34,7 +34,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-11-28 01:08:34 +0000</string>
+      <string>2016-06-07 09:04:29 +0000</string>
     </dict>
   </lib>
 </glyph>

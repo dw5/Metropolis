@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="674"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="623" y="1" type="line"/>
+      <point x="623" y="699" type="line"/>
+      <point x="430" y="699" type="line"/>
+      <point x="430" y="1" type="line"/>
+    </contour>
+    <component base="lowercase_loop" xOffset="625" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-06-14 10:53:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

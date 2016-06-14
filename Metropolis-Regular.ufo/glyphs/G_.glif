@@ -1,23 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="1">
-  <advance width="680"/>
+  <advance width="745"/>
   <unicode hex="0047"/>
   <outline>
     <contour>
-      <point x="605" y="288" type="line"/>
-      <point x="573" y="329" type="line"/>
-      <point x="573" y="93" type="line"/>
-      <point x="651" y="93" type="line"/>
-      <point x="651" y="362" type="line"/>
-      <point x="376" y="362" type="line"/>
-      <point x="376" y="288" type="line"/>
+      <point x="499" y="-12"/>
+      <point x="607" y="29"/>
+      <point x="671" y="93" type="curve"/>
+      <point x="618" y="147" type="line"/>
+      <point x="568" y="94"/>
+      <point x="479" y="60"/>
+      <point x="404" y="60" type="curve" smooth="yes"/>
+      <point x="256" y="60"/>
+      <point x="131" y="190"/>
+      <point x="131" y="344" type="curve" smooth="yes"/>
+      <point x="131" y="497"/>
+      <point x="256" y="627"/>
+      <point x="404" y="627" type="curve" smooth="yes"/>
+      <point x="479" y="627"/>
+      <point x="568" y="593"/>
+      <point x="618" y="540" type="curve"/>
+      <point x="671" y="594" type="line"/>
+      <point x="607" y="659"/>
+      <point x="499" y="699"/>
+      <point x="404" y="699" type="curve" smooth="yes"/>
+      <point x="214" y="699"/>
+      <point x="52" y="537"/>
+      <point x="52" y="344" type="curve" smooth="yes"/>
+      <point x="52" y="151"/>
+      <point x="214" y="-12"/>
+      <point x="404" y="-12" type="curve" smooth="yes"/>
     </contour>
-    <component base="C"/>
+    <contour>
+      <point x="671" y="93" type="line"/>
+      <point x="671" y="362" type="line"/>
+      <point x="396" y="362" type="line"/>
+      <point x="396" y="288" type="line"/>
+      <point x="625" y="288" type="line"/>
+      <point x="593" y="329" type="line"/>
+      <point x="593" y="93" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-11-29 03:01:01 +0000</string>
+      <string>2016-06-12 05:09:55 +0000</string>
     </dict>
   </lib>
 </glyph>
