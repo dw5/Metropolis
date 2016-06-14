@@ -114,8 +114,23 @@
 		<string>y</string>
 		<string>z</string>
 		<string>a.001</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>colon</string>
 		<string>comma</string>
+		<string>exclam</string>
 		<string>period</string>
+		<string>question</string>
+		<string>semicolon</string>
+		<string>slash</string>
 		<string>space</string>
 		<string>lowercase_loop</string>
 		<string>lowercase_nh_shoulder</string>

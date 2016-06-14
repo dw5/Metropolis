@@ -7,5 +7,10 @@
 		<key>O</key>
 		<integer>-15</integer>
 	</dict>
+	<key>slash</key>
+	<dict>
+		<key>slash</key>
+		<integer>-135</integer>
+	</dict>
 </dict>
 </plist>

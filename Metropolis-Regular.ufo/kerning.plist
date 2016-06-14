@@ -22,5 +22,10 @@
 		<key>e</key>
 		<integer>-114</integer>
 	</dict>
+	<key>slash</key>
+	<dict>
+		<key>slash</key>
+		<integer>-125</integer>
+	</dict>
 </dict>
 </plist>
