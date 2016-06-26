@@ -1,3 +1,5 @@
+![Metropolis](https://github.com/chrismsimpson/Metropolis/blob/master/Images/metropolis-1.png)
+
 # The Metropolis Typeface
 
 The Vision
