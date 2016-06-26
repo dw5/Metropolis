@@ -114,6 +114,7 @@
 		<string>y</string>
 		<string>z</string>
 		<string>a.001</string>
+		<string>j.001</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -124,6 +125,7 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>backslash</string>
 		<string>colon</string>
 		<string>comma</string>
 		<string>exclam</string>
@@ -131,7 +133,16 @@
 		<string>question</string>
 		<string>semicolon</string>
 		<string>slash</string>
+		<string>bracketleft</string>
+		<string>bracketright</string>
+		<string>parenleft</string>
+		<string>parenright</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
 		<string>space</string>
+		<string>ampersand</string>
 		<string>lowercase_loop</string>
 		<string>lowercase_nh_shoulder</string>
 	</array>

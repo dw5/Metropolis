@@ -3,46 +3,13 @@
   <advance width="264"/>
   <unicode hex="003B"/>
   <outline>
-    <contour>
-      <point x="157" y="-100"/>
-      <point x="193" y="-55"/>
-      <point x="193" y="15" type="curve" smooth="yes"/>
-      <point x="193" y="62"/>
-      <point x="168" y="96"/>
-      <point x="133" y="96" type="curve" smooth="yes"/>
-      <point x="103" y="96"/>
-      <point x="77" y="72"/>
-      <point x="77" y="43" type="curve" smooth="yes"/>
-      <point x="77" y="13"/>
-      <point x="95" y="3"/>
-      <point x="116" y="-15" type="curve"/>
-      <point x="125" y="-22"/>
-      <point x="129" y="-31"/>
-      <point x="129" y="-40" type="curve" smooth="yes"/>
-      <point x="129" y="-60"/>
-      <point x="110" y="-83"/>
-      <point x="72" y="-102" type="curve"/>
-      <point x="97" y="-135" type="line"/>
-    </contour>
-    <contour>
-      <point x="161" y="403"/>
-      <point x="185" y="428"/>
-      <point x="185" y="458" type="curve" smooth="yes"/>
-      <point x="185" y="486"/>
-      <point x="161" y="511"/>
-      <point x="132" y="511" type="curve" smooth="yes"/>
-      <point x="101" y="511"/>
-      <point x="77" y="486"/>
-      <point x="77" y="458" type="curve" smooth="yes"/>
-      <point x="77" y="428"/>
-      <point x="101" y="403"/>
-      <point x="132" y="403" type="curve" smooth="yes"/>
-    </contour>
+    <component base="comma"/>
+    <component base="period" xOffset="4" yOffset="415"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-14 12:25:33 +0000</string>
+      <string>2016-06-25 23:28:59 +0000</string>
     </dict>
   </lib>
 </glyph>
