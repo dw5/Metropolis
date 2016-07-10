@@ -12,7 +12,9 @@ m,
 x,
 //,
 "<",
-/perthousand
+/perthousand,
+"@",
+"#"
 );
 copyright = "Copyright (c) 2015 Chris Simpson";
 date = "2015-11-24 10:02:39 +0000";
@@ -4919,6 +4921,97 @@ width = 273;
 unicode = 0021;
 },
 {
+glyphname = numbersign;
+lastChange = "2016-07-10 05:01:16 +0000";
+layers = (
+{
+layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+paths = (
+{
+closed = 1;
+nodes = (
+"173 0 LINE",
+"346 687 LINE",
+"280 687 LINE",
+"107 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 0 LINE",
+"562 687 LINE",
+"496 687 LINE",
+"323 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"552 179 LINE",
+"567 240 LINE",
+"54 240 LINE",
+"39 179 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"619 446 LINE",
+"634 507 LINE",
+"120 507 LINE",
+"105 446 LINE"
+);
+}
+);
+width = 674;
+},
+{
+layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+paths = (
+{
+closed = 1;
+nodes = (
+"205 0 LINE",
+"378 687 LINE",
+"243 687 LINE",
+"70 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"432 0 LINE",
+"605 687 LINE",
+"470 687 LINE",
+"297 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"553 147 LINE",
+"586 281 LINE",
+"59 281 LINE",
+"26 147 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"617 404 LINE",
+"650 538 LINE",
+"120 538 LINE",
+"87 404 LINE"
+);
+}
+);
+width = 676;
+}
+);
+unicode = 0023;
+},
+{
 glyphname = period;
 lastChange = "2016-06-12 03:39:01 +0000";
 layers = (
@@ -6785,7 +6878,7 @@ unicode = 2030;
 },
 {
 glyphname = at;
-lastChange = "2016-07-04 11:43:49 +0000";
+lastChange = "2016-07-10 04:45:20 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -6897,7 +6990,7 @@ nodes = (
 "662 163 OFFCURVE",
 "644 181 OFFCURVE",
 "644 211 CURVE SMOOTH",
-"648 255 OFFCURVE",
+"644 255 OFFCURVE",
 "660 306 OFFCURVE",
 "694 484 CURVE",
 "538 496 LINE",
