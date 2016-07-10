@@ -33,8 +33,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-07 09:04:29 +0000</string>
+      <string>2016-07-04 11:33:58 +0000</string>
     </dict>
   </lib>
 </glyph>

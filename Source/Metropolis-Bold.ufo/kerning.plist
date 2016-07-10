@@ -29,6 +29,11 @@
 		<key>A</key>
 		<integer>-85</integer>
 	</dict>
+	<key>c</key>
+	<dict>
+		<key>o</key>
+		<integer>-11</integer>
+	</dict>
 	<key>o</key>
 	<dict>
 		<key>w</key>
@@ -43,6 +48,18 @@
 	<dict>
 		<key>slash</key>
 		<integer>-135</integer>
+	</dict>
+	<key>v</key>
+	<dict>
+		<key>d</key>
+		<integer>-21</integer>
+	</dict>
+	<key>y</key>
+	<dict>
+		<key>e</key>
+		<integer>-23</integer>
+		<key>o</key>
+		<integer>-30</integer>
 	</dict>
 </dict>
 </plist>
