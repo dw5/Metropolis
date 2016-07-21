@@ -6,13 +6,24 @@
 	<dict>
 		<key>G</key>
 		<integer>-15</integer>
+		<key>T</key>
+		<integer>-68</integer>
 		<key>V</key>
-		<integer>-10</integer>
+		<integer>-85</integer>
+		<key>W</key>
+		<integer>-40</integer>
+		<key>Y</key>
+		<integer>-35</integer>
 	</dict>
 	<key>C</key>
 	<dict>
 		<key>O</key>
 		<integer>-15</integer>
+	</dict>
+	<key>K</key>
+	<dict>
+		<key>A</key>
+		<integer>40</integer>
 	</dict>
 	<key>L</key>
 	<dict>
@@ -28,6 +39,16 @@
 	<dict>
 		<key>A</key>
 		<integer>-85</integer>
+	</dict>
+	<key>W</key>
+	<dict>
+		<key>A</key>
+		<integer>-40</integer>
+	</dict>
+	<key>Y</key>
+	<dict>
+		<key>A</key>
+		<integer>-5</integer>
 	</dict>
 	<key>c</key>
 	<dict>

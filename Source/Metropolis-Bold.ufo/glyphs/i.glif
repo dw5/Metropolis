@@ -4,12 +4,6 @@
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="248" y="0" type="line"/>
-      <point x="248" y="517" type="line"/>
-      <point x="55" y="517" type="line"/>
-      <point x="55" y="0" type="line"/>
-    </contour>
-    <contour>
       <point x="207" y="572"/>
       <point x="251" y="618"/>
       <point x="251" y="672" type="curve" smooth="yes"/>
@@ -23,11 +17,18 @@
       <point x="97" y="572"/>
       <point x="153" y="572" type="curve" smooth="yes"/>
     </contour>
+    <component base="idotless"/>
+    <contour>
+      <point x="248" y="0" type="move" name="onogek"/>
+    </contour>
+    <contour>
+      <point x="152" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-06-05 03:31:23 +0000</string>
+      <string>2016-07-21 10:39:53 +0000</string>
     </dict>
   </lib>
 </glyph>
