@@ -10,10 +10,9 @@ The Plan
 ---
 My current plan is:
 
-1. Start with a 'regular' design (weight and width, as well as default metrics and glyph variations)
-2. Design a 'black' weight at the above regular width to create instances at various weights
-3. Start designing other widths or a light/hairline weight
-4. Design 'rounded', 'slab' or other variations
+1. Complete a 'thin' weight for 9 default styles
+2. Create italicized versions of the 3 master weights for 18 styles
+3. Create 'rounded' and/or 'slab' or versions
 
 The License
 ---
@@ -21,6 +20,6 @@ Licensed under Open Font License (OFL). Available to anyone and everyone. Contri
 
 Contact
 ---
-Contact me via chris@victoryonemedia.com or http://twitter.com/ChrisMSimpson for any questions, requests or improvements (or just submit a pull request).
+Contact me via chris.m.simpson@icloud.com or http://twitter.com/ChrisMSimpson for any questions, requests or improvements (or just submit a pull request).
 
 
