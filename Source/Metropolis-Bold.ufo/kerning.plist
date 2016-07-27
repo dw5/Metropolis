@@ -44,16 +44,32 @@
 	<dict>
 		<key>A</key>
 		<integer>-40</integer>
+		<key>o</key>
+		<integer>-5</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
 		<key>A</key>
 		<integer>-5</integer>
+		<key>e</key>
+		<integer>-72</integer>
+	</dict>
+	<key>backslash</key>
+	<dict>
+		<key>backslash</key>
+		<integer>-135</integer>
+		<key>slash</key>
+		<integer>90</integer>
 	</dict>
 	<key>c</key>
 	<dict>
 		<key>o</key>
 		<integer>-11</integer>
+	</dict>
+	<key>e</key>
+	<dict>
+		<key>Y</key>
+		<integer>-72</integer>
 	</dict>
 	<key>o</key>
 	<dict>

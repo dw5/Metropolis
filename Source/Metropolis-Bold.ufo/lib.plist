@@ -22,6 +22,19 @@
 			<integer>67</integer>
 			<key>oV</key>
 			<integer>75</integer>
+			<key>tH</key>
+			<string>67</string>
+		</dict>
+		<key>3B040282-CF47-4846-BCAF-7BFF90FB63BC</key>
+		<dict>
+			<key>OH</key>
+			<string>34</string>
+			<key>OV</key>
+			<string>36</string>
+			<key>nV</key>
+			<string>36</string>
+			<key>nd</key>
+			<string>34</string>
 		</dict>
 		<key>A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B</key>
 		<dict>
@@ -64,10 +77,15 @@
 	<integer>900</integer>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>5</integer>
+	<key>com.typemytype.robofont.layerOrder</key>
+	<array>
+		<string>background</string>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
 		<string>Aacute</string>
+		<string>Abreve</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
@@ -108,11 +126,13 @@
 		<string>R</string>
 		<string>S</string>
 		<string>T</string>
+		<string>Tcedilla</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
 		<string>Ugrave</string>
+		<string>Uring</string>
 		<string>V</string>
 		<string>W</string>
 		<string>Wacute</string>
@@ -128,6 +148,7 @@
 		<string>Z</string>
 		<string>a</string>
 		<string>aacute</string>
+		<string>abreve</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
@@ -172,11 +193,13 @@
 		<string>s</string>
 		<string>germandbls</string>
 		<string>t</string>
+		<string>tcedilla</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
+		<string>uring</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -192,6 +215,7 @@
 		<string>z</string>
 		<string>a.alt</string>
 		<string>aacute.alt</string>
+		<string>abreve.alt</string>
 		<string>acircumflex.alt</string>
 		<string>adieresis.alt</string>
 		<string>agrave.alt</string>
@@ -257,6 +281,7 @@
 		<string>bar</string>
 		<string>asciicircum</string>
 		<string>acute</string>
+		<string>breve</string>
 		<string>cedilla</string>
 		<string>circumflex</string>
 		<string>dieresis</string>

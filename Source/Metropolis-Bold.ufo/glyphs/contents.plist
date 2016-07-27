@@ -6,6 +6,8 @@
 	<string>A_.glif</string>
 	<key>Aacute</key>
 	<string>A_acute.glif</string>
+	<key>Abreve</key>
+	<string>A_breve.glif</string>
 	<key>Acircumflex</key>
 	<string>A_circumflex.glif</string>
 	<key>Adieresis</key>
@@ -86,6 +88,8 @@
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>Tcedilla</key>
+	<string>T_cedilla.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>Uacute</key>
@@ -96,6 +100,8 @@
 	<string>U_dieresis.glif</string>
 	<key>Ugrave</key>
 	<string>U_grave.glif</string>
+	<key>Uring</key>
+	<string>U_ring.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>W</key>
@@ -130,6 +136,10 @@
 	<string>aacute.glif</string>
 	<key>aacute.alt</key>
 	<string>aacute.alt.glif</string>
+	<key>abreve</key>
+	<string>abreve.glif</string>
+	<key>abreve.alt</key>
+	<string>abreve.alt.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
 	<key>acircumflex.alt</key>
@@ -176,6 +186,8 @@
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>breve</key>
+	<string>breve.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>ccedilla</key>
@@ -354,6 +366,8 @@
 	<string>sterling.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>tcedilla</key>
+	<string>tcedilla.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>tilde</key>
@@ -372,6 +386,8 @@
 	<string>ugrave.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>uring</key>
+	<string>uring.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
