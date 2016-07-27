@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="552"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="113" y="0" type="line"/>
+      <point x="113" y="699" type="line"/>
+      <point x="77" y="699" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <component base="lowercase_nh_shoulder" xOffset="-39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 02:35:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

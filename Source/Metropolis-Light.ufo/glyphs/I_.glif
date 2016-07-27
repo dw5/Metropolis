@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="194"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="687" type="line"/>
+      <point x="79" y="687" type="line"/>
+      <point x="79" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="687" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-21 14:59:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

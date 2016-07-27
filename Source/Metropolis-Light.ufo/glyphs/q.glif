@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="1">
+  <advance width="609"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="526" y="-172" type="line"/>
+      <point x="526" y="517" type="line"/>
+      <point x="490" y="517" type="line"/>
+      <point x="490" y="-172" type="line"/>
+    </contour>
+    <component base="lowercase_loop" xOffset="615" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 02:35:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

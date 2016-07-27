@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="710"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="571" y="175" type="line"/>
+      <point x="571" y="211" type="line"/>
+      <point x="132" y="211" type="line"/>
+      <point x="132" y="175" type="line"/>
+    </contour>
+    <component base="V" xOffset="710" yOffset="687" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="355" y="687" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-27 02:34:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>
