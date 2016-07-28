@@ -1,8 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-/Abreve,
-/breve/ring
+"The quick brown\012fox jumps over\012the lazy dog",
+" "
 );
 copyright = "Copyright © 2016 by Chris Simpson.";
 date = "2016-07-27 02:35:59 +0000";
@@ -212,7 +212,7 @@ xHeight = 517;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2016-07-27 02:34:28 +0000";
+lastChange = "2016-07-28 00:37:14 +0000";
 layers = (
 {
 anchors = (
@@ -5150,7 +5150,7 @@ unicode = 00E3;
 },
 {
 glyphname = b;
-lastChange = "2016-07-27 00:32:21 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 components = (
@@ -5402,7 +5402,7 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2016-07-27 02:34:30 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 components = (
@@ -6157,7 +6157,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2016-07-27 02:35:12 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 components = (
@@ -6226,7 +6226,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2016-07-27 01:49:52 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 anchors = (
@@ -6607,7 +6607,7 @@ unicode = 00EC;
 },
 {
 glyphname = j;
-lastChange = "2016-07-27 01:49:57 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 components = (
@@ -7117,7 +7117,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-07-27 00:35:58 +0000";
+lastChange = "2016-07-28 00:37:44 +0000";
 layers = (
 {
 anchors = (
@@ -7740,7 +7740,7 @@ unicode = 00F5;
 },
 {
 glyphname = p;
-lastChange = "2016-07-27 00:32:21 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 components = (
@@ -7810,7 +7810,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-07-27 02:35:12 +0000";
+lastChange = "2016-07-28 00:38:12 +0000";
 layers = (
 {
 components = (
@@ -8512,7 +8512,7 @@ unicode = 0163;
 },
 {
 glyphname = u;
-lastChange = "2016-07-27 00:35:58 +0000";
+lastChange = "2016-07-28 00:37:44 +0000";
 layers = (
 {
 anchors = (
@@ -13414,7 +13414,7 @@ unicode = 2019;
 },
 {
 glyphname = space;
-lastChange = "2016-07-21 14:28:38 +0000";
+lastChange = "2016-07-28 00:38:11 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -13426,7 +13426,7 @@ width = 272;
 },
 {
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
-width = 600;
+width = 290;
 }
 );
 unicode = 0020;
