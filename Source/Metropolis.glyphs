@@ -17430,7 +17430,6 @@ instanceInterpolations = {
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = 0.4;
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = 0.6;
 };
-isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
@@ -17533,23 +17532,12 @@ weightClass = Black;
 );
 kerning = {
 "3B040282-CF47-4846-BCAF-7BFF90FB63BC" = {
-W = {
-o = -35;
-A = -40;
-};
-c = {
-o = -11;
-};
 A = {
 G = -19;
 T = -62;
+V = -89;
 W = -40;
 Y = -35;
-V = -89;
-};
-Y = {
-e = -90;
-A = -35;
 };
 C = {
 O = -15;
@@ -17566,6 +17554,24 @@ O = -43;
 V = {
 A = -89;
 };
+W = {
+A = -40;
+o = -35;
+};
+Y = {
+A = -35;
+e = -90;
+};
+backslash = {
+backslash = -125;
+slash = 70;
+};
+c = {
+o = -11;
+};
+e = {
+Y = -90;
+};
 o = {
 w = -19;
 };
@@ -17575,19 +17581,12 @@ o = -17;
 slash = {
 slash = -125;
 };
-backslash = {
-backslash = -125;
-slash = 70;
+v = {
+d = -19;
 };
 y = {
 e = -23;
 o = -30;
-};
-v = {
-d = -19;
-};
-e = {
-Y = -90;
 };
 };
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = {
@@ -17621,8 +17620,15 @@ Y = {
 A = -35;
 e = -90;
 };
+backslash = {
+backslash = -125;
+slash = 70;
+};
 c = {
 o = -11;
+};
+e = {
+Y = -90;
 };
 o = {
 w = -19;
@@ -17639,13 +17645,6 @@ d = -19;
 y = {
 e = -23;
 o = -30;
-};
-backslash = {
-backslash = -125;
-slash = 70;
-};
-e = {
-Y = -90;
 };
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
@@ -17679,8 +17678,15 @@ Y = {
 A = -5;
 e = -72;
 };
+backslash = {
+backslash = -135;
+slash = 90;
+};
 c = {
 o = -11;
+};
+e = {
+Y = -72;
 };
 o = {
 w = -19;
@@ -17697,13 +17703,6 @@ d = -21;
 y = {
 e = -23;
 o = -30;
-};
-backslash = {
-backslash = -135;
-slash = 90;
-};
-e = {
-Y = -72;
 };
 };
 };
