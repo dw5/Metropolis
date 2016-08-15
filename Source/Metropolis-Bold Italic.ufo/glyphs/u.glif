@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="627"/>
+  <unicode hex="0075"/>
+  <outline>
+    <component base="n" xOffset="627" yOffset="517" xScale="-1" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-14 11:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

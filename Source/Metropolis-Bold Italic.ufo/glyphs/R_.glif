@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="1">
+  <advance width="721"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="650" y="0" type="line"/>
+      <point x="487" y="269" type="line"/>
+      <point x="271" y="269" type="line"/>
+      <point x="434" y="0" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-14 08:12:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

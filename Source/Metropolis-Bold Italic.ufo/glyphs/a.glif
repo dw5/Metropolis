@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="676"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="571" y="0" type="line"/>
+      <point x="679" y="517" type="line"/>
+      <point x="486" y="517" type="line"/>
+      <point x="378" y="0" type="line"/>
+    </contour>
+    <component base="lowercase_loop_reverse" xOffset="-99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-07 12:50:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

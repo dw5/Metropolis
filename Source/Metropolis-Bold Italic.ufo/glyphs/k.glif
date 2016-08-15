@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="580"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="210" y="119" type="line"/>
+      <point x="265" y="171" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="412" y="294" type="line"/>
+      <point x="641" y="517" type="line"/>
+      <point x="421" y="517" type="line"/>
+      <point x="250" y="336" type="line"/>
+      <point x="328" y="699" type="line"/>
+      <point x="143" y="699" type="line"/>
+      <point x="-3" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-07 12:22:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

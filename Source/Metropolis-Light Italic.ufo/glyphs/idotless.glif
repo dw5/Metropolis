@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="186"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="165" y="517" type="line"/>
+      <point x="129" y="517" type="line"/>
+      <point x="21" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-07 12:33:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

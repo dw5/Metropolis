@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="534"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="446" y="0" type="line"/>
+      <point x="454" y="36" type="line"/>
+      <point x="47" y="36" type="line"/>
+      <point x="56" y="24" type="line"/>
+      <point x="193" y="687" type="line"/>
+      <point x="157" y="687" type="line"/>
+      <point x="14" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-08 10:36:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

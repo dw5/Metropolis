@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="627"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="191" y="0" type="line"/>
+      <point x="298" y="517" type="line"/>
+      <point x="105" y="517" type="line"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
+    <component base="lowercase_nh_shoulder" xOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-14 11:56:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>
