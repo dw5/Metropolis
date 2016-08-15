@@ -40,6 +40,8 @@
 	<string>F_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
+	<key>Gbreve</key>
+	<string>G_breve.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
 	<key>I</key>
@@ -50,6 +52,8 @@
 	<string>I_circumflex.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
+	<key>Idotaccent</key>
+	<string>I_dotaccent.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>J</key>
@@ -86,6 +90,8 @@
 	<string>R_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>Scedilla</key>
+	<string>S_cedilla.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>Tcedilla</key>
@@ -246,6 +252,8 @@
 	<string>four.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>gbreve</key>
+	<string>gbreve.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
 	<key>grave</key>
@@ -280,6 +288,8 @@
 	<string>less.glif</string>
 	<key>lowercase_loop</key>
 	<string>lowercase_loop.glif</string>
+	<key>lowercase_loop_reverse</key>
+	<string>lowercase_loop_reverse.glif</string>
 	<key>lowercase_nh_shoulder</key>
 	<string>lowercase_nh_shoulder.glif</string>
 	<key>m</key>
@@ -352,6 +362,8 @@
 	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>scedilla</key>
+	<string>scedilla.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
 	<key>seven</key>

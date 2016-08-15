@@ -43,17 +43,28 @@
       <point x="187" y="-12"/>
       <point x="259" y="-12" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="248" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-07-26 14:46:30 +0000</string>
+      <string>2016-08-15 08:42:05 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Intermediate {700, 5}</key>
         <dict>
           <key>anchors</key>
           <array>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <integer>251</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
           </array>
           <key>components</key>
           <array>
@@ -241,7 +252,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>48</integer>
+                  <integer>47</integer>
                   <key>y</key>
                   <integer>459</integer>
                 </dict>
@@ -259,7 +270,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>48</integer>
+                  <integer>49</integer>
                   <key>y</key>
                   <integer>259</integer>
                 </dict>

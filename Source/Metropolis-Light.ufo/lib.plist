@@ -95,11 +95,13 @@
 		<string>Egrave</string>
 		<string>F</string>
 		<string>G</string>
+		<string>Gbreve</string>
 		<string>H</string>
 		<string>I</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
+		<string>Idotaccent</string>
 		<string>Igrave</string>
 		<string>J</string>
 		<string>K</string>
@@ -118,6 +120,7 @@
 		<string>Q</string>
 		<string>R</string>
 		<string>S</string>
+		<string>Scedilla</string>
 		<string>T</string>
 		<string>Tcedilla</string>
 		<string>U</string>
@@ -158,6 +161,7 @@
 		<string>egrave</string>
 		<string>f</string>
 		<string>g</string>
+		<string>gbreve</string>
 		<string>h</string>
 		<string>i</string>
 		<string>idotless</string>
@@ -184,6 +188,7 @@
 		<string>q</string>
 		<string>r</string>
 		<string>s</string>
+		<string>scedilla</string>
 		<string>germandbls</string>
 		<string>t</string>
 		<string>tcedilla</string>
@@ -284,6 +289,7 @@
 		<string>tilde</string>
 		<string>lowercase_loop</string>
 		<string>lowercase_nh_shoulder</string>
+		<string>lowercase_loop_reverse</string>
 	</array>
 </dict>
 </plist>
