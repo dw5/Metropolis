@@ -44,6 +44,8 @@
 	<dict>
 		<key>A</key>
 		<integer>-89</integer>
+		<key>o</key>
+		<integer>-68</integer>
 	</dict>
 	<key>W</key>
 	<dict>
@@ -58,6 +60,8 @@
 		<integer>-35</integer>
 		<key>e</key>
 		<integer>-90</integer>
+		<key>o</key>
+		<integer>-114</integer>
 	</dict>
 	<key>backslash</key>
 	<dict>

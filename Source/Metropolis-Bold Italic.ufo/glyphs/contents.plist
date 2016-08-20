@@ -22,14 +22,20 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>Ccaron</key>
+	<string>C_caron.glif</string>
 	<key>Ccedilla</key>
 	<string>C_cedilla.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
+	<key>Dcaron</key>
+	<string>D_caron.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>Eacute</key>
 	<string>E_acute.glif</string>
+	<key>Ecaron</key>
+	<string>E_caron.glif</string>
 	<key>Ecircumflex</key>
 	<string>E_circumflex.glif</string>
 	<key>Edieresis</key>
@@ -66,6 +72,8 @@
 	<string>M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>Ncaron</key>
+	<string>N_caron.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>O</key>
@@ -88,12 +96,22 @@
 	<string>Q_.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
+	<key>Racute</key>
+	<string>R_acute.glif</string>
+	<key>Rcaron</key>
+	<string>R_caron.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
+	<key>Sacute</key>
+	<string>S_acute.glif</string>
+	<key>Scaron</key>
+	<string>S_caron.glif</string>
 	<key>Scedilla</key>
 	<string>S_cedilla.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>Tcaron</key>
+	<string>T_caron.glif</string>
 	<key>Tcedilla</key>
 	<string>T_cedilla.glif</string>
 	<key>U</key>
@@ -134,6 +152,10 @@
 	<string>Y_grave.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>Zacute</key>
+	<string>Z_acute.glif</string>
+	<key>Zcaron</key>
+	<string>Z_caron.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>a.alt</key>
@@ -196,6 +218,10 @@
 	<string>breve.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>caron</key>
+	<string>caron.glif</string>
+	<key>ccaron</key>
+	<string>ccaron.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
 	<key>cedilla</key>
@@ -210,6 +236,8 @@
 	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>dcaron</key>
+	<string>dcaron.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>divide</key>
@@ -222,6 +250,8 @@
 	<string>e.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
+	<key>ecaron</key>
+	<string>ecaron.glif</string>
 	<key>ecircumflex</key>
 	<string>ecircumflex.glif</string>
 	<key>edieresis</key>
@@ -302,6 +332,8 @@
 	<string>n.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>ncaron</key>
+	<string>ncaron.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>ntilde</key>
@@ -358,10 +390,18 @@
 	<string>quotesingle.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>racute</key>
+	<string>racute.glif</string>
+	<key>rcaron</key>
+	<string>rcaron.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>sacute</key>
+	<string>sacute.glif</string>
+	<key>scaron</key>
+	<string>scaron.glif</string>
 	<key>scedilla</key>
 	<string>scedilla.glif</string>
 	<key>semicolon</key>
@@ -378,6 +418,8 @@
 	<string>sterling.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>tcaron</key>
+	<string>tcaron.glif</string>
 	<key>tcedilla</key>
 	<string>tcedilla.glif</string>
 	<key>three</key>
@@ -428,6 +470,10 @@
 	<string>ygrave.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>zacute</key>
+	<string>zacute.glif</string>
+	<key>zcaron</key>
+	<string>zcaron.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 </dict>
