@@ -44,6 +44,10 @@
 	<dict>
 		<key>A</key>
 		<integer>-85</integer>
+		<key>c</key>
+		<integer>-71</integer>
+		<key>e</key>
+		<integer>-71</integer>
 		<key>o</key>
 		<integer>-71</integer>
 	</dict>
@@ -51,15 +55,21 @@
 	<dict>
 		<key>A</key>
 		<integer>-40</integer>
+		<key>c</key>
+		<integer>-50</integer>
+		<key>e</key>
+		<integer>-50</integer>
 		<key>o</key>
-		<integer>-5</integer>
+		<integer>-50</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
 		<key>A</key>
 		<integer>-5</integer>
+		<key>c</key>
+		<integer>-113</integer>
 		<key>e</key>
-		<integer>-72</integer>
+		<integer>-113</integer>
 		<key>o</key>
 		<integer>-113</integer>
 	</dict>
@@ -72,16 +82,32 @@
 	</dict>
 	<key>c</key>
 	<dict>
+		<key>V</key>
+		<integer>-71</integer>
+		<key>W</key>
+		<integer>-50</integer>
+		<key>Y</key>
+		<integer>-113</integer>
 		<key>o</key>
 		<integer>-11</integer>
 	</dict>
 	<key>e</key>
 	<dict>
+		<key>V</key>
+		<integer>-71</integer>
+		<key>W</key>
+		<integer>-50</integer>
 		<key>Y</key>
-		<integer>-72</integer>
+		<integer>-113</integer>
 	</dict>
 	<key>o</key>
 	<dict>
+		<key>V</key>
+		<integer>-71</integer>
+		<key>W</key>
+		<integer>-50</integer>
+		<key>Y</key>
+		<integer>-113</integer>
 		<key>w</key>
 		<integer>-19</integer>
 	</dict>

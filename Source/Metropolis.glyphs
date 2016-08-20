@@ -1,23 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-/hungarumlaut,
-"\U00B4/hungarumlaut",
-"\U00AF",
-"/circumflex \U00AF",
-/commaaccentcomb,
-"/Edotbelow/edotbelow N/Ncommaaccent n/ncommaaccent",
-"/commaaccentcomb \U00B8",
-L/Lcaron/dcaron/tcaron,
-/uhungarumlaut,
-/Uhungarumlaut,
-"N/Ncommaaccent R/Rcommaaccent",
-/Rcommaaccent,
-G/Gcommaaccent,
-g,
-/gcommaaccent,
-/edotaccent/gcommaaccent
-);
 copyright = "Copyright © 2016 by Chris Simpson.";
 date = "2016-07-29 23:55:50 +0000";
 designer = "Chris Simpson";
@@ -2776,7 +2758,7 @@ unicode = 00CB;
 },
 {
 glyphname = Edotaccent;
-lastChange = "2016-08-20 03:28:40 +0000";
+lastChange = "2016-08-20 03:53:44 +0000";
 layers = (
 {
 components = (
@@ -8876,7 +8858,7 @@ unicode = 016E;
 },
 {
 glyphname = V;
-lastChange = "2016-08-06 02:24:05 +0000";
+lastChange = "2016-08-20 03:57:02 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -9027,7 +9009,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2016-08-08 22:57:27 +0000";
+lastChange = "2016-08-20 03:58:52 +0000";
 layers = (
 {
 anchors = (
@@ -9585,7 +9567,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2016-08-08 22:32:03 +0000";
+lastChange = "2016-08-20 03:55:13 +0000";
 layers = (
 {
 anchors = (
@@ -11406,7 +11388,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2016-08-20 01:04:18 +0000";
+lastChange = "2016-08-20 03:58:50 +0000";
 layers = (
 {
 anchors = (
@@ -11887,7 +11869,7 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2016-08-20 03:28:22 +0000";
+lastChange = "2016-08-20 03:59:04 +0000";
 layers = (
 {
 components = (
@@ -12110,7 +12092,7 @@ unicode = 010F;
 },
 {
 glyphname = e;
-lastChange = "2016-08-20 02:58:00 +0000";
+lastChange = "2016-08-20 03:58:47 +0000";
 layers = (
 {
 anchors = (
@@ -13982,7 +13964,7 @@ unicode = 0123;
 },
 {
 glyphname = h;
-lastChange = "2016-08-20 03:34:18 +0000";
+lastChange = "2016-08-20 03:59:28 +0000";
 layers = (
 {
 components = (
@@ -14114,7 +14096,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2016-08-19 22:59:25 +0000";
+lastChange = "2016-08-20 03:59:04 +0000";
 layers = (
 {
 anchors = (
@@ -14868,7 +14850,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2016-08-20 01:19:30 +0000";
+lastChange = "2016-08-20 03:59:02 +0000";
 layers = (
 {
 components = (
@@ -16022,7 +16004,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-08-20 03:34:14 +0000";
+lastChange = "2016-08-20 03:59:04 +0000";
 layers = (
 {
 anchors = (
@@ -16464,7 +16446,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2016-08-19 22:59:30 +0000";
+lastChange = "2016-08-20 03:58:42 +0000";
 layers = (
 {
 anchors = (
@@ -17315,7 +17297,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-08-20 03:28:22 +0000";
+lastChange = "2016-08-20 03:59:28 +0000";
 layers = (
 {
 components = (
@@ -32007,15 +31989,20 @@ O = -43;
 };
 V = {
 A = -89;
+c = -68;
+e = -68;
 o = -68;
 };
 W = {
 A = -40;
-o = -35;
+c = -55;
+e = -55;
+o = -55;
 };
 Y = {
 A = -35;
-e = -90;
+c = -114;
+e = -114;
 o = -114;
 };
 backslash = {
@@ -32023,12 +32010,20 @@ backslash = -125;
 slash = 70;
 };
 c = {
+V = -68;
+W = -55;
+Y = -114;
 o = -11;
 };
 e = {
-Y = -90;
+V = -68;
+W = -55;
+Y = -114;
 };
 o = {
+V = -68;
+W = -55;
+Y = -114;
 w = -19;
 };
 r = {
@@ -32070,15 +32065,20 @@ O = -43;
 };
 V = {
 A = -89;
+c = -68;
+e = -68;
 o = -68;
 };
 W = {
 A = -40;
-o = -35;
+c = -55;
+e = -55;
+o = -55;
 };
 Y = {
 A = -35;
-e = -90;
+c = -114;
+e = -114;
 o = -114;
 };
 backslash = {
@@ -32086,12 +32086,20 @@ backslash = -125;
 slash = 70;
 };
 c = {
+V = -68;
+W = -55;
+Y = -114;
 o = -11;
 };
 e = {
-Y = -90;
+V = -68;
+W = -55;
+Y = -114;
 };
 o = {
+V = -68;
+W = -55;
+Y = -114;
 w = -19;
 };
 r = {
@@ -32133,15 +32141,20 @@ O = -28;
 };
 V = {
 A = -85;
+c = -71;
+e = -71;
 o = -71;
 };
 W = {
 A = -40;
-o = -5;
+c = -50;
+e = -50;
+o = -50;
 };
 Y = {
 A = -5;
-e = -72;
+c = -113;
+e = -113;
 o = -113;
 };
 backslash = {
@@ -32149,12 +32162,20 @@ backslash = -135;
 slash = 90;
 };
 c = {
+V = -71;
+W = -50;
+Y = -113;
 o = -11;
 };
 e = {
-Y = -72;
+V = -71;
+W = -50;
+Y = -113;
 };
 o = {
+V = -71;
+W = -50;
+Y = -113;
 w = -19;
 };
 r = {
