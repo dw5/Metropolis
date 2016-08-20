@@ -13,11 +13,14 @@
     <contour>
       <point x="377" y="687" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="723" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-14 08:09:13 +0000</string>
+      <string>2016-08-20 03:28:56 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Intermediate {700, 5}</key>
@@ -31,6 +34,14 @@
               <integer>376</integer>
               <key>y</key>
               <integer>687</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <integer>738</integer>
+              <key>y</key>
+              <integer>0</integer>
             </dict>
           </array>
           <key>components</key>

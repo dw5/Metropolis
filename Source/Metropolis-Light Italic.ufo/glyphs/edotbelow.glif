@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotbelow" format="1">
+  <advance width="600"/>
+  <unicode hex="1EB9"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-20 03:28:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

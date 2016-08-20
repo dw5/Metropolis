@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="970"/>
+  <advance width="674"/>
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="comma" xOffset="641" yOffset="480"/>
+    <component base="commaaccentcomb" xOffset="613" yOffset="722"/>
     <contour>
       <point x="182" y="704" type="move" name="top"/>
     </contour>
@@ -15,7 +15,18 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-20 02:19:28 +0000</string>
+      <string>2016-08-20 03:37:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>commaaccentcomb</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

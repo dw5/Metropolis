@@ -50,10 +50,7 @@
       <point x="236" y="-12" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="477" y="0" type="move" name="onogek"/>
-    </contour>
-    <contour>
-      <point x="286" y="0" type="move" name="bottom"/>
+      <point x="477" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="289" y="517" type="move" name="top"/>
@@ -62,7 +59,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-20 01:03:36 +0000</string>
+      <string>2016-08-20 02:50:37 +0000</string>
     </dict>
   </lib>
 </glyph>

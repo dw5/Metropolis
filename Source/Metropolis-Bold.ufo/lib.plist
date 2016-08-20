@@ -89,10 +89,13 @@
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
+		<string>Amacron</string>
+		<string>Aogonek</string>
 		<string>Aring</string>
 		<string>Atilde</string>
 		<string>B</string>
 		<string>C</string>
+		<string>Cacute</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
 		<string>D</string>
@@ -102,10 +105,16 @@
 		<string>Ecaron</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
+		<string>Edotaccent</string>
+		<string>Edotbelow</string>
 		<string>Egrave</string>
+		<string>Emacron</string>
+		<string>Eogonek</string>
+		<string>Etilde</string>
 		<string>F</string>
 		<string>G</string>
 		<string>Gbreve</string>
+		<string>Gcommaaccent</string>
 		<string>H</string>
 		<string>I</string>
 		<string>Iacute</string>
@@ -113,18 +122,25 @@
 		<string>Idieresis</string>
 		<string>Idotaccent</string>
 		<string>Igrave</string>
+		<string>Imacron</string>
+		<string>Iogonek</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
 		<string>M</string>
 		<string>N</string>
+		<string>Nacute</string>
 		<string>Ncaron</string>
+		<string>Ncommaaccent</string>
 		<string>Ntilde</string>
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
+		<string>Omacron</string>
 		<string>Oslash</string>
 		<string>Otilde</string>
 		<string>P</string>
@@ -132,6 +148,7 @@
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
+		<string>Rcommaaccent</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
@@ -144,6 +161,9 @@
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
 		<string>Ugrave</string>
+		<string>Uhungarumlaut</string>
+		<string>Umacron</string>
+		<string>Uogonek</string>
 		<string>Uring</string>
 		<string>V</string>
 		<string>W</string>
@@ -160,16 +180,20 @@
 		<string>Z</string>
 		<string>Zacute</string>
 		<string>Zcaron</string>
+		<string>Zdotaccent</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
+		<string>amacron</string>
+		<string>aogonek</string>
 		<string>aring</string>
 		<string>atilde</string>
 		<string>b</string>
 		<string>c</string>
+		<string>cacute</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
 		<string>d</string>
@@ -179,10 +203,16 @@
 		<string>ecaron</string>
 		<string>ecircumflex</string>
 		<string>edieresis</string>
+		<string>edotaccent</string>
+		<string>edotbelow</string>
 		<string>egrave</string>
+		<string>emacron</string>
+		<string>eogonek</string>
+		<string>etilde</string>
 		<string>f</string>
 		<string>g</string>
 		<string>gbreve</string>
+		<string>gcommaaccent</string>
 		<string>h</string>
 		<string>i</string>
 		<string>idotless</string>
@@ -190,20 +220,26 @@
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>igrave</string>
+		<string>imacron</string>
+		<string>iogonek</string>
 		<string>j</string>
 		<string>jdotless</string>
 		<string>k</string>
 		<string>l</string>
+		<string>lacute</string>
+		<string>lcaron</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
+		<string>ncommaaccent</string>
 		<string>ntilde</string>
 		<string>o</string>
 		<string>oacute</string>
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
+		<string>omacron</string>
 		<string>oslash</string>
 		<string>otilde</string>
 		<string>p</string>
@@ -211,6 +247,7 @@
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
+		<string>rcommaaccent</string>
 		<string>s</string>
 		<string>sacute</string>
 		<string>scaron</string>
@@ -224,6 +261,9 @@
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
+		<string>uhungarumlaut</string>
+		<string>umacron</string>
+		<string>uogonek</string>
 		<string>uring</string>
 		<string>v</string>
 		<string>w</string>
@@ -240,6 +280,7 @@
 		<string>z</string>
 		<string>zacute</string>
 		<string>zcaron</string>
+		<string>zdotaccent</string>
 		<string>a.alt</string>
 		<string>aacute.alt</string>
 		<string>abreve.alt</string>
@@ -307,6 +348,7 @@
 		<string>ampersand</string>
 		<string>bar</string>
 		<string>asciicircum</string>
+		<string>commaaccentcomb</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -315,6 +357,9 @@
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
+		<string>hungarumlaut</string>
+		<string>macron</string>
+		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
 		<string>lowercase_loop</string>
