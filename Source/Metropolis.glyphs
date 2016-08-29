@@ -1,8 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-FELT
-);
 copyright = "Copyright © 2016 by Chris Simpson.";
 date = "2016-07-29 23:55:50 +0000";
 designer = "Chris Simpson";
@@ -3318,7 +3315,7 @@ unicode = 0116;
 },
 {
 glyphname = Edotbelow;
-lastChange = "2016-08-29 08:40:09 +0000";
+lastChange = "2016-08-29 09:40:43 +0000";
 layers = (
 {
 components = (
@@ -8046,7 +8043,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2016-08-29 09:25:27 +0000";
+lastChange = "2016-08-29 09:44:02 +0000";
 layers = (
 {
 anchors = (
@@ -11275,7 +11272,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2016-08-29 09:25:30 +0000";
+lastChange = "2016-08-29 09:44:17 +0000";
 layers = (
 {
 anchors = (
@@ -16481,7 +16478,7 @@ unicode = 0123;
 },
 {
 glyphname = h;
-lastChange = "2016-08-29 09:24:51 +0000";
+lastChange = "2016-08-29 09:42:12 +0000";
 layers = (
 {
 components = (
@@ -18771,7 +18768,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-08-29 08:47:10 +0000";
+lastChange = "2016-08-29 09:42:12 +0000";
 layers = (
 {
 anchors = (
@@ -42123,6 +42120,9 @@ slash = -125;
 "@MMK_L_O" = {
 "@MMK_R_W" = -25;
 };
+"@MMK_L_R" = {
+"@MMK_R_Y" = -35;
+};
 };
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = {
 "@MMK_L_A" = {
@@ -42221,6 +42221,9 @@ comma = -125;
 "@MMK_L_O" = {
 "@MMK_R_W" = -25;
 };
+"@MMK_L_R" = {
+"@MMK_R_Y" = -35;
+};
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
 backslash = {
@@ -42318,6 +42321,9 @@ period = -85;
 "@MMK_L_O" = {
 "@MMK_R_W" = -20;
 };
+"@MMK_L_R" = {
+"@MMK_R_Y" = -40;
+};
 };
 "84328D8E-4D54-44EF-AF5C-0364B1C28646" = {
 "@MMK_L_A" = {
@@ -42413,7 +42419,7 @@ slash = {
 slash = -125;
 };
 "@MMK_L_R" = {
-"@MMK_R_Y" = -5;
+"@MMK_R_Y" = -35;
 };
 "@MMK_L_O" = {
 "@MMK_R_W" = -25;
@@ -42513,7 +42519,7 @@ slash = {
 slash = -125;
 };
 "@MMK_L_R" = {
-"@MMK_R_Y" = -5;
+"@MMK_R_Y" = -35;
 };
 "@MMK_L_O" = {
 "@MMK_R_W" = -25;
@@ -42613,7 +42619,7 @@ slash = {
 slash = -135;
 };
 "@MMK_L_R" = {
-"@MMK_R_Y" = -30;
+"@MMK_R_Y" = -65;
 };
 "@MMK_L_O" = {
 "@MMK_R_W" = -20;

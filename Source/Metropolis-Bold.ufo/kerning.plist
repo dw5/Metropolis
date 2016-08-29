@@ -44,6 +44,11 @@
 		<key>@MMK_R_W</key>
 		<integer>-20</integer>
 	</dict>
+	<key>@MMK_L_R</key>
+	<dict>
+		<key>@MMK_R_Y</key>
+		<integer>-40</integer>
+	</dict>
 	<key>@MMK_L_T</key>
 	<dict>
 		<key>@MMK_R_A</key>
