@@ -29,11 +29,25 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>20</integer>
+		<key>@MMK_R_O</key>
+		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
+		<key>@MMK_R_T</key>
+		<integer>-27</integer>
 		<key>@MMK_R_V</key>
 		<integer>-109</integer>
+	</dict>
+	<key>@MMK_L_O</key>
+	<dict>
+		<key>@MMK_R_W</key>
+		<integer>-25</integer>
+	</dict>
+	<key>@MMK_L_R</key>
+	<dict>
+		<key>@MMK_R_Y</key>
+		<integer>-5</integer>
 	</dict>
 	<key>@MMK_L_T</key>
 	<dict>

@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+FELT
+);
 copyright = "Copyright © 2016 by Chris Simpson.";
 date = "2016-07-29 23:55:50 +0000";
 designer = "Chris Simpson";
@@ -404,7 +407,7 @@ xHeight = 517;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2016-08-29 09:14:10 +0000";
+lastChange = "2016-08-29 09:31:15 +0000";
 layers = (
 {
 anchors = (
@@ -2138,7 +2141,7 @@ unicode = 0106;
 },
 {
 glyphname = Ccaron;
-lastChange = "2016-08-29 08:39:53 +0000";
+lastChange = "2016-08-29 09:24:28 +0000";
 layers = (
 {
 components = (
@@ -6741,7 +6744,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2016-08-29 08:41:01 +0000";
+lastChange = "2016-08-29 09:30:01 +0000";
 layers = (
 {
 anchors = (
@@ -8043,7 +8046,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2016-08-29 08:41:17 +0000";
+lastChange = "2016-08-29 09:25:27 +0000";
 layers = (
 {
 anchors = (
@@ -9117,7 +9120,7 @@ unicode = 015E;
 },
 {
 glyphname = T;
-lastChange = "2016-08-29 08:38:54 +0000";
+lastChange = "2016-08-29 09:32:12 +0000";
 layers = (
 {
 anchors = (
@@ -10570,7 +10573,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2016-08-29 08:49:50 +0000";
+lastChange = "2016-08-29 09:31:10 +0000";
 layers = (
 {
 anchors = (
@@ -11272,7 +11275,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2016-08-29 08:42:12 +0000";
+lastChange = "2016-08-29 09:25:30 +0000";
 layers = (
 {
 anchors = (
@@ -16478,7 +16481,7 @@ unicode = 0123;
 },
 {
 glyphname = h;
-lastChange = "2016-08-29 09:14:37 +0000";
+lastChange = "2016-08-29 09:24:51 +0000";
 layers = (
 {
 components = (
@@ -42039,12 +42042,15 @@ kerning = {
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 20;
+"@MMK_R_O" = -30;
 };
 "@MMK_L_L" = {
 "@MMK_R_V" = -109;
+"@MMK_R_T" = -27;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = -43;
+"@MMK_R_A" = -70;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -89;
@@ -42113,6 +42119,9 @@ slash = 70;
 };
 slash = {
 slash = -125;
+};
+"@MMK_L_O" = {
+"@MMK_R_W" = -25;
 };
 };
 "35616FF6-3D9C-499B-B113-AC9E0DB5842A" = {
@@ -42131,12 +42140,15 @@ slash = -125;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 20;
+"@MMK_R_O" = -30;
 };
 "@MMK_L_L" = {
 "@MMK_R_V" = -109;
+"@MMK_R_T" = -27;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = -43;
+"@MMK_R_A" = -70;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -89;
@@ -42205,6 +42217,9 @@ period = -125;
 comma = -125;
 "@MMK_R_e" = -23;
 "@MMK_R_o" = -20;
+};
+"@MMK_L_O" = {
+"@MMK_R_W" = -25;
 };
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
@@ -42239,9 +42254,11 @@ slash = -135;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 40;
+"@MMK_R_O" = -25;
 };
 "@MMK_L_L" = {
 "@MMK_R_V" = -109;
+"@MMK_R_T" = -15;
 };
 "@MMK_L_D" = {
 "@MMK_R_A" = -31;
@@ -42260,6 +42277,7 @@ slash = -135;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = -28;
+"@MMK_R_A" = -40;
 };
 "@MMK_L_Y" = {
 "@MMK_R_o" = -113;
@@ -42297,6 +42315,9 @@ period = -85;
 "@MMK_R_o" = -30;
 "@MMK_R_e" = -23;
 };
+"@MMK_L_O" = {
+"@MMK_R_W" = -20;
+};
 };
 "84328D8E-4D54-44EF-AF5C-0364B1C28646" = {
 "@MMK_L_A" = {
@@ -42314,9 +42335,11 @@ period = -85;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 20;
+"@MMK_R_O" = -30;
 };
 "@MMK_L_L" = {
 "@MMK_R_V" = -109;
+"@MMK_R_T" = -27;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = -43;
@@ -42388,6 +42411,12 @@ slash = 70;
 };
 slash = {
 slash = -125;
+};
+"@MMK_L_R" = {
+"@MMK_R_Y" = -5;
+};
+"@MMK_L_O" = {
+"@MMK_R_W" = -25;
 };
 };
 "119329DF-C854-46E0-93EC-7E8A22DFCA4F" = {
@@ -42406,9 +42435,11 @@ slash = -125;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 20;
+"@MMK_R_O" = -30;
 };
 "@MMK_L_L" = {
 "@MMK_R_V" = -109;
+"@MMK_R_T" = -27;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = -43;
@@ -42481,6 +42512,12 @@ slash = 70;
 slash = {
 slash = -125;
 };
+"@MMK_L_R" = {
+"@MMK_R_Y" = -5;
+};
+"@MMK_L_O" = {
+"@MMK_R_W" = -25;
+};
 };
 "88AF04C7-891B-4BE3-8AB1-6195D630646B" = {
 "@MMK_L_A" = {
@@ -42498,12 +42535,15 @@ slash = -125;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 40;
+"@MMK_R_O" = -25;
 };
 "@MMK_L_L" = {
 "@MMK_R_V" = -109;
+"@MMK_R_T" = -15;
 };
 "@MMK_L_T" = {
 "@MMK_R_O" = -28;
+"@MMK_R_A" = -40;
 };
 "@MMK_L_V" = {
 "@MMK_R_A" = -85;
@@ -42571,6 +42611,12 @@ slash = 90;
 };
 slash = {
 slash = -135;
+};
+"@MMK_L_R" = {
+"@MMK_R_Y" = -30;
+};
+"@MMK_L_O" = {
+"@MMK_R_W" = -20;
 };
 };
 };
