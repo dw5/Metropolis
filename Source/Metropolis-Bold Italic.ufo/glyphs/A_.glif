@@ -10,11 +10,17 @@
       <point x="157" y="92" type="line"/>
     </contour>
     <component base="V" xOffset="810" yOffset="687" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="497" y="687" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="720" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-20 03:28:56 +0000</string>
+      <string>2016-08-29 09:14:10 +0000</string>
     </dict>
   </lib>
 </glyph>

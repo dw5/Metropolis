@@ -50,11 +50,17 @@
       <point x="404" y="84"/>
       <point x="459" y="163" type="curve"/>
     </contour>
+    <contour>
+      <point x="355" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="198" y="-172" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-20 03:42:15 +0000</string>
+      <string>2016-08-29 08:46:35 +0000</string>
     </dict>
   </lib>
 </glyph>

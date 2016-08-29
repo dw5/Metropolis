@@ -11,8 +11,8 @@
       <point x="841" y="517" type="line"/>
       <point x="656" y="517" type="line"/>
       <point x="580" y="259" type="line"/>
-      <point x="503" y="518" type="line"/>
-      <point x="345" y="518" type="line"/>
+      <point x="503" y="517" type="line"/>
+      <point x="345" y="517" type="line"/>
       <point x="269" y="259" type="line"/>
       <point x="192" y="517" type="line"/>
       <point x="7" y="517" type="line"/>
@@ -25,7 +25,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-07 12:41:40 +0000</string>
+      <string>2016-08-29 08:51:29 +0000</string>
     </dict>
   </lib>
 </glyph>

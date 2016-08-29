@@ -287,6 +287,8 @@
 		<string>acircumflex.alt</string>
 		<string>adieresis.alt</string>
 		<string>agrave.alt</string>
+		<string>amacron.alt</string>
+		<string>aogonek.alt</string>
 		<string>aring.alt</string>
 		<string>atilde.alt</string>
 		<string>zero</string>
