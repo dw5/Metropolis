@@ -10,10 +10,10 @@
       <point x="129" y="576" type="line"/>
     </contour>
     <contour>
-      <point x="389" y="574" type="line"/>
+      <point x="389" y="576" type="line"/>
       <point x="557" y="700" type="line"/>
       <point x="480" y="718" type="line"/>
-      <point x="329" y="574" type="line"/>
+      <point x="329" y="576" type="line"/>
     </contour>
     <contour>
       <point x="357" y="704" type="move" name="top"/>
@@ -25,7 +25,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 01:00:54 +0000</string>
+      <string>2016-09-03 09:55:48 +0000</string>
     </dict>
   </lib>
 </glyph>

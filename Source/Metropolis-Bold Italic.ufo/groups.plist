@@ -34,6 +34,7 @@
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
+		<string>AE</string>
 		<string>E</string>
 		<string>Eacute</string>
 		<string>Ecaron</string>
@@ -45,6 +46,7 @@
 		<string>Emacron</string>
 		<string>Eogonek</string>
 		<string>Etilde</string>
+		<string>OE</string>
 	</array>
 	<key>@MMK_L_F</key>
 	<array>
@@ -220,6 +222,7 @@
 	</array>
 	<key>@MMK_L_e</key>
 	<array>
+		<string>ae</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ecaron</string>
@@ -298,6 +301,7 @@
 	<key>@MMK_L_p</key>
 	<array>
 		<string>p</string>
+		<string>thorn</string>
 	</array>
 	<key>@MMK_L_q</key>
 	<array>
@@ -378,6 +382,7 @@
 		<string>Aogonek</string>
 		<string>Aring</string>
 		<string>Atilde</string>
+		<string>AE</string>
 	</array>
 	<key>@MMK_R_B</key>
 	<array>
@@ -471,6 +476,7 @@
 		<string>Omacron</string>
 		<string>Oslash</string>
 		<string>Otilde</string>
+		<string>OE</string>
 	</array>
 	<key>@MMK_R_P</key>
 	<array>
@@ -555,6 +561,7 @@
 		<string>aogonek</string>
 		<string>aring</string>
 		<string>atilde</string>
+		<string>ae</string>
 	</array>
 	<key>@MMK_R_b</key>
 	<array>
@@ -662,6 +669,7 @@
 	<key>@MMK_R_p</key>
 	<array>
 		<string>p</string>
+		<string>thorn</string>
 	</array>
 	<key>@MMK_R_q</key>
 	<array>

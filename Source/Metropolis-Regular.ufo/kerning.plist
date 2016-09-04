@@ -60,6 +60,8 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-89</integer>
+		<key>@MMK_R_a</key>
+		<integer>-30</integer>
 		<key>@MMK_R_c</key>
 		<integer>-68</integer>
 		<key>@MMK_R_e</key>

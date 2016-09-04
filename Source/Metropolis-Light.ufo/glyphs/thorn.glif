@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="1">
+  <advance width="609"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="119" y="-172" type="line"/>
+      <point x="119" y="699" type="line"/>
+      <point x="83" y="699" type="line"/>
+      <point x="83" y="-172" type="line"/>
+    </contour>
+    <component base="lowercase_loop" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-03 02:26:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -88,13 +88,16 @@
 		<string>Aogonek</string>
 		<string>Aring</string>
 		<string>Atilde</string>
+		<string>AE</string>
 		<string>B</string>
 		<string>C</string>
 		<string>Cacute</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
 		<string>D</string>
+		<string>Eth</string>
 		<string>Dcaron</string>
+		<string>Dcroat</string>
 		<string>E</string>
 		<string>Eacute</string>
 		<string>Ecaron</string>
@@ -121,9 +124,11 @@
 		<string>Iogonek</string>
 		<string>J</string>
 		<string>K</string>
+		<string>Kcommaaccent</string>
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
+		<string>Lslash</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Nacute</string>
@@ -135,10 +140,13 @@
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
+		<string>Ohungarumlaut</string>
 		<string>Omacron</string>
 		<string>Oslash</string>
 		<string>Otilde</string>
+		<string>OE</string>
 		<string>P</string>
+		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
 		<string>Racute</string>
@@ -186,13 +194,16 @@
 		<string>aogonek</string>
 		<string>aring</string>
 		<string>atilde</string>
+		<string>ae</string>
 		<string>b</string>
 		<string>c</string>
 		<string>cacute</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
 		<string>d</string>
+		<string>eth</string>
 		<string>dcaron</string>
+		<string>dcroat</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ecaron</string>
@@ -220,9 +231,11 @@
 		<string>j</string>
 		<string>jdotless</string>
 		<string>k</string>
+		<string>kcommaaccent</string>
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
+		<string>lslash</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
@@ -234,10 +247,13 @@
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
+		<string>ohungarumlaut</string>
 		<string>omacron</string>
 		<string>oslash</string>
 		<string>otilde</string>
+		<string>oe</string>
 		<string>p</string>
+		<string>thorn</string>
 		<string>q</string>
 		<string>r</string>
 		<string>racute</string>
@@ -362,6 +378,8 @@
 		<string>lowercase_loop</string>
 		<string>lowercase_nh_shoulder</string>
 		<string>lowercase_loop_reverse</string>
+		<string>ascender</string>
+		<string>descender</string>
 	</array>
 </dict>
 </plist>

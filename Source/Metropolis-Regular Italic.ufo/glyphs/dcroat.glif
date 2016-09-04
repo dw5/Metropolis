@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="657"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="687" y="585" type="line"/>
+      <point x="698" y="635" type="line"/>
+      <point x="388" y="635" type="line"/>
+      <point x="377" y="585" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-03 02:36:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

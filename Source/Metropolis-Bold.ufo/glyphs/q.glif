@@ -3,18 +3,13 @@
   <advance width="674"/>
   <unicode hex="0071"/>
   <outline>
-    <contour>
-      <point x="623" y="-172" type="line"/>
-      <point x="623" y="517" type="line"/>
-      <point x="430" y="517" type="line"/>
-      <point x="430" y="-172" type="line"/>
-    </contour>
     <component base="lowercase_loop" xOffset="625" xScale="-1"/>
+    <component base="descender" xOffset="379"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 09:14:45 +0000</string>
+      <string>2016-09-04 22:45:53 +0000</string>
     </dict>
   </lib>
 </glyph>

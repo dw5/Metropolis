@@ -3,12 +3,7 @@
   <advance width="303"/>
   <unicode hex="006C"/>
   <outline>
-    <contour>
-      <point x="248" y="0" type="line"/>
-      <point x="248" y="699" type="line"/>
-      <point x="55" y="699" type="line"/>
-      <point x="55" y="0" type="line"/>
-    </contour>
+    <component base="ascender" xOffset="4"/>
     <contour>
       <point x="204" y="699" type="move" name="top"/>
     </contour>
@@ -19,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:47:01 +0000</string>
+      <string>2016-09-04 22:45:50 +0000</string>
     </dict>
   </lib>
 </glyph>

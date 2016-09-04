@@ -3,13 +3,8 @@
   <advance width="553"/>
   <unicode hex="006E"/>
   <outline>
-    <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="167" y="517" type="line"/>
-      <point x="131" y="517" type="line"/>
-      <point x="24" y="0" type="line"/>
-    </contour>
     <component base="lowercase_nh_shoulder" xOffset="-38"/>
+    <component base="idotless" xOffset="2"/>
     <contour>
       <point x="333" y="517" type="move" name="top"/>
     </contour>
@@ -20,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 09:42:12 +0000</string>
+      <string>2016-09-04 22:45:54 +0000</string>
     </dict>
   </lib>
 </glyph>
