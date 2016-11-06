@@ -286,6 +286,8 @@
 	<string>bracketright.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
+	<key>bullet</key>
+	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>cacute</key>
@@ -348,8 +350,12 @@
 	<string>emacron.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emspace</key>
+	<string>emspace.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>enspace</key>
+	<string>enspace.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
 	<key>equal</key>
@@ -370,6 +376,8 @@
 	<string>five.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>fourperemspace</key>
+	<string>fourperemspace.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>gbreve</key>
@@ -382,6 +390,14 @@
 	<string>grave.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
+	<key>guillemetleft</key>
+	<string>guillemetleft.glif</string>
+	<key>guillemetright</key>
+	<string>guillemetright.glif</string>
+	<key>guilsinglleft</key>
+	<string>guilsinglleft.glif</string>
+	<key>guilsinglright</key>
+	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hungarumlaut</key>
@@ -440,6 +456,8 @@
 	<string>n.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>narrownbspace</key>
+	<string>narrownbspace.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
 	<key>ncommaaccent</key>
@@ -476,6 +494,8 @@
 	<string>otilde.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>paragraph</key>
+	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
 	<key>parenright</key>
@@ -484,6 +504,8 @@
 	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
+	<key>periodcentered</key>
+	<string>periodcentered.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
 	<key>plus</key>
@@ -530,6 +552,8 @@
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>sixperemspace</key>
+	<string>sixperemspace.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>space</key>
@@ -546,6 +570,8 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>threeperemspace</key>
+	<string>threeperemspace.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>two</key>

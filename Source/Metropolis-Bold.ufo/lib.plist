@@ -319,6 +319,8 @@
 		<string>nine</string>
 		<string>asterisk</string>
 		<string>backslash</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
 		<string>ellipsis</string>
@@ -342,11 +344,21 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
+		<string>emspace</string>
+		<string>enspace</string>
+		<string>fourperemspace</string>
+		<string>narrownbspace</string>
+		<string>sixperemspace</string>
 		<string>space</string>
+		<string>threeperemspace</string>
 		<string>cent</string>
 		<string>dollar</string>
 		<string>euro</string>
@@ -364,6 +376,7 @@
 		<string>perthousand</string>
 		<string>at</string>
 		<string>ampersand</string>
+		<string>paragraph</string>
 		<string>bar</string>
 		<string>asciicircum</string>
 		<string>commaaccentcomb</string>
