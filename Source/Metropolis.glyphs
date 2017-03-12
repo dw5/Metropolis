@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "983";
 DisplayStrings = (
 "\U00B7",
 /bullet,
@@ -44674,6 +44674,7 @@ instanceInterpolations = {
 "3B040282-CF47-4846-BCAF-7BFF90FB63BC" = 1;
 };
 name = Thin;
+weightClass = Thin;
 },
 {
 customParameters = (
@@ -44722,6 +44723,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
+weightClass = Thin;
 },
 {
 customParameters = (
@@ -44769,6 +44771,7 @@ instanceInterpolations = {
 "3B040282-CF47-4846-BCAF-7BFF90FB63BC" = 0.666667;
 };
 name = "Extra Light";
+weightClass = ExtraLight;
 },
 {
 customParameters = (
@@ -44819,6 +44822,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = "Extra Light";
 name = "Extra Light Italic";
+weightClass = ExtraLight;
 },
 {
 customParameters = (
@@ -44866,6 +44870,7 @@ instanceInterpolations = {
 "3B040282-CF47-4846-BCAF-7BFF90FB63BC" = 0.333333;
 };
 name = Light;
+weightClass = Light;
 },
 {
 customParameters = (
@@ -44916,6 +44921,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
+weightClass = Light;
 },
 {
 customParameters = (
@@ -45109,7 +45115,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
-weightClass = Bold;
+weightClass = Medium;
 },
 {
 customParameters = (
@@ -45208,7 +45214,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = "Semi Bold";
 name = "Semi Bold Italic";
-weightClass = Bold;
+weightClass = SemiBold;
 },
 {
 customParameters = (
