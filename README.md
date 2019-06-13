@@ -46,6 +46,10 @@ Why do I say this? Because unfortunately I can not/will not accept any PRs that 
 
 Based on the last workflow point, I have moved the UFO files to a UFO folder to correctly represent they are an export, and not in fact the source files.
 
+#### Alternatives to the Glyphs App/UFO requirement
+
+Alternatively, feel free to send me (ideally) SVGs (or some such) that are clearly somehow an em sq (this project uses 1000em, so a 1000px/1000pt SVG is fine) to discuss ideas, thoughts, contributions. There are many users of this project now so sudden stylistic changes likely won't go into the final output, but I welcome constructive ideas :)
+
 #### Issues
 
 I know there are a few issues accumulating. Sorry :( I'll soon be on top of it :) Many people have requested specific glyphs, they're actually already in master, I just haven't done a release in forever. There will be a release soon, I promise, I'm looking forward to the inbox for this project being zero 😅
