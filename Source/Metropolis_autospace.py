@@ -3,30 +3,30 @@
 # Script, Category, Subcategory, value, referenceGlyph, filter
 
 # Letters
-*,Letter,Uppercase,1.25,H,*,
+*,Letter,Uppercase,1.33,H,*,
 *,Letter,Smallcaps,1.1,h.sc,*,
 *,Letter,Lowercase,1,x,*,
-*,Letter,Lowercase,0.7,m.sups,.sups,
+*,Letter,Lowercase,0.75,m.sups,.sups,
 
 # Numbers
-*,Number,Decimal Digit,1.2,one,*,
-*,Number,Decimal Digit,1.2,zero.osf,.osf,
-*,Number,Fraction,1.3,*,*,
-*,Number,*,0.8,*,.dnom,
-*,Number,*,0.8,*,.numr,
-*,Number,*,0.8,*,.inferior,
-*,Number,*,0.8,*,superior,
+*,Number,Decimal Digit,1.33,one,*,
+*,Number,Decimal Digit,1.33,zero.osf,.osf,
+*,Number,Fraction,1.33,*,*,
+*,Number,*,0.75,*,.dnom,
+*,Number,*,0.75,*,.numr,
+*,Number,*,0.75,*,.inferior,
+*,Number,*,0.75,*,superior,
 
 # Punctuation
-*,Punctuation,Other,1.4,*,*,
-*,Punctuation,Parenthesis,1.2,*,*,
-*,Punctuation,Quote,1.2,*,*,
+*,Punctuation,Other,1.33,*,*,
+*,Punctuation,Parenthesis,1.33,*,*,
+*,Punctuation,Quote,1.33,*,*,
 *,Punctuation,Dash,1,*,*,
 *,Punctuation,*,1,*,slash,
-*,Punctuation,*,1.2,*,*,
+*,Punctuation,*,1.33,*,*,
 
 # Symbols
-*,Symbol,Currency,1.6,*,*,
+*,Symbol,Currency,1.66,*,*,
 *,Symbol,*,1.5,*,*,
 *,Mark,*,1,*,*,
 
