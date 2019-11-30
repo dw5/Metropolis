@@ -10,7 +10,7 @@ A modern, geometric typeface. Open sourced, and openly available. Influenced by 
 
 ### Where am I?
 
-See ![Documentation](./Documentation/).
+See [Documentation](./Documentation/).
 
 ### The Unlicense
 
