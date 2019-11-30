@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="619"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="563" y="0" type="line"/>
+      <point x="563" y="36" type="line"/>
+      <point x="102" y="36" type="line"/>
+      <point x="559" y="657" type="line"/>
+      <point x="559" y="687" type="line"/>
+      <point x="65" y="687" type="line"/>
+      <point x="65" y="651" type="line"/>
+      <point x="515" y="651" type="line"/>
+      <point x="58" y="30" type="line"/>
+      <point x="58" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="687" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 08:42:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

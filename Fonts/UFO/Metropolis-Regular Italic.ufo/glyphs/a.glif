@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="640"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="503" y="0" type="line"/>
+      <point x="611" y="517" type="line"/>
+      <point x="536" y="517" type="line"/>
+      <point x="428" y="0" type="line"/>
+    </contour>
+    <component base="lowercase_loop_reverse"/>
+    <contour>
+      <point x="353" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="503" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-06 01:04:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

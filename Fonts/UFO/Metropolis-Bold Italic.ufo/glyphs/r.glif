@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="463"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="254" y="305"/>
+      <point x="333" y="369"/>
+      <point x="435" y="369" type="curve"/>
+      <point x="456" y="529" type="line"/>
+      <point x="342" y="529"/>
+      <point x="247" y="433"/>
+      <point x="217" y="287" type="curve"/>
+      <point x="234" y="211" type="line"/>
+    </contour>
+    <component base="idotless" xOffset="-4"/>
+    <contour>
+      <point x="282" y="517" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 22:45:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

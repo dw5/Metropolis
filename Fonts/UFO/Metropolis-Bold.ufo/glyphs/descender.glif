@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descender" format="1">
+  <advance width="674"/>
+  <outline>
+    <contour>
+      <point x="244" y="-172" type="line"/>
+      <point x="244" y="517" type="line"/>
+      <point x="51" y="517" type="line"/>
+      <point x="51" y="-172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-31 09:27:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

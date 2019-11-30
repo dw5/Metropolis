@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="409"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="260" y="574" type="line"/>
+      <point x="440" y="710" type="line"/>
+      <point x="275" y="738" type="line"/>
+      <point x="129" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="704" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="239" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 00:05:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

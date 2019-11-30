@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="1">
+  <advance width="194"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflex" xOffset="-94" yOffset="170"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 08:40:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

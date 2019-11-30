@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="607"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="336" y="406" type="line"/>
+      <point x="336" y="447" type="line"/>
+      <point x="37" y="293" type="line"/>
+      <point x="37" y="252" type="line"/>
+    </contour>
+    <component base="L" xOffset="73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-03 09:45:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="592"/>
+  <unicode hex="006E"/>
+  <outline>
+    <component base="lowercase_nh_shoulder" xOffset="-1"/>
+    <component base="idotless" xOffset="2"/>
+    <contour>
+      <point x="352" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="244" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 22:45:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

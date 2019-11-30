@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="384"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="280" y="576" type="line"/>
+      <point x="416" y="713" type="line"/>
+      <point x="371" y="713" type="line"/>
+      <point x="263" y="607" type="line"/>
+      <point x="201" y="713" type="line"/>
+      <point x="158" y="713" type="line"/>
+      <point x="236" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="704" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="245" y="517" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 00:36:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

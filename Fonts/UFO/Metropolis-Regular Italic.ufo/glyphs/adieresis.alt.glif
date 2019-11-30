@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresis.alt" format="1">
+  <advance width="572"/>
+  <outline>
+    <component base="a.alt"/>
+    <component base="dieresis" xOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 08:49:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

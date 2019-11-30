@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1024"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="122" y="0" type="line"/>
+      <point x="519" y="687" type="line"/>
+      <point x="428" y="687" type="line"/>
+      <point x="32" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="497" y="156" type="line"/>
+      <point x="497" y="230" type="line"/>
+      <point x="178" y="230" type="line"/>
+      <point x="178" y="156" type="line"/>
+    </contour>
+    <component base="E" xOffset="397"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 22:45:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

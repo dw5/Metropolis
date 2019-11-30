@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="457"/>
+  <unicode hex="007E"/>
+  <outline>
+    <component base="tilde" xOffset="9" yOffset="-281"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 09:29:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="225"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="219" y="611"/>
+      <point x="246" y="637"/>
+      <point x="246" y="665" type="curve" smooth="yes"/>
+      <point x="246" y="690"/>
+      <point x="228" y="710"/>
+      <point x="202" y="710" type="curve" smooth="yes"/>
+      <point x="172" y="710"/>
+      <point x="147" y="683"/>
+      <point x="147" y="656" type="curve" smooth="yes"/>
+      <point x="147" y="631"/>
+      <point x="165" y="611"/>
+      <point x="192" y="611" type="curve" smooth="yes"/>
+    </contour>
+    <component base="jdotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 22:45:52 +0000</string>
+    </dict>
+  </lib>
+</glyph>

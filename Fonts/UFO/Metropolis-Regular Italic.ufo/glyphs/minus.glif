@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="594"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="534" y="297" type="line"/>
+      <point x="550" y="371" type="line"/>
+      <point x="91" y="371" type="line"/>
+      <point x="75" y="297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 09:19:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

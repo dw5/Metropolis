@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="776"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="254" y="0" type="line"/>
+      <point x="254" y="368" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="716" y="687" type="line"/>
+      <point x="522" y="687" type="line"/>
+      <point x="522" y="319" type="line"/>
+      <point x="254" y="687" type="line"/>
+      <point x="60" y="687" type="line"/>
+      <point x="60" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="687" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="388" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 08:40:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

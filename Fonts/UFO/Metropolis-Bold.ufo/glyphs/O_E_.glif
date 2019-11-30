@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="1046"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="575" y="0" type="line"/>
+      <point x="575" y="176" type="line"/>
+      <point x="408" y="176" type="line" smooth="yes"/>
+      <point x="314" y="176"/>
+      <point x="234" y="246"/>
+      <point x="234" y="344" type="curve" smooth="yes"/>
+      <point x="234" y="441"/>
+      <point x="314" y="511"/>
+      <point x="408" y="511" type="curve" smooth="yes"/>
+      <point x="575" y="511" type="line"/>
+      <point x="575" y="687" type="line"/>
+      <point x="408" y="687" type="line" smooth="yes"/>
+      <point x="205" y="687"/>
+      <point x="34" y="537"/>
+      <point x="34" y="344" type="curve" smooth="yes"/>
+      <point x="34" y="151"/>
+      <point x="205" y="0"/>
+      <point x="408" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="E" xOffset="395"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-03 01:49:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

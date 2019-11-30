@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="1">
+  <advance width="312"/>
+  <unicode hex="2018"/>
+  <outline>
+    <component base="comma" xOffset="312" yOffset="549" xScale="-1" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 09:18:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

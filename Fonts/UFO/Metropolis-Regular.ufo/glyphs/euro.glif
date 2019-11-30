@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro" format="1">
+  <advance width="680"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="472" y="236" type="line"/>
+      <point x="472" y="303" type="line"/>
+      <point x="-24" y="303" type="line"/>
+      <point x="-24" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="403" type="line"/>
+      <point x="472" y="470" type="line"/>
+      <point x="-24" y="470" type="line"/>
+      <point x="-24" y="403" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 09:42:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

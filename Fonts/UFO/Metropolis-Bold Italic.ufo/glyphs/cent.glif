@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="556"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="294" y="-74" type="line"/>
+      <point x="432" y="589" type="line"/>
+      <point x="322" y="589" type="line"/>
+      <point x="184" y="-74" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-27 09:41:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

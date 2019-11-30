@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="628"/>
+  <unicode hex="0068"/>
+  <outline>
+    <component base="lowercase_nh_shoulder" xOffset="31"/>
+    <component base="ascender"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 22:45:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

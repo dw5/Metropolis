@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="676"/>
+  <unicode hex="0062"/>
+  <outline>
+    <component base="lowercase_loop" xOffset="50"/>
+    <component base="ascender"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-06 01:04:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

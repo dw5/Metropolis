@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <advance width="573"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="315" type="line" smooth="yes"/>
+      <point x="496" y="440"/>
+      <point x="427" y="529"/>
+      <point x="286" y="529" type="curve" smooth="yes"/>
+      <point x="236" y="529"/>
+      <point x="174" y="516"/>
+      <point x="100" y="479" type="curve"/>
+      <point x="130" y="418" type="line"/>
+      <point x="177" y="442"/>
+      <point x="229" y="465"/>
+      <point x="281" y="465" type="curve" smooth="yes"/>
+      <point x="393" y="465"/>
+      <point x="421" y="385"/>
+      <point x="421" y="315" type="curve" smooth="yes"/>
+      <point x="421" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="-12"/>
+      <point x="417" y="35"/>
+      <point x="438" y="123" type="curve"/>
+      <point x="421" y="162" type="line"/>
+      <point x="401" y="89"/>
+      <point x="320" y="54"/>
+      <point x="252" y="54" type="curve" smooth="yes"/>
+      <point x="179" y="54"/>
+      <point x="123" y="92"/>
+      <point x="123" y="156" type="curve" smooth="yes"/>
+      <point x="123" y="218"/>
+      <point x="188" y="262"/>
+      <point x="265" y="262" type="curve" smooth="yes"/>
+      <point x="335" y="262"/>
+      <point x="399" y="250"/>
+      <point x="454" y="230" type="curve"/>
+      <point x="454" y="284" type="line"/>
+      <point x="393" y="308"/>
+      <point x="321" y="325"/>
+      <point x="253" y="325" type="curve" smooth="yes"/>
+      <point x="142" y="325"/>
+      <point x="50" y="256"/>
+      <point x="50" y="153" type="curve" smooth="yes"/>
+      <point x="50" y="51"/>
+      <point x="130" y="-12"/>
+      <point x="239" y="-12" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="293" y="517" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="496" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-06 01:04:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

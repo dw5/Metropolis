@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="670"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="244" y="207" type="line"/>
+      <point x="385" y="207" type="line" smooth="yes"/>
+      <point x="557" y="207"/>
+      <point x="694" y="324"/>
+      <point x="694" y="487" type="curve" smooth="yes"/>
+      <point x="694" y="606"/>
+      <point x="606" y="687"/>
+      <point x="472" y="687" type="curve" smooth="yes"/>
+      <point x="149" y="687" type="line"/>
+      <point x="6" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="511" type="line"/>
+      <point x="432" y="511" type="line" smooth="yes"/>
+      <point x="473" y="511"/>
+      <point x="496" y="496"/>
+      <point x="496" y="471" type="curve" smooth="yes"/>
+      <point x="496" y="429"/>
+      <point x="444" y="383"/>
+      <point x="393" y="383" type="curve" smooth="yes"/>
+      <point x="280" y="383" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 08:41:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

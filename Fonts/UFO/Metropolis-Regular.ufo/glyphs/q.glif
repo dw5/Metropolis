@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="1">
+  <advance width="638"/>
+  <unicode hex="0071"/>
+  <outline>
+    <component base="lowercase_loop" xOffset="608" xScale="-1"/>
+    <component base="descender" xOffset="397"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-09-04 22:45:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

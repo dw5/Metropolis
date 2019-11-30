@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowercase_loop_reverse" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="432" y="-12"/>
+      <point x="569" y="145"/>
+      <point x="569" y="331" type="curve" smooth="yes"/>
+      <point x="569" y="455"/>
+      <point x="499" y="529"/>
+      <point x="381" y="529" type="curve" smooth="yes"/>
+      <point x="232" y="529"/>
+      <point x="83" y="365"/>
+      <point x="83" y="200" type="curve" smooth="yes"/>
+      <point x="83" y="76"/>
+      <point x="160" y="-12"/>
+      <point x="269" y="-12" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="184" y="24"/>
+      <point x="119" y="98"/>
+      <point x="119" y="202" type="curve" smooth="yes"/>
+      <point x="119" y="348"/>
+      <point x="247" y="493"/>
+      <point x="374" y="493" type="curve" smooth="yes"/>
+      <point x="473" y="493"/>
+      <point x="532" y="429"/>
+      <point x="532" y="321" type="curve" smooth="yes"/>
+      <point x="532" y="160"/>
+      <point x="415" y="24"/>
+      <point x="276" y="24" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-06 02:28:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

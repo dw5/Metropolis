@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="416"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="304" y="-12"/>
+      <point x="359" y="10"/>
+      <point x="391" y="41" type="curve"/>
+      <point x="358" y="163" type="line"/>
+      <point x="348" y="154"/>
+      <point x="329" y="148"/>
+      <point x="311" y="148" type="curve" smooth="yes"/>
+      <point x="285" y="148"/>
+      <point x="267" y="170"/>
+      <point x="267" y="201" type="curve" smooth="yes"/>
+      <point x="267" y="659" type="line"/>
+      <point x="83" y="659" type="line"/>
+      <point x="83" y="163" type="line" smooth="yes"/>
+      <point x="83" y="60"/>
+      <point x="155" y="-12"/>
+      <point x="258" y="-12" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="369" y="365" type="line"/>
+      <point x="369" y="517" type="line"/>
+      <point x="18" y="517" type="line"/>
+      <point x="18" y="365" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-08-29 08:47:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>
