@@ -14,7 +14,7 @@ See [Documentation](./Documentation/).
 
 ### The Unlicense
 
-Contributions still welcome.
+Contributions welcome.
 
 ### Contact
 
