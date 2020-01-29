@@ -72,7 +72,7 @@ In order for this to work, the plugin requires a few parameters, which can be fo
 
 Checkout [https://huertatipografica.github.io/HTLetterspacer/)]() for a much more thorough explanation of this tool. Essentially the above metrics tell HT Letterspacer how much space to allocate. I have chosen the following values:
 
-    | Thin | Regular | Black 
+| | Thin | Regular | Black 
 --- | ---- | ------- | -----
 `paramArea` | 350 | 310 | 370
 `paramDepth` | 5 | 7 | 16
