@@ -104,6 +104,8 @@ Once both the plugin and these settings are correctly set up, you can invoke the
 
 ![](./Images/06_HTLetterspacerUI.png)
 
+When using this tool/making spacing adjustments, it's key to run it many times. You will see the glyphs coalesce into their eventual spacing, but it may actually take multiple runs of the tool for it to reach it's optimal point.
+
 ## <a name="bubblekern"></a> BubbleKern
 
 ![](./Images/07_BubbleKern.png)
