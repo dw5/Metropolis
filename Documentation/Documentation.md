@@ -30,7 +30,7 @@ The two plugins that are essential to this workflow are HT Letterspacer ([https:
 
 Given an **em square of 1000**, the metrics for Metropolis are as follows:
 
-    | Value
+| | Value
 --- | -----
 Ascender  | 795
 Cap Height  | 687
