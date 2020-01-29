@@ -2,19 +2,19 @@
 
 A modern, geometric typeface. Open sourced, and openly available. Influenced by other popular geometric, minimalist sans-serif typefaces of the new millenium. Designed for optimal readability at small point sizes while beautiful at large point sizes.
 
-![Metropolis](./Images/Metro-1.png)
+![Metropolis](./Specimens/Metro-1.png)
 
 ---
 
-![Metropolis](./Images/Metro-2.png)
+![Metropolis](./Specimens/Metro-2.png)
 
 ### Where am I?
 
-See ![Documentation](./Documentation/).
+See [Documentation](./Documentation/Documentation.md).
 
 ### The Unlicense
 
-Contributions still welcome.
+Contributions welcome.
 
 ### Contact
 

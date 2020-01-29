@@ -1,3 +1,0 @@
-# Kerning
-
-## Kerning Groups

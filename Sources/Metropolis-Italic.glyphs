@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1271";
 DisplayStrings = (
 "AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron ÇDÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent/Edotbelow È/Emacron/Eogonek/Etilde FG/Gbreve/Gcommaaccent HIÍÎÏ/Idotaccent Ì/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lslash MN/Nacute/Ncaron/Ncommaaccent ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla T/Tcaron/Tcedilla UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron çdð/dcaron/dcroat eé/ecaron êë/edotaccent/edotbelow è/emacron/eogonek/etilde fg/gbreve/gcommaaccent hi/idotless íîïì/imacron/iogonek j/jdotless k/kcommaaccent l/lacute/lcaron/lslash mn/nacute/ncaron/ncommaaccent ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla ßt/tcaron/tcedilla uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent/a.alt/aacute.alt/abreve.alt/acircumflex.alt/adieresis.alt/agrave.alt/amacron.alt/aogonek.alt/aring.alt/atilde.alt 0123456789.,:;/ellipsis !¡?¿·/bullet *#///backslash (){}[]-/endash/emdash _/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/emspace/enspace/fourperemspace/narrownbspace/sixperemspace  /threeperemspace ¢$/euro £¥+/minus ×÷=><~^%/perthousand @&¶©®/trademark |/dotaccentcomb/commaaccentcomb ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde",
 "AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ"
@@ -20,6 +20,7 @@ alignmentZones = (
 );
 ascender = 795;
 capHeight = 687;
+custom = Thin;
 customValue = 5;
 customParameters = (
 {
@@ -84,6 +85,7 @@ position = "{1073, 185}";
 horizontalStems = (
 36
 );
+iconName = Light;
 id = "84328D8E-4D54-44EF-AF5C-0364B1C28646";
 italicAngle = 11.75;
 userData = {
@@ -93,7 +95,6 @@ GSOffsetVertical = 44;
 verticalStems = (
 36
 );
-weight = Light;
 widthValue = 5;
 xHeight = 517;
 },
@@ -195,6 +196,7 @@ alignmentZones = (
 );
 ascender = 795;
 capHeight = 687;
+custom = Black;
 customValue = 5;
 customParameters = (
 {
@@ -253,6 +255,7 @@ horizontalStems = (
 173,
 176
 );
+iconName = Bold;
 id = "88AF04C7-891B-4BE3-8AB1-6195D630646B";
 italicAngle = 11.75;
 userData = {
@@ -265,7 +268,6 @@ verticalStems = (
 194,
 200
 );
-weight = Bold;
 weightValue = 900;
 widthValue = 5;
 xHeight = 517;
@@ -28263,6 +28265,7 @@ nV = "193";
 nd = "160";
 oH = "160";
 oV = "182";
+tH = "152";
 };
 "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B" = {
 HH = "173";
