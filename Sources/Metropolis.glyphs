@@ -1,7 +1,7 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ"
+"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ\012The quick brown fox\012jumps over the lazy dog"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -12451,7 +12451,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2019-05-05 08:56:18 +0000";
+lastChange = "2020-01-29 03:33:08 +0000";
 layers = (
 {
 components = (
@@ -12471,14 +12471,15 @@ components = (
 {
 alignment = -1;
 name = jdotless;
+transform = "{1, 0, 0, 1, 46, 0}";
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 34, 0}";
+transform = "{1, 0, 0, 1, 80, 0}";
 }
 );
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
-width = 313;
+width = 365;
 },
 {
 components = (
@@ -14617,7 +14618,7 @@ unicode = 0153;
 {
 color = 1;
 glyphname = p;
-lastChange = "2019-05-05 09:41:35 +0000";
+lastChange = "2020-01-29 03:30:44 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
