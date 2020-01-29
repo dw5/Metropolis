@@ -1,6 +1,6 @@
 # Metropolis
 
-A modern, geometric typeface. Open sourced, and openly available. Influenced by other popular geometric, minimalist sans-serif typefaces of the new millenium. Designed for optimal readability at small point sizes while beautiful at large point sizes.
+A modern, geometric typeface. Orphaned. Influenced by other popular geometric, minimalist sans-serif typefaces of the new millenium. Designed for optimal readability at small point sizes while beautiful at large point sizes.
 
 ![Metropolis](./Specimens/Metro-1.png)
 
