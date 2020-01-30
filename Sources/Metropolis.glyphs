@@ -8,7 +8,8 @@ HbdqpH,
 "Hc/cacute/ccaron çH",
 "Hdð/dcaron/dcroat H",
 "Heé/ecaron êë/edotaccent/edotbelow è/emacron/eogonek/etilde H",
-f
+f,
+"g/gbreve/gcommaaccent"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -82,7 +83,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 50;
+GSOffsetHorizontal = 68;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -167,7 +168,7 @@ horizontalStems = (
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 74;
-GSOffsetHorizontal = 36;
+GSOffsetHorizontal = 57;
 GSOffsetProportional = 1;
 GSOffsetVertical = 54;
 };
@@ -252,7 +253,7 @@ iconName = Bold;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 userData = {
 GSCornerRadius = 180;
-GSOffsetHorizontal = 20;
+GSOffsetHorizontal = 58;
 GSOffsetProportional = 1;
 GSOffsetVertical = 24;
 };
@@ -14279,7 +14280,7 @@ unicode = 0066;
 {
 color = 1;
 glyphname = g;
-lastChange = "2019-05-05 05:48:15 +0000";
+lastChange = "2020-01-30 05:16:01 +0000";
 layers = (
 {
 anchors = (
@@ -14496,6 +14497,147 @@ nodes = (
 }
 );
 width = 596;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{293, -172}";
+},
+{
+name = top;
+position = "{296, 517}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "494DFD7E-E945-41ED-BB8A-FAE6FFB1C258";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 123 OFFCURVE",
+"125 -12 OFFCURVE",
+"276 -12 CURVE SMOOTH",
+"329 -12 OFFCURVE",
+"378 1 OFFCURVE",
+"421 24 CURVE",
+"408 -32 OFFCURVE",
+"359 -68 OFFCURVE",
+"290 -68 CURVE SMOOTH",
+"234 -68 OFFCURVE",
+"164 -42 OFFCURVE",
+"137 -9 CURVE",
+"50 -163 LINE",
+"111 -209 OFFCURVE",
+"208 -240 OFFCURVE",
+"293 -240 CURVE SMOOTH",
+"468 -240 OFFCURVE",
+"596 -116 OFFCURVE",
+"596 55 CURVE SMOOTH",
+"596 517 LINE",
+"462 517 LINE",
+"413 557 OFFCURVE",
+"349 579 OFFCURVE",
+"276 579 CURVE SMOOTH",
+"125 579 OFFCURVE",
+"0 444 OFFCURVE",
+"0 284 CURVE SMOOTH"
+);
+}
+);
+width = 596;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{283, -172}";
+},
+{
+name = top;
+position = "{292, 517}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "30A4F371-9CE2-4D6A-8015-2E0BF561087D";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 120 OFFCURVE",
+"115 2 OFFCURVE",
+"274 2 CURVE SMOOTH",
+"322 2 OFFCURVE",
+"366 13 OFFCURVE",
+"404 35 CURVE",
+"395 -19 OFFCURVE",
+"353 -48 OFFCURVE",
+"273 -48 CURVE SMOOTH",
+"217 -48 OFFCURVE",
+"165 -27 OFFCURVE",
+"136 8 CURVE",
+"46 -153 LINE",
+"105 -200 OFFCURVE",
+"196 -229 OFFCURVE",
+"283 -229 CURVE SMOOTH",
+"463 -229 OFFCURVE",
+"594 -110 OFFCURVE",
+"594 55 CURVE SMOOTH",
+"594 517 LINE",
+"427 517 LINE",
+"385 548 OFFCURVE",
+"332 565 OFFCURVE",
+"274 565 CURVE SMOOTH",
+"115 565 OFFCURVE",
+"0 447 OFFCURVE",
+"0 284 CURVE SMOOTH"
+);
+}
+);
+width = 594;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{307, -172}";
+},
+{
+name = top;
+position = "{314, 517}";
+}
+);
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "1781E695-F804-4B3A-A337-ADBE385FEB62";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 175 OFFCURVE",
+"54 85 OFFCURVE",
+"135 42 CURVE",
+"41 -157 LINE",
+"109 -202 OFFCURVE",
+"210 -230 OFFCURVE",
+"307 -230 CURVE SMOOTH",
+"511 -230 OFFCURVE",
+"659 -112 OFFCURVE",
+"659 55 CURVE SMOOTH",
+"659 517 LINE",
+"373 517 LINE",
+"337 539 OFFCURVE",
+"291 552 OFFCURVE",
+"247 552 CURVE SMOOTH",
+"106 552 OFFCURVE",
+"0 437 OFFCURVE",
+"0 284 CURVE SMOOTH"
+);
+}
+);
+width = 659;
 }
 );
 leftKerningGroup = g;
