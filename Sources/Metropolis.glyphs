@@ -10,7 +10,8 @@ HbdqpH,
 "Heé/ecaron êë/edotaccent/edotbelow è/emacron/eogonek/etilde H",
 f,
 "g/gbreve/gcommaaccent",
-h
+h,
+"/idotless i/idotless íîïì/imacron/iogonek"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -14987,25 +14988,13 @@ unicode = 0069;
 {
 color = 1;
 glyphname = idotless;
-lastChange = "2019-05-05 09:32:03 +0000";
+lastChange = "2020-01-30 05:37:20 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{132, 0}";
-},
-{
-name = loop_left;
-position = "{57, 259}";
-},
-{
-name = r_shoulder;
-position = "{132, 291}";
-},
-{
-name = shoulder;
-position = "{132, 329}";
 },
 {
 name = top;
@@ -15033,18 +15022,6 @@ name = bottom;
 position = "{249, 0}";
 },
 {
-name = loop_left;
-position = "{56, 259}";
-},
-{
-name = r_shoulder;
-position = "{249, 219}";
-},
-{
-name = shoulder;
-position = "{249, 290}";
-},
-{
 name = top;
 position = "{153, 517}";
 }
@@ -15068,18 +15045,6 @@ anchors = (
 {
 name = bottom;
 position = "{104, 0}";
-},
-{
-name = loop_left;
-position = "{68, 259}";
-},
-{
-name = r_shoulder;
-position = "{104, 289}";
-},
-{
-name = shoulder;
-position = "{104, 330}";
 },
 {
 name = top;
