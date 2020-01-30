@@ -11,7 +11,8 @@ HbdqpH,
 f,
 "g/gbreve/gcommaaccent",
 h,
-"/idotless i/idotless íîïì/imacron/iogonek"
+"/idotless i/idotless íîïì/imacron/iogonek",
+"/idotless i/jdotless j"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -85,7 +86,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 62;
+GSOffsetHorizontal = 68;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -170,7 +171,7 @@ horizontalStems = (
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 74;
-GSOffsetHorizontal = 50;
+GSOffsetHorizontal = 59;
 GSOffsetProportional = 1;
 GSOffsetVertical = 54;
 };
@@ -255,7 +256,7 @@ iconName = Bold;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 userData = {
 GSCornerRadius = 180;
-GSOffsetHorizontal = 44;
+GSOffsetHorizontal = 62;
 GSOffsetProportional = 1;
 GSOffsetVertical = 24;
 };
@@ -15496,7 +15497,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2020-01-29 03:33:08 +0000";
+lastChange = "2020-01-30 05:45:18 +0000";
 layers = (
 {
 components = (
@@ -15516,15 +15517,14 @@ components = (
 {
 alignment = -1;
 name = jdotless;
-transform = "{1, 0, 0, 1, 46, 0}";
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 36, 0}";
 }
 );
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
-width = 365;
+width = 317;
 },
 {
 components = (
@@ -15547,7 +15547,7 @@ unicode = 006A;
 {
 color = 1;
 glyphname = jdotless;
-lastChange = "2019-05-05 05:46:26 +0000";
+lastChange = "2020-01-30 05:44:35 +0000";
 layers = (
 {
 anchors = (
@@ -15586,7 +15586,7 @@ width = 193;
 anchors = (
 {
 name = top;
-position = "{154, 517}";
+position = "{156, 517}";
 }
 );
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
@@ -15594,26 +15594,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"177 -178 OFFCURVE",
-"253 -102 OFFCURVE",
-"253 6 CURVE SMOOTH",
-"253 517 LINE",
-"60 517 LINE",
-"60 30 LINE SMOOTH",
-"60 -1 OFFCURVE",
-"42 -23 OFFCURVE",
-"16 -23 CURVE SMOOTH",
-"0 -23 OFFCURVE",
-"-19 -20 OFFCURVE",
-"-31 -15 CURVE",
-"-49 -154 LINE",
-"-21 -168 OFFCURVE",
-"28 -178 OFFCURVE",
-"69 -178 CURVE SMOOTH"
+"179 -178 OFFCURVE",
+"255 -102 OFFCURVE",
+"255 6 CURVE SMOOTH",
+"255 517 LINE",
+"62 517 LINE",
+"62 30 LINE SMOOTH",
+"62 -1 OFFCURVE",
+"44 -23 OFFCURVE",
+"18 -23 CURVE SMOOTH",
+"2 -23 OFFCURVE",
+"-17 -20 OFFCURVE",
+"-29 -15 CURVE",
+"-47 -154 LINE",
+"-19 -168 OFFCURVE",
+"30 -178 OFFCURVE",
+"71 -178 CURVE SMOOTH"
 );
 }
 );
-width = 313;
+width = 317;
 },
 {
 anchors = (
@@ -15643,6 +15643,111 @@ nodes = (
 "-63 -171 OFFCURVE",
 "-30 -178 OFFCURVE",
 "-3 -178 CURVE SMOOTH"
+);
+}
+);
+width = 172;
+},
+{
+anchors = (
+{
+name = top;
+position = "{156, 517}";
+}
+);
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "872BB009-C340-4383-B50A-4F16C8C9EB68";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"213 -240 OFFCURVE",
+"317 -136 OFFCURVE",
+"317 6 CURVE SMOOTH",
+"317 517 LINE",
+"0 517 LINE",
+"0 0 LINE SMOOTH",
+"0 -3 OFFCURVE",
+"-8 -6 OFFCURVE",
+"-14 -6 CURVE SMOOTH",
+"-19 -6 OFFCURVE",
+"-24 -4 OFFCURVE",
+"-27 -1 CURVE",
+"-55 -218 LINE",
+"-19 -231 OFFCURVE",
+"30 -240 OFFCURVE",
+"71 -240 CURVE SMOOTH"
+);
+}
+);
+width = 317;
+},
+{
+anchors = (
+{
+name = top;
+position = "{97, 517}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "7C1685E3-B82D-4F7B-A863-6CFBABC21DEF";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"115 -237 OFFCURVE",
+"193 -156 OFFCURVE",
+"193 -46 CURVE SMOOTH",
+"193 517 LINE",
+"0 517 LINE",
+"0 -40 LINE SMOOTH",
+"0 -46 OFFCURVE",
+"-8 -52 OFFCURVE",
+"-17 -52 CURVE SMOOTH",
+"-28 -52 OFFCURVE",
+"-40 -50 OFFCURVE",
+"-50 -43 CURVE",
+"-85 -221 LINE",
+"-58 -230 OFFCURVE",
+"-21 -237 OFFCURVE",
+"8 -237 CURVE SMOOTH"
+);
+}
+);
+width = 193;
+},
+{
+anchors = (
+{
+name = top;
+position = "{85, 517}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "938F2AA3-2027-45C7-A1B9-34858ADA3591";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"99 -246 OFFCURVE",
+"172 -164 OFFCURVE",
+"172 -56 CURVE SMOOTH",
+"172 517 LINE",
+"0 517 LINE",
+"0 -56 LINE SMOOTH",
+"0 -68 OFFCURVE",
+"-13 -74 OFFCURVE",
+"-23 -74 CURVE SMOOTH",
+"-38 -74 OFFCURVE",
+"-51 -67 OFFCURVE",
+"-62 -57 CURVE",
+"-98 -230 LINE",
+"-69 -239 OFFCURVE",
+"-31 -246 OFFCURVE",
+"-3 -246 CURVE SMOOTH"
 );
 }
 );
