@@ -5,7 +5,8 @@ J,
 "T/Tcaron/Tcedilla",
 "HUÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring H",
 HVH,
-"HW/Wacute/Wcircumflex/Wdieresis/Wgrave H"
+"HW/Wacute/Wcircumflex/Wdieresis/Wgrave H",
+HXH
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -9430,7 +9431,7 @@ unicode = 1E80;
 {
 color = 1;
 glyphname = X;
-lastChange = "2019-05-05 05:48:15 +0000";
+lastChange = "2020-01-30 02:42:05 +0000";
 layers = (
 {
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -9503,6 +9504,63 @@ nodes = (
 }
 );
 width = 741;
+},
+{
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "59F875BF-A100-458D-B214-95D40420BD18";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"741 0 LINE",
+"640 345 LINE",
+"741 687 LINE",
+"0 687 LINE",
+"101 342 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 741;
+},
+{
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "CE39B44F-726E-45EA-A7DD-C28AA07EE544";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"717 0 LINE",
+"576 344 LINE",
+"717 687 LINE",
+"0 687 LINE",
+"141 343 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 717;
+},
+{
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "86F711FF-FC7F-4853-B52C-42F1B581E30A";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"719 0 LINE",
+"558 343 LINE",
+"720 687 LINE",
+"0 687 LINE",
+"162 343 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 720;
 }
 );
 leftKerningGroup = X;

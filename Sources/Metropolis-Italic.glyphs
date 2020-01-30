@@ -23,7 +23,8 @@ J,
 "T/Tcaron/Tcedilla",
 "HUÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring H",
 HVH,
-"HW/Wacute/Wcircumflex/Wdieresis/Wgrave H"
+"HW/Wacute/Wcircumflex/Wdieresis/Wgrave H",
+HH
 );
 copyright = "Copyright © 2016-2018 by Chris Simpson";
 date = "2016-07-29 23:55:50 +0000";
@@ -9651,7 +9652,7 @@ unicode = 1E80;
 {
 color = 1;
 glyphname = X;
-lastChange = "2018-09-01 04:20:13 +0000";
+lastChange = "2020-01-30 02:44:13 +0000";
 layers = (
 {
 layerId = "84328D8E-4D54-44EF-AF5C-0364B1C28646";
@@ -9659,23 +9660,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"116 687 LINE",
-"158 687 LINE",
-"541 0 LINE",
-"498 0 LINE"
+"165 687 LINE",
+"207 687 LINE",
+"590 0 LINE",
+"547 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"640 687 LINE",
-"687 687 LINE",
-"18 0 LINE",
-"-29 0 LINE"
+"689 687 LINE",
+"736 687 LINE",
+"67 0 LINE",
+"20 0 LINE"
 );
 }
 );
-width = 624;
+width = 721;
 },
 {
 layerId = "119329DF-C854-46E0-93EC-7E8A22DFCA4F";
@@ -9683,23 +9684,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"120 687 LINE",
-"213 687 LINE",
-"595 0 LINE",
-"502 0 LINE"
+"140 687 LINE",
+"233 687 LINE",
+"615 0 LINE",
+"522 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"643 687 LINE",
-"741 687 LINE",
-"72 0 LINE",
-"-26 0 LINE"
+"663 687 LINE",
+"761 687 LINE",
+"92 0 LINE",
+"-6 0 LINE"
 );
 }
 );
-width = 680;
+width = 720;
 },
 {
 layerId = "88AF04C7-891B-4BE3-8AB1-6195D630646B";
@@ -9707,23 +9708,80 @@ paths = (
 {
 closed = 1;
 nodes = (
-"128 687 LINE",
-"346 687 LINE",
-"689 0 LINE",
-"471 0 LINE"
+"114 687 LINE",
+"332 687 LINE",
+"675 0 LINE",
+"457 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"605 687 LINE",
-"845 687 LINE",
-"212 0 LINE",
-"-28 0 LINE"
+"591 687 LINE",
+"831 687 LINE",
+"198 0 LINE",
+"-42 0 LINE"
 );
 }
 );
-width = 782;
+width = 754;
+},
+{
+associatedMasterId = "84328D8E-4D54-44EF-AF5C-0364B1C28646";
+layerId = "4DF0386B-E1F4-4A06-9686-38B2C9EB344C";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"175 344 LINE",
+"91 687 LINE",
+"810 687 LINE",
+"580 342 LINE",
+"664 0 LINE",
+"-54 0 LINE"
+);
+}
+);
+width = 721;
+},
+{
+associatedMasterId = "119329DF-C854-46E0-93EC-7E8A22DFCA4F";
+layerId = "8FB9AE11-DE02-4AF6-8C22-C521427CA2B1";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"170 345 LINE",
+"92 687 LINE",
+"809 687 LINE",
+"585 342 LINE",
+"663 0 LINE",
+"-54 0 LINE"
+);
+}
+);
+width = 720;
+},
+{
+associatedMasterId = "88AF04C7-891B-4BE3-8AB1-6195D630646B";
+layerId = "0A185216-B942-4D0E-B9B9-5BF83ABC2382";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"132 351 LINE",
+"102 687 LINE",
+"843 687 LINE",
+"657 336 LINE",
+"687 0 LINE",
+"-54 0 LINE"
+);
+}
+);
+width = 754;
 }
 );
 leftKerningGroup = X;
