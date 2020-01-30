@@ -1,20 +1,7 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ\012The quick brown fox\012jumps over the lazy dog",
-A,
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆ",
-"HC/Cacute/Ccaron ÇH",
-H,
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron Ç",
-"HDÐ/Dcaron/Dcroat H",
-"HEÉ/Ecaron ÊË/Edotaccent/Edotbelow È/Emacron/Eogonek/Etilde H",
-HFH,
-"AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron Ç\012DÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent/Edotbelow È/Emacron/Eogonek/Etilde FG/Gbreve/Gcommaaccent H",
-"HIÍÎÏ/Idotaccent Ì/Imacron/Iogonek H",
-HJH,
-"HPÞQR/Racute/Rcaron/Rcommaaccent H",
-"HOS/Sacute/Scaron/Scedilla H"
+J
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -88,7 +75,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 79;
+GSOffsetHorizontal = 93;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -173,7 +160,7 @@ horizontalStems = (
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 74;
-GSOffsetHorizontal = 52;
+GSOffsetHorizontal = 71;
 GSOffsetProportional = 1;
 GSOffsetVertical = 54;
 };
@@ -258,7 +245,7 @@ iconName = Bold;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 userData = {
 GSCornerRadius = 180;
-GSOffsetHorizontal = 38;
+GSOffsetHorizontal = 53;
 GSOffsetProportional = 1;
 GSOffsetVertical = 24;
 };
@@ -4128,7 +4115,7 @@ unicode = 012E;
 {
 color = 1;
 glyphname = J;
-lastChange = "2020-01-29 07:01:32 +0000";
+lastChange = "2020-01-30 02:03:03 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -4219,22 +4206,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"438 -45 OFFCURVE",
-"549 61 OFFCURVE",
+"-34 64 LINE",
+"26 -12 OFFCURVE",
+"140 -65 OFFCURVE",
+"247 -65 CURVE SMOOTH",
+"422 -65 OFFCURVE",
+"549 56 OFFCURVE",
 "549 224 CURVE SMOOTH",
 "549 687 LINE",
 "249 687 LINE",
-"249 265 LINE SMOOTH",
-"249 242 OFFCURVE",
-"231 223 OFFCURVE",
-"210 223 CURVE SMOOTH",
-"190 223 OFFCURVE",
-"172 242 OFFCURVE",
-"171 265 CURVE",
-"0 98 LINE",
-"32 11 OFFCURVE",
-"137 -45 OFFCURVE",
-"267 -45 CURVE SMOOTH"
+"249 244 LINE SMOOTH",
+"249 227 OFFCURVE",
+"234 217 OFFCURVE",
+"216 217 CURVE SMOOTH",
+"197 217 OFFCURVE",
+"178 239 OFFCURVE",
+"169 264 CURVE"
 );
 }
 );
@@ -4249,19 +4236,19 @@ paths = (
 closed = 1;
 nodes = (
 "424 -83 OFFCURVE",
-"545 46 OFFCURVE",
+"545 47 OFFCURVE",
 "545 224 CURVE SMOOTH",
 "545 687 LINE",
 "325 687 LINE",
-"325 213 LINE SMOOTH",
-"325 165 OFFCURVE",
-"290 130 OFFCURVE",
-"242 130 CURVE SMOOTH",
-"201 130 OFFCURVE",
-"165 165 OFFCURVE",
-"158 213 CURVE",
-"0 56 LINE",
-"57 -24 OFFCURVE",
+"325 224 LINE SMOOTH",
+"325 166 OFFCURVE",
+"287 130 OFFCURVE",
+"247 130 CURVE SMOOTH",
+"203 130 OFFCURVE",
+"164 168 OFFCURVE",
+"159 213 CURVE",
+"-6 52 LINE",
+"51 -29 OFFCURVE",
 "157 -83 OFFCURVE",
 "257 -83 CURVE SMOOTH"
 );
@@ -4278,20 +4265,20 @@ paths = (
 closed = 1;
 nodes = (
 "448 -105 OFFCURVE",
-"574 29 OFFCURVE",
+"574 31 OFFCURVE",
 "574 214 CURVE SMOOTH",
 "574 687 LINE",
 "352 687 LINE",
-"352 208 LINE SMOOTH",
-"352 152 OFFCURVE",
-"312 112 OFFCURVE",
-"256 112 CURVE SMOOTH",
-"217 112 OFFCURVE",
-"177 152 OFFCURVE",
-"160 208 CURVE",
-"0 10 LINE",
-"67 -59 OFFCURVE",
-"173 -105 OFFCURVE",
+"352 214 LINE SMOOTH",
+"352 153 OFFCURVE",
+"321 117 OFFCURVE",
+"275 117 CURVE SMOOTH",
+"230 117 OFFCURVE",
+"179 154 OFFCURVE",
+"161 212 CURVE",
+"14 25 LINE",
+"77 -55 OFFCURVE",
+"174 -105 OFFCURVE",
 "275 -105 CURVE SMOOTH"
 );
 }
