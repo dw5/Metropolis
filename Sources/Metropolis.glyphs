@@ -3,7 +3,9 @@
 DisplayStrings = (
 J,
 "T/Tcaron/Tcedilla",
-"HUÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring H"
+"HUÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring H",
+HVH,
+"HW/Wacute/Wcircumflex/Wdieresis/Wgrave H"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
