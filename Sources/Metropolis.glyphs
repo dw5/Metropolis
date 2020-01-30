@@ -2,7 +2,8 @@
 .appVersion = "1271";
 DisplayStrings = (
 "Hl/lacute/lcaron/lslash H",
-m
+m,
+"n/nacute/ncaron/ncommaaccent ñ"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
