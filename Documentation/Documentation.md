@@ -141,6 +141,8 @@ Is as follows:
 7. Commit 
 8. Create release tag
 
+Note: Hoping to arrive at optimal BubbleKern outlines soon to negate the need to ever re-do these.
+
 ## <a name="exportformats"></a> Export formats
 
 Once I've run BubbleKern, I create exports for OpenType, TrueType, UFO, EOT, WOFF & WOFF2.
