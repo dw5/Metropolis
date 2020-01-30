@@ -1,7 +1,8 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-J
+J,
+"T/Tcaron/Tcedilla"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -8138,7 +8139,7 @@ unicode = 015E;
 {
 color = 1;
 glyphname = T;
-lastChange = "2019-05-05 09:30:06 +0000";
+lastChange = "2020-01-30 02:17:39 +0000";
 layers = (
 {
 anchors = (
@@ -8245,14 +8246,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"493 0 LINE",
-"493 438 LINE",
+"558 0 LINE",
+"558 438 LINE",
 "640 438 LINE",
 "640 687 LINE",
 "0 687 LINE",
 "0 438 LINE",
-"147 438 LINE",
-"147 0 LINE"
+"82 438 LINE",
+"82 0 LINE"
 );
 }
 );
@@ -8276,14 +8277,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"426 0 LINE",
-"426 545 LINE",
+"526 0 LINE",
+"526 545 LINE",
 "638 545 LINE",
 "638 687 LINE",
 "0 687 LINE",
 "0 545 LINE",
-"212 545 LINE",
-"212 0 LINE"
+"112 545 LINE",
+"112 0 LINE"
 );
 }
 );
@@ -8307,14 +8308,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"453 0 LINE",
-"453 560 LINE",
+"573 0 LINE",
+"573 560 LINE",
 "688 560 LINE",
 "688 687 LINE",
 "0 687 LINE",
 "0 560 LINE",
-"235 560 LINE",
-"235 0 LINE"
+"115 560 LINE",
+"115 0 LINE"
 );
 }
 );
