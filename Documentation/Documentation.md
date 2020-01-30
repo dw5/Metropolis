@@ -112,7 +112,7 @@ When using this tool/making spacing adjustments, it's key to run it many times. 
 
 After drawing and spacing our glyphs, we need to define approriate kerning information. This would be a mammoth job to do manually each release, so instead I'm using BubbleKern ([http://glyphsextensions.com/bubblekern/](http://glyphsextensions.com/bubblekern/)). If you think back to days of old physical type, imagine the 'bubbles' being the shaped physical block the glyph is mounted on. The block itself is contoured outside of the perimeter of the glyph to allow glyphs tightly align.
 
-Basically for reach outline layer, there needs to be a corresponding 'bubble' layer (see right hand side 'Layers' pane).
+Basically for each outline layer, there needs to be a corresponding 'bubble' layer (see right hand side 'Layers' pane).
 
 It is crucial the width of the corresponding layers are the same (e.g. the 'Thin' layer and it's immediately following 'bubble' layer) for this to work correctly.
 
