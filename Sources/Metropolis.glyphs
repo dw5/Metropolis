@@ -13,7 +13,8 @@ HFH,
 "AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron Ç\012DÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent/Edotbelow È/Emacron/Eogonek/Etilde FG/Gbreve/Gcommaaccent H",
 "HIÍÎÏ/Idotaccent Ì/Imacron/Iogonek H",
 HJH,
-"HPÞQR/Racute/Rcaron/Rcommaaccent H"
+"HPÞQR/Racute/Rcaron/Rcommaaccent H",
+"HOS/Sacute/Scaron/Scedilla H"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -87,7 +88,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 77;
+GSOffsetHorizontal = 79;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -7636,7 +7637,7 @@ unicode = 0156;
 {
 color = 1;
 glyphname = S;
-lastChange = "2019-05-05 05:48:16 +0000";
+lastChange = "2020-01-30 01:31:43 +0000";
 layers = (
 {
 anchors = (
@@ -7814,6 +7815,189 @@ nodes = (
 }
 );
 width = 653;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{338, 0}";
+},
+{
+name = top;
+position = "{338, 687}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "CF130CAB-1733-4107-A532-B5066BEA2FDD";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"523 -90 OFFCURVE",
+"653 22 OFFCURVE",
+"653 177 CURVE SMOOTH",
+"653 315 OFFCURVE",
+"563 396 OFFCURVE",
+"368 442 CURVE SMOOTH",
+"256 469 OFFCURVE",
+"222 493 OFFCURVE",
+"222 507 CURVE SMOOTH",
+"222 553 OFFCURVE",
+"261 585 OFFCURVE",
+"325 585 CURVE SMOOTH",
+"387 585 OFFCURVE",
+"447 559 OFFCURVE",
+"493 511 CURVE",
+"613 664 LINE",
+"532 737 OFFCURVE",
+"427 779 OFFCURVE",
+"327 779 CURVE SMOOTH",
+"155 779 OFFCURVE",
+"28 663 OFFCURVE",
+"28 504 CURVE SMOOTH",
+"28 370 OFFCURVE",
+"127 298 OFFCURVE",
+"314 255 CURVE SMOOTH",
+"431 228 OFFCURVE",
+"461 204 OFFCURVE",
+"461 174 CURVE SMOOTH",
+"461 135 OFFCURVE",
+"417 104 OFFCURVE",
+"345 104 CURVE SMOOTH",
+"268 104 OFFCURVE",
+"194 136 OFFCURVE",
+"145 189 CURVE",
+"25 36 LINE",
+"108 -43 OFFCURVE",
+"225 -90 OFFCURVE",
+"344 -90 CURVE SMOOTH"
+);
+}
+);
+width = 653;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{310, 0}";
+},
+{
+name = top;
+position = "{309, 687}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "4ED42525-9DE6-4166-938A-386627D41163";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"495 -63 OFFCURVE",
+"613 38 OFFCURVE",
+"613 187 CURVE SMOOTH",
+"613 318 OFFCURVE",
+"530 394 OFFCURVE",
+"348 437 CURVE SMOOTH",
+"230 465 OFFCURVE",
+"203 482 OFFCURVE",
+"203 510 CURVE SMOOTH",
+"203 545 OFFCURVE",
+"245 577 OFFCURVE",
+"298 577 CURVE SMOOTH",
+"355 577 OFFCURVE",
+"411 551 OFFCURVE",
+"463 500 CURVE",
+"575 643 LINE",
+"495 716 OFFCURVE",
+"405 752 OFFCURVE",
+"302 752 CURVE SMOOTH",
+"143 752 OFFCURVE",
+"17 645 OFFCURVE",
+"17 504 CURVE SMOOTH",
+"17 373 OFFCURVE",
+"99 303 OFFCURVE",
+"285 259 CURVE SMOOTH",
+"400 233 OFFCURVE",
+"430 213 OFFCURVE",
+"430 180 CURVE SMOOTH",
+"430 141 OFFCURVE",
+"389 112 OFFCURVE",
+"322 112 CURVE SMOOTH",
+"249 112 OFFCURVE",
+"189 139 OFFCURVE",
+"130 200 CURVE",
+"15 58 LINE",
+"98 -22 OFFCURVE",
+"201 -63 OFFCURVE",
+"319 -63 CURVE SMOOTH"
+);
+}
+);
+width = 613;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{323, 0}";
+},
+{
+name = top;
+position = "{323, 687}";
+}
+);
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "B9C163A6-27B9-409F-9121-B2FE7C415CD1";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"539 -50 OFFCURVE",
+"649 54 OFFCURVE",
+"649 218 CURVE SMOOTH",
+"649 353 OFFCURVE",
+"583 419 OFFCURVE",
+"374 463 CURVE SMOOTH",
+"286 482 OFFCURVE",
+"282 488 OFFCURVE",
+"282 493 CURVE SMOOTH",
+"282 494 OFFCURVE",
+"291 500 OFFCURVE",
+"314 500 CURVE SMOOTH",
+"372 500 OFFCURVE",
+"432 479 OFFCURVE",
+"488 438 CURVE",
+"629 637 LINE",
+"545 704 OFFCURVE",
+"441 737 OFFCURVE",
+"319 737 CURVE SMOOTH",
+"135 737 OFFCURVE",
+"0 631 OFFCURVE",
+"0 473 CURVE SMOOTH",
+"0 303 OFFCURVE",
+"153 254 OFFCURVE",
+"303 220 CURVE SMOOTH",
+"376 203 OFFCURVE",
+"393 198 OFFCURVE",
+"393 197 CURVE SMOOTH",
+"393 194 OFFCURVE",
+"382 187 OFFCURVE",
+"350 187 CURVE SMOOTH",
+"279 187 OFFCURVE",
+"212 211 OFFCURVE",
+"147 262 CURVE",
+"-9 74 LINE",
+"82 -6 OFFCURVE",
+"207 -50 OFFCURVE",
+"343 -50 CURVE SMOOTH"
+);
+}
+);
+width = 649;
 }
 );
 leftKerningGroup = S;
