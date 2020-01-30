@@ -4,7 +4,8 @@ DisplayStrings = (
 "Hl/lacute/lcaron/lslash H",
 m,
 "n/nacute/ncaron/ncommaaccent ñ",
-"oóôöò/ohungarumlaut/omacron øõ/oe"
+"oóôöò/ohungarumlaut/omacron øõ/oe",
+"pþ"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -78,7 +79,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 48;
+GSOffsetHorizontal = 50;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -163,7 +164,7 @@ horizontalStems = (
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 74;
-GSOffsetHorizontal = 33;
+GSOffsetHorizontal = 36;
 GSOffsetProportional = 1;
 GSOffsetVertical = 54;
 };
@@ -248,7 +249,7 @@ iconName = Bold;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 userData = {
 GSCornerRadius = 180;
-GSOffsetHorizontal = 16;
+GSOffsetHorizontal = 23;
 GSOffsetProportional = 1;
 GSOffsetVertical = 24;
 };
@@ -18876,19 +18877,9 @@ unicode = 0070;
 {
 color = 1;
 glyphname = thorn;
-lastChange = "2019-05-05 05:48:15 +0000";
+lastChange = "2020-01-30 22:32:54 +0000";
 layers = (
 {
-anchors = (
-{
-name = _loop_right;
-position = "{104, 259}";
-},
-{
-name = loop_right;
-position = "{104, 259}";
-}
-);
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 paths = (
 {
@@ -18938,16 +18929,6 @@ nodes = (
 width = 590;
 },
 {
-anchors = (
-{
-name = _loop_right;
-position = "{135, 259}";
-},
-{
-name = loop_right;
-position = "{135, 259}";
-}
-);
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 paths = (
 {
@@ -18997,16 +18978,6 @@ nodes = (
 width = 597;
 },
 {
-anchors = (
-{
-name = _loop_right;
-position = "{265, 259}";
-},
-{
-name = loop_right;
-position = "{265, 259}";
-}
-);
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 paths = (
 {
@@ -19054,6 +19025,100 @@ nodes = (
 }
 );
 width = 690;
+},
+{
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "8D49025E-47DF-4DC7-9AA0-1317FFFD85BA";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"582 -35 OFFCURVE",
+"690 87 OFFCURVE",
+"690 259 CURVE SMOOTH",
+"690 429 OFFCURVE",
+"582 552 OFFCURVE",
+"430 552 CURVE SMOOTH",
+"281 552 OFFCURVE",
+"174 429 OFFCURVE",
+"174 259 CURVE SMOOTH",
+"174 88 OFFCURVE",
+"280 -35 OFFCURVE",
+"430 -35 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"337 -172 LINE",
+"337 699 LINE",
+"0 699 LINE",
+"0 -172 LINE"
+);
+}
+);
+width = 690;
+},
+{
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "9C94EF53-AB63-4276-BCAB-75941AE97D15";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"195 -172 LINE",
+"195 -15 LINE",
+"232 -36 OFFCURVE",
+"275 -48 OFFCURVE",
+"323 -48 CURVE SMOOTH",
+"481 -48 OFFCURVE",
+"597 82 OFFCURVE",
+"597 259 CURVE SMOOTH",
+"597 435 OFFCURVE",
+"481 565 OFFCURVE",
+"323 565 CURVE SMOOTH",
+"275 565 OFFCURVE",
+"232 553 OFFCURVE",
+"195 532 CURVE",
+"195 699 LINE",
+"0 699 LINE",
+"0 -172 LINE"
+);
+}
+);
+width = 597;
+},
+{
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "9012B884-21F5-4219-B544-AD56002BB5E7";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"172 -172 LINE",
+"172 -28 LINE",
+"212 -50 OFFCURVE",
+"258 -62 OFFCURVE",
+"308 -62 CURVE SMOOTH",
+"462 -62 OFFCURVE",
+"590 85 OFFCURVE",
+"590 259 CURVE SMOOTH",
+"590 433 OFFCURVE",
+"463 579 OFFCURVE",
+"308 579 CURVE SMOOTH",
+"258 579 OFFCURVE",
+"212 567 OFFCURVE",
+"172 545 CURVE",
+"172 699 LINE",
+"0 699 LINE",
+"0 -172 LINE"
+);
+}
+);
+width = 590;
 }
 );
 leftKerningGroup = p;
