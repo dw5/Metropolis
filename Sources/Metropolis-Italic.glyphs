@@ -49,7 +49,7 @@ nh,
 "fhnrt/tcaron/tcedilla",
 "hnuúûüù/uhungarumlaut/umacron/uogonek/uring hn",
 woven,
-"w/wacute/wcircumflex/wdieresis/wgrave"
+XORK
 );
 copyright = "Copyright © 2016-2018 by Chris Simpson";
 date = "2016-07-29 23:55:50 +0000";
@@ -4419,7 +4419,7 @@ unicode = 004A;
 {
 color = 1;
 glyphname = K;
-lastChange = "2020-01-29 07:06:00 +0000";
+lastChange = "2020-01-31 02:20:31 +0000";
 layers = (
 {
 anchors = (
@@ -4523,7 +4523,7 @@ paths = (
 closed = 1;
 nodes = (
 "690 0 LINE",
-"651 395 LINE",
+"690 423 LINE",
 "833 687 LINE",
 "89 687 LINE",
 "-54 0 LINE"
@@ -4547,7 +4547,7 @@ paths = (
 closed = 1;
 nodes = (
 "617 0 LINE",
-"542 373 LINE",
+"617 406 LINE",
 "760 687 LINE",
 "89 687 LINE",
 "-54 0 LINE"
@@ -4571,7 +4571,7 @@ paths = (
 closed = 1;
 nodes = (
 "616 0 LINE",
-"528 376 LINE",
+"616 409 LINE",
 "759 687 LINE",
 "89 687 LINE",
 "-54 0 LINE"
@@ -9678,7 +9678,7 @@ unicode = 1E80;
 {
 color = 1;
 glyphname = X;
-lastChange = "2020-01-30 02:44:13 +0000";
+lastChange = "2020-01-31 02:20:18 +0000";
 layers = (
 {
 layerId = "84328D8E-4D54-44EF-AF5C-0364B1C28646";
@@ -9760,10 +9760,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"175 344 LINE",
+"115 344 LINE",
 "91 687 LINE",
 "810 687 LINE",
-"580 342 LINE",
+"640 342 LINE",
 "664 0 LINE",
 "-54 0 LINE"
 );
@@ -9779,10 +9779,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"170 345 LINE",
+"110 345 LINE",
 "92 687 LINE",
 "809 687 LINE",
-"585 342 LINE",
+"645 342 LINE",
 "663 0 LINE",
 "-54 0 LINE"
 );
@@ -9798,10 +9798,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"132 351 LINE",
+"92 351 LINE",
 "102 687 LINE",
 "843 687 LINE",
-"657 336 LINE",
+"697 336 LINE",
 "687 0 LINE",
 "-54 0 LINE"
 );
