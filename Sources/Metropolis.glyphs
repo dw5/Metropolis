@@ -9,7 +9,9 @@ m,
 q,
 "Hs/sacute/scaron/scedilla H",
 "ß",
-"fnshrt/tcaron/tcedilla"
+"fnshrt/tcaron/tcedilla",
+u,
+"hnuúûüù/uhungarumlaut/umacron/uogonek/uring hn"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -83,7 +85,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 56;
+GSOffsetHorizontal = 62;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -168,7 +170,7 @@ horizontalStems = (
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 74;
-GSOffsetHorizontal = 53;
+GSOffsetHorizontal = 50;
 GSOffsetProportional = 1;
 GSOffsetVertical = 54;
 };
@@ -253,7 +255,7 @@ iconName = Bold;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 userData = {
 GSCornerRadius = 180;
-GSOffsetHorizontal = 50;
+GSOffsetHorizontal = 44;
 GSOffsetProportional = 1;
 GSOffsetVertical = 24;
 };
@@ -21261,7 +21263,7 @@ unicode = 0163;
 {
 color = 1;
 glyphname = u;
-lastChange = "2019-05-05 05:48:15 +0000";
+lastChange = "2020-01-31 01:50:23 +0000";
 layers = (
 {
 anchors = (
@@ -21400,6 +21402,105 @@ nodes = (
 }
 );
 width = 529;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{461, 0}";
+},
+{
+name = top;
+position = "{256, 517}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "7C151481-51C8-4451-8745-6A16C151BA1C";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 33 OFFCURVE",
+"108 -74 OFFCURVE",
+"255 -74 CURVE SMOOTH",
+"330 -74 OFFCURVE",
+"395 -46 OFFCURVE",
+"439 0 CURVE",
+"529 0 LINE",
+"529 517 LINE",
+"0 517 LINE",
+"0 178 LINE SMOOTH"
+);
+}
+);
+width = 529;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{489, 0}";
+},
+{
+name = top;
+position = "{262, 517}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "8596FD80-9255-4554-B482-3C0AADE348BD";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 42 OFFCURVE",
+"101 -62 OFFCURVE",
+"244 -62 CURVE SMOOTH",
+"308 -62 OFFCURVE",
+"368 -38 OFFCURVE",
+"411 0 CURVE",
+"546 0 LINE",
+"546 517 LINE",
+"0 517 LINE",
+"0 188 LINE SMOOTH"
+);
+}
+);
+width = 546;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{573, 0}";
+},
+{
+name = top;
+position = "{303, 517}";
+}
+);
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "9203406A-6A36-4AB0-9FA6-3235AE4F4394";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 47 OFFCURVE",
+"98 -56 OFFCURVE",
+"234 -56 CURVE SMOOTH",
+"296 -56 OFFCURVE",
+"351 -35 OFFCURVE",
+"391 0 CURVE",
+"628 0 LINE",
+"628 517 LINE",
+"0 517 LINE",
+"0 188 LINE SMOOTH"
+);
+}
+);
+width = 628;
 }
 );
 leftKerningGroup = u;
@@ -21408,7 +21509,7 @@ unicode = 0075;
 },
 {
 glyphname = uacute;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 01:48:32 +0000";
 layers = (
 {
 components = (
@@ -21456,7 +21557,7 @@ unicode = 00FA;
 },
 {
 glyphname = ucircumflex;
-lastChange = "2019-05-05 08:56:11 +0000";
+lastChange = "2020-01-31 01:48:32 +0000";
 layers = (
 {
 components = (
@@ -21504,7 +21605,7 @@ unicode = 00FB;
 },
 {
 glyphname = udieresis;
-lastChange = "2019-05-05 08:56:11 +0000";
+lastChange = "2020-01-31 01:48:32 +0000";
 layers = (
 {
 components = (
@@ -21552,7 +21653,7 @@ unicode = 00FC;
 },
 {
 glyphname = ugrave;
-lastChange = "2019-05-05 08:56:11 +0000";
+lastChange = "2020-01-31 01:50:48 +0000";
 layers = (
 {
 components = (
@@ -21586,13 +21687,12 @@ components = (
 name = u;
 },
 {
-alignment = -1;
 name = grave;
-transform = "{1, 0, 0, 1, 174, 0}";
+transform = "{1, 0, 0, 1, 67, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
-width = 571;
+width = 529;
 }
 );
 leftKerningGroup = u;
@@ -21601,7 +21701,7 @@ unicode = 00F9;
 },
 {
 glyphname = uhungarumlaut;
-lastChange = "2019-05-05 08:56:10 +0000";
+lastChange = "2020-01-31 01:48:32 +0000";
 layers = (
 {
 components = (
@@ -21652,7 +21752,7 @@ unicode = 0171;
 },
 {
 glyphname = umacron;
-lastChange = "2019-05-05 08:56:11 +0000";
+lastChange = "2020-01-31 01:48:32 +0000";
 layers = (
 {
 components = (
@@ -21748,7 +21848,7 @@ unicode = 0173;
 },
 {
 glyphname = uring;
-lastChange = "2019-05-05 08:56:10 +0000";
+lastChange = "2020-01-31 01:48:32 +0000";
 layers = (
 {
 components = (
