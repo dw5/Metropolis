@@ -1,20 +1,7 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-"Hl/lacute/lcaron/lslash H",
-m,
-"n/nacute/ncaron/ncommaaccent ñ",
-"oóôöò/ohungarumlaut/omacron øõ/oe",
-"pþ",
-q,
-"Hs/sacute/scaron/scedilla H",
-"ß",
-"fnshrt/tcaron/tcedilla",
-u,
-"hnuúûüù/uhungarumlaut/umacron/uogonek/uring hn",
-woven,
-"w/wacute/wcircumflex/wdieresis/wgrave \012woven\012cowan",
-XOR
+"/a.alt/aacute.alt/abreve.alt/acircumflex.alt/adieresis.alt/agrave.alt/amacron.alt/aogonek.alt/aring.alt/atilde.alt"
 );
 date = "2019-05-02 01:09:40 +0000";
 designerURL = "https://github.com/chrismsimpson/Metropolis";
@@ -88,7 +75,7 @@ horizontalStems = (
 iconName = Light;
 id = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
 userData = {
-GSOffsetHorizontal = 62;
+GSOffsetHorizontal = 51;
 GSOffsetProportional = 1;
 GSOffsetVertical = 79;
 };
@@ -173,7 +160,7 @@ horizontalStems = (
 id = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
 userData = {
 GSCornerRadius = 74;
-GSOffsetHorizontal = 50;
+GSOffsetHorizontal = 37;
 GSOffsetProportional = 1;
 GSOffsetVertical = 54;
 };
@@ -258,7 +245,7 @@ iconName = Bold;
 id = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 userData = {
 GSCornerRadius = 180;
-GSOffsetHorizontal = 44;
+GSOffsetHorizontal = 23;
 GSOffsetProportional = 1;
 GSOffsetVertical = 24;
 };
@@ -4306,7 +4293,7 @@ unicode = 004A;
 {
 color = 1;
 glyphname = K;
-lastChange = "2020-01-29 07:08:47 +0000";
+lastChange = "2020-01-31 02:19:30 +0000";
 layers = (
 {
 anchors = (
@@ -4410,7 +4397,7 @@ paths = (
 closed = 1;
 nodes = (
 "671 0 LINE",
-"504 376 LINE",
+"573 411 LINE",
 "671 687 LINE",
 "0 687 LINE",
 "0 0 LINE"
@@ -4434,7 +4421,7 @@ paths = (
 closed = 1;
 nodes = (
 "672 0 LINE",
-"514 373 LINE",
+"581 395 LINE",
 "672 687 LINE",
 "0 687 LINE",
 "0 0 LINE"
@@ -4458,7 +4445,7 @@ paths = (
 closed = 1;
 nodes = (
 "750 0 LINE",
-"636 400 LINE",
+"666 410 LINE",
 "750 687 LINE",
 "0 687 LINE",
 "0 0 LINE"
@@ -15767,7 +15754,7 @@ unicode = 0237;
 {
 color = 1;
 glyphname = k;
-lastChange = "2020-01-30 06:01:05 +0000";
+lastChange = "2020-01-31 02:25:09 +0000";
 layers = (
 {
 anchors = (
@@ -15871,7 +15858,7 @@ paths = (
 closed = 1;
 nodes = (
 "523 0 LINE",
-"387 285 LINE",
+"464 306 LINE",
 "523 517 LINE",
 "172 517 LINE",
 "172 699 LINE",
@@ -15897,7 +15884,7 @@ paths = (
 closed = 1;
 nodes = (
 "541 0 LINE",
-"411 286 LINE",
+"461 296 LINE",
 "541 517 LINE",
 "193 517 LINE",
 "193 699 LINE",
@@ -15923,7 +15910,7 @@ paths = (
 closed = 1;
 nodes = (
 "620 0 LINE",
-"534 299 LINE",
+"574 329 LINE",
 "620 517 LINE",
 "321 517 LINE",
 "321 699 LINE",
@@ -22382,7 +22369,7 @@ unicode = 1E81;
 {
 color = 1;
 glyphname = x;
-lastChange = "2019-05-05 05:38:09 +0000";
+lastChange = "2020-01-31 02:33:44 +0000";
 layers = (
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
@@ -22455,6 +22442,63 @@ nodes = (
 }
 );
 width = 531;
+},
+{
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "CB84AAD9-73BB-4E07-AB1E-AEE7A5134BE9";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"588 0 LINE",
+"544 267 LINE",
+"578 517 LINE",
+"9 517 LINE",
+"44 264 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 588;
+},
+{
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "22D29824-8DB6-4AD4-B83C-FFE32E202D2A";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"543 0 LINE",
+"494 264 LINE",
+"535 517 LINE",
+"8 517 LINE",
+"49 264 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 543;
+},
+{
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "1D9EA2C0-4439-4806-AD24-5AE35BA0B7F6";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"531 0 LINE",
+"472 264 LINE",
+"523 517 LINE",
+"8 517 LINE",
+"60 264 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 531;
 }
 );
 leftKerningGroup = x;
@@ -22464,7 +22508,7 @@ unicode = 0078;
 {
 color = 1;
 glyphname = y;
-lastChange = "2019-05-05 05:48:16 +0000";
+lastChange = "2020-01-31 02:42:26 +0000";
 layers = (
 {
 anchors = (
@@ -22572,6 +22616,93 @@ nodes = (
 "82 -174 OFFCURVE",
 "113 -180 OFFCURVE",
 "141 -180 CURVE SMOOTH"
+);
+}
+);
+width = 578;
+},
+{
+anchors = (
+{
+name = top;
+position = "{312, 517}";
+}
+);
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "6C4DB573-87F7-42BA-A50A-35E8CE2759FF";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"315 -230 OFFCURVE",
+"470 -179 OFFCURVE",
+"500 -31 CURVE SMOOTH",
+"612 517 LINE",
+"0 517 LINE",
+"98 35 LINE",
+"29 -187 LINE",
+"77 -212 OFFCURVE",
+"148 -230 OFFCURVE",
+"205 -230 CURVE SMOOTH"
+);
+}
+);
+width = 612;
+},
+{
+anchors = (
+{
+name = top;
+position = "{292, 517}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "59A683C1-E57D-4947-93B1-085C715652D6";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"303 -233 OFFCURVE",
+"398 -183 OFFCURVE",
+"435 -35 CURVE SMOOTH",
+"572 517 LINE",
+"0 517 LINE",
+"102 -47 LINE",
+"54 -215 LINE",
+"83 -226 OFFCURVE",
+"118 -233 OFFCURVE",
+"151 -233 CURVE SMOOTH"
+);
+}
+);
+width = 572;
+},
+{
+anchors = (
+{
+name = top;
+position = "{293, 517}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "398292D8-7740-4B7C-8489-F06F8A448EF2";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"294 -242 OFFCURVE",
+"392 -180 OFFCURVE",
+"432 -29 CURVE SMOOTH",
+"578 517 LINE",
+"0 517 LINE",
+"85 -65 LINE",
+"43 -224 LINE",
+"71 -235 OFFCURVE",
+"108 -242 OFFCURVE",
+"141 -242 CURVE SMOOTH"
 );
 }
 );
@@ -22777,8 +22908,58 @@ unicode = 1EF3;
 {
 color = 1;
 glyphname = z;
-lastChange = "2019-05-05 05:48:16 +0000";
+lastChange = "2020-01-31 02:51:35 +0000";
 layers = (
+{
+anchors = (
+{
+name = top;
+position = "{252, 517}";
+}
+);
+layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+paths = (
+{
+closed = 1;
+nodes = (
+"455 0 LINE",
+"455 36 LINE",
+"94 36 LINE",
+"453 487 LINE",
+"453 517 LINE",
+"53 517 LINE",
+"53 481 LINE",
+"406 481 LINE",
+"47 30 LINE",
+"47 0 LINE"
+);
+}
+);
+width = 502;
+},
+{
+anchors = (
+{
+name = top;
+position = "{252, 517}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "52DD0C53-3463-4FC1-928C-E5640E0C3AEA";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"502 0 LINE",
+"502 517 LINE",
+"0 517 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 502;
+},
 {
 anchors = (
 {
@@ -22813,6 +22994,52 @@ name = top;
 position = "{283, 517}";
 }
 );
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "FDC345D5-2BB6-4340-BB9D-DD7D4E92D5BE";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"557 0 LINE",
+"557 517 LINE",
+"0 517 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 557;
+},
+{
+anchors = (
+{
+name = top;
+position = "{245, 517}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "CF4A13CB-E762-41FA-AB37-A58FBE0AA63F";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"479 0 LINE",
+"479 517 LINE",
+"0 517 LINE",
+"0 0 LINE"
+);
+}
+);
+width = 479;
+},
+{
+anchors = (
+{
+name = top;
+position = "{283, 517}";
+}
+);
 layerId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
 paths = (
 {
@@ -22832,33 +23059,6 @@ nodes = (
 }
 );
 width = 557;
-},
-{
-anchors = (
-{
-name = top;
-position = "{252, 517}";
-}
-);
-layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
-paths = (
-{
-closed = 1;
-nodes = (
-"455 0 LINE",
-"455 36 LINE",
-"94 36 LINE",
-"453 487 LINE",
-"453 517 LINE",
-"53 517 LINE",
-"53 481 LINE",
-"406 481 LINE",
-"47 30 LINE",
-"47 0 LINE"
-);
-}
-);
-width = 502;
 }
 );
 leftKerningGroup = z;
@@ -23012,29 +23212,13 @@ unicode = 017C;
 {
 color = 1;
 glyphname = a.alt;
-lastChange = "2020-01-30 03:14:39 +0000";
+lastChange = "2020-01-31 02:55:07 +0000";
 layers = (
 {
 anchors = (
 {
-name = _loop_left;
-position = "{463, 259}";
-},
-{
 name = bottom;
 position = "{538, 0}";
-},
-{
-name = loop_left;
-position = "{463, 259}";
-},
-{
-name = r_shoulder;
-position = "{538, 291}";
-},
-{
-name = shoulder;
-position = "{538, 329}";
 },
 {
 name = top;
@@ -23092,24 +23276,8 @@ width = 595;
 {
 anchors = (
 {
-name = _loop_left;
-position = "{425, 259}";
-},
-{
 name = bottom;
 position = "{618, 0}";
-},
-{
-name = loop_left;
-position = "{425, 259}";
-},
-{
-name = r_shoulder;
-position = "{618, 219}";
-},
-{
-name = shoulder;
-position = "{618, 290}";
 },
 {
 name = top;
@@ -23167,28 +23335,12 @@ width = 673;
 {
 anchors = (
 {
-name = _loop_left;
-position = "{487, 259}";
-},
-{
 name = bottom;
 position = "{523, 0}";
 },
 {
-name = loop_left;
-position = "{487, 259}";
-},
-{
-name = r_shoulder;
-position = "{523, 289}";
-},
-{
-name = shoulder;
-position = "{523, 330}";
-},
-{
 name = top;
-position = "{287, 517}";
+position = "{295, 517}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23238,6 +23390,120 @@ nodes = (
 }
 );
 width = 591;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{618, 0}";
+},
+{
+name = top;
+position = "{330, 517}";
+}
+);
+associatedMasterId = "A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B";
+layerId = "042B73F9-ABA2-4E83-9704-9177ECAF1068";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 87 OFFCURVE",
+"107 -35 OFFCURVE",
+"260 -35 CURVE SMOOTH",
+"308 -35 OFFCURVE",
+"351 -23 OFFCURVE",
+"388 0 CURVE",
+"673 0 LINE",
+"673 517 LINE",
+"389 517 LINE",
+"352 540 OFFCURVE",
+"308 552 OFFCURVE",
+"260 552 CURVE SMOOTH",
+"108 552 OFFCURVE",
+"0 430 OFFCURVE",
+"0 259 CURVE SMOOTH"
+);
+}
+);
+width = 673;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{538, 0}";
+},
+{
+name = top;
+position = "{301, 517}";
+}
+);
+associatedMasterId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
+layerId = "497F7C1F-6530-4AE2-9EA4-DC8C1BC0C5F9";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 79 OFFCURVE",
+"114 -49 OFFCURVE",
+"275 -49 CURVE SMOOTH",
+"333 -49 OFFCURVE",
+"384 -31 OFFCURVE",
+"425 0 CURVE",
+"595 0 LINE",
+"595 517 LINE",
+"425 517 LINE",
+"384 548 OFFCURVE",
+"333 566 OFFCURVE",
+"275 566 CURVE SMOOTH",
+"114 566 OFFCURVE",
+"0 438 OFFCURVE",
+"0 259 CURVE SMOOTH"
+);
+}
+);
+width = 595;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{523, 0}";
+},
+{
+name = top;
+position = "{295, 517}";
+}
+);
+associatedMasterId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
+layerId = "8B2B0739-0EC4-4C62-926C-09DD9B3BE34F";
+name = bubble;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 71 OFFCURVE",
+"117 -63 OFFCURVE",
+"283 -63 CURVE SMOOTH",
+"351 -63 OFFCURVE",
+"410 -40 OFFCURVE",
+"457 0 CURVE",
+"591 0 LINE",
+"591 517 LINE",
+"457 517 LINE",
+"411 557 OFFCURVE",
+"351 580 OFFCURVE",
+"283 580 CURVE SMOOTH",
+"117 580 OFFCURVE",
+"0 446 OFFCURVE",
+"0 259 CURVE SMOOTH"
+);
+}
+);
+width = 591;
 }
 );
 leftKerningGroup = a.alt;
@@ -23245,7 +23511,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = aacute.alt;
-lastChange = "2020-01-30 03:14:39 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23281,7 +23547,7 @@ name = a.alt;
 {
 alignment = 1;
 name = acute;
-transform = "{1, 0, 0, 1, 215, 0}";
+transform = "{1, 0, 0, 1, 223, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23293,7 +23559,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = abreve.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23302,7 +23568,7 @@ name = a.alt;
 },
 {
 name = breve;
-transform = "{1, 0, 0, 1, 93, 0}";
+transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23340,7 +23606,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = acircumflex.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23375,7 +23641,7 @@ name = a.alt;
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 112, 0}";
+transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23387,7 +23653,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = adieresis.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23422,7 +23688,7 @@ name = a.alt;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 111, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23434,7 +23700,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = agrave.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23469,7 +23735,7 @@ name = a.alt;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 98, 0}";
+transform = "{1, 0, 0, 1, 106, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23481,7 +23747,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = amacron.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23490,7 +23756,7 @@ name = a.alt;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 66, 0}";
+transform = "{1, 0, 0, 1, 74, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23575,7 +23841,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = aring.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23610,7 +23876,7 @@ name = a.alt;
 },
 {
 name = ring;
-transform = "{1, 0, 0, 1, 131, 0}";
+transform = "{1, 0, 0, 1, 139, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -23622,7 +23888,7 @@ rightKerningGroup = a.alt;
 },
 {
 glyphname = atilde.alt;
-lastChange = "2020-01-30 03:14:42 +0000";
+lastChange = "2020-01-31 02:53:06 +0000";
 layers = (
 {
 components = (
@@ -23657,7 +23923,7 @@ name = a.alt;
 },
 {
 name = tilde;
-transform = "{1, 0, 0, 1, 79, 0}";
+transform = "{1, 0, 0, 1, 87, 0}";
 }
 );
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -33667,7 +33933,7 @@ width = 676;
 {
 export = 0;
 glyphname = _areas;
-lastChange = "2020-01-31 02:18:09 +0000";
+lastChange = "2020-01-31 02:35:27 +0000";
 layers = (
 {
 layerId = "3B040282-CF47-4846-BCAF-7BFF90FB63BC";
@@ -33911,317 +34177,317 @@ paths = (
 {
 closed = 1;
 nodes = (
-"9 -113.74 LINE",
-"91.72 -110 LINE",
-"91.72 -105 LINE",
-"91.72 -100 LINE",
-"91.72 -95 LINE",
-"91.72 -90 LINE",
-"91.72 -85 LINE",
-"89 -80 LINE",
-"84 -75 LINE",
-"79 -70 LINE",
-"74 -65 LINE",
-"69 -60 LINE",
-"64 -55 LINE",
-"59 -50 LINE",
-"54 -45 LINE",
-"49 -40 LINE",
-"44 -35 LINE",
-"39 -30 LINE",
-"34 -25 LINE",
-"29 -20 LINE",
-"24 -15 LINE",
-"19 -10 LINE",
-"14 -5 LINE",
-"9 0 LINE",
-"12.491 5 LINE",
-"15.983 10 LINE",
-"19.474 15 LINE",
-"22.965 20 LINE",
-"26.456 25 LINE",
-"29.948 30 LINE",
-"33.439 35 LINE",
-"36.93 40 LINE",
-"40.422 45 LINE",
-"43.913 50 LINE",
-"47.404 55 LINE",
-"50.896 60 LINE",
-"54.387 65 LINE",
-"57.878 70 LINE",
-"61.369 75 LINE",
-"64.861 80 LINE",
-"68.352 85 LINE",
-"71.843 90 LINE",
-"75.335 95 LINE",
-"78.826 100 LINE",
-"82.317 105 LINE",
-"85.809 110 LINE",
-"89.3 115 LINE",
-"91.72 120 LINE",
-"91.72 125 LINE",
-"91.72 130 LINE",
-"91.72 135 LINE",
-"91.72 140 LINE",
-"91.72 145 LINE",
-"91.72 150 LINE",
-"91.72 155 LINE",
-"91.72 160 LINE",
-"91.72 165 LINE",
-"91.72 170 LINE",
-"91.72 175 LINE",
-"91.72 180 LINE",
-"91.72 185 LINE",
-"91.72 190 LINE",
-"91.72 195 LINE",
-"91.72 200 LINE",
-"91.72 205 LINE",
-"91.72 210 LINE",
-"91.72 215 LINE",
-"91.72 220 LINE",
-"91.72 225 LINE",
-"91.72 230 LINE",
-"91.72 235 LINE",
-"91.72 240 LINE",
-"91.72 245 LINE",
-"91.72 250 LINE",
-"91.72 255 LINE",
-"91.72 260 LINE",
-"91.72 265 LINE",
-"91.72 270 LINE",
-"91.72 275 LINE",
-"91.72 280 LINE",
-"91.72 285 LINE",
-"91.72 290 LINE",
-"91.72 295 LINE",
-"91.72 300 LINE",
-"91.72 305 LINE",
-"91.72 310 LINE",
-"91.72 315 LINE",
-"91.72 320 LINE",
-"91.72 325 LINE",
-"91.72 330 LINE",
-"91.72 335 LINE",
-"91.72 340 LINE",
-"91.72 345 LINE",
-"91.72 350 LINE",
-"91.72 355 LINE",
-"91.72 360 LINE",
-"91.72 365 LINE",
-"91.72 370 LINE",
-"91.72 375 LINE",
-"91.72 380 LINE",
-"91.72 385 LINE",
-"91.72 390 LINE",
-"91.72 395 LINE",
-"91.72 400 LINE",
-"91.72 405 LINE",
-"91.72 410 LINE",
-"88.433 415 LINE",
-"84.981 420 LINE",
-"81.528 425 LINE",
-"78.075 430 LINE",
-"74.623 435 LINE",
-"71.17 440 LINE",
-"67.718 445 LINE",
-"64.265 450 LINE",
-"60.812 455 LINE",
-"57.36 460 LINE",
-"53.907 465 LINE",
-"50.455 470 LINE",
-"47.002 475 LINE",
-"43.549 480 LINE",
-"40.097 485 LINE",
-"36.644 490 LINE",
-"33.191 495 LINE",
-"29.739 500 LINE",
-"26.286 505 LINE",
-"22.834 510 LINE",
-"19.381 515 LINE",
-"24.381 520 LINE",
-"29.381 525 LINE",
-"34.381 530 LINE",
-"39.381 535 LINE",
-"44.381 540 LINE",
-"49.381 545 LINE",
-"54.381 550 LINE",
-"59.381 555 LINE",
-"64.381 560 LINE",
-"69.381 565 LINE",
-"74.381 570 LINE",
-"79.381 575 LINE",
-"84.381 580 LINE",
-"89.381 585 LINE",
-"91.72 590 LINE",
-"91.72 595 LINE",
-"91.72 600 LINE",
-"91.72 605 LINE",
-"91.72 610 LINE",
-"91.72 615 LINE",
-"91.72 620 LINE",
-"91.72 625 LINE",
-"91.72 630 LINE",
-"9 630.74 LINE"
+"9.798 -113.74 LINE",
+"52.806 -110 LINE",
+"54.379 -105 LINE",
+"55.952 -100 LINE",
+"57.524 -95 LINE",
+"59.097 -90 LINE",
+"60.669 -85 LINE",
+"62.242 -80 LINE",
+"63.815 -75 LINE",
+"65.387 -70 LINE",
+"66.96 -65 LINE",
+"68.532 -60 LINE",
+"70.105 -55 LINE",
+"71.677 -50 LINE",
+"73.25 -45 LINE",
+"74.823 -40 LINE",
+"76.395 -35 LINE",
+"77.968 -30 LINE",
+"79.54 -25 LINE",
+"81.113 -20 LINE",
+"82.685 -15 LINE",
+"87.685 -10 LINE",
+"92.518 -5 LINE",
+"92.518 0 LINE",
+"92.518 5 LINE",
+"92.518 10 LINE",
+"92.518 15 LINE",
+"92.518 20 LINE",
+"92.518 25 LINE",
+"92.518 30 LINE",
+"92.518 35 LINE",
+"92.518 40 LINE",
+"92.518 45 LINE",
+"92.518 50 LINE",
+"92.518 55 LINE",
+"92.518 60 LINE",
+"92.518 65 LINE",
+"92.518 70 LINE",
+"92.518 75 LINE",
+"92.518 80 LINE",
+"92.518 85 LINE",
+"92.518 90 LINE",
+"92.518 95 LINE",
+"92.518 100 LINE",
+"92.518 105 LINE",
+"92.518 110 LINE",
+"92.518 115 LINE",
+"92.518 120 LINE",
+"92.518 125 LINE",
+"92.518 130 LINE",
+"92.518 135 LINE",
+"92.518 140 LINE",
+"92.518 145 LINE",
+"92.518 150 LINE",
+"92.518 155 LINE",
+"92.518 160 LINE",
+"92.518 165 LINE",
+"92.518 170 LINE",
+"92.518 175 LINE",
+"92.518 180 LINE",
+"92.518 185 LINE",
+"92.518 190 LINE",
+"92.518 195 LINE",
+"92.518 200 LINE",
+"92.518 205 LINE",
+"92.518 210 LINE",
+"92.518 215 LINE",
+"92.518 220 LINE",
+"92.518 225 LINE",
+"92.518 230 LINE",
+"92.518 235 LINE",
+"92.518 240 LINE",
+"92.518 245 LINE",
+"92.518 250 LINE",
+"92.518 255 LINE",
+"92.518 260 LINE",
+"92.518 265 LINE",
+"92.518 270 LINE",
+"92.518 275 LINE",
+"92.518 280 LINE",
+"92.518 285 LINE",
+"92.518 290 LINE",
+"92.518 295 LINE",
+"92.518 300 LINE",
+"92.518 305 LINE",
+"91.563 310 LINE",
+"89.569 315 LINE",
+"87.574 320 LINE",
+"85.58 325 LINE",
+"83.586 330 LINE",
+"81.592 335 LINE",
+"79.597 340 LINE",
+"77.603 345 LINE",
+"75.609 350 LINE",
+"73.615 355 LINE",
+"71.62 360 LINE",
+"69.626 365 LINE",
+"67.632 370 LINE",
+"65.637 375 LINE",
+"63.643 380 LINE",
+"61.649 385 LINE",
+"59.655 390 LINE",
+"57.66 395 LINE",
+"55.666 400 LINE",
+"53.672 405 LINE",
+"51.677 410 LINE",
+"49.683 415 LINE",
+"47.689 420 LINE",
+"45.695 425 LINE",
+"43.7 430 LINE",
+"41.706 435 LINE",
+"39.712 440 LINE",
+"37.718 445 LINE",
+"35.723 450 LINE",
+"33.729 455 LINE",
+"31.735 460 LINE",
+"29.74 465 LINE",
+"27.746 470 LINE",
+"25.752 475 LINE",
+"23.758 480 LINE",
+"21.763 485 LINE",
+"19.769 490 LINE",
+"17.775 495 LINE",
+"15.781 500 LINE",
+"13.786 505 LINE",
+"11.792 510 LINE",
+"9.798 515 LINE",
+"14.798 520 LINE",
+"19.798 525 LINE",
+"24.798 530 LINE",
+"29.798 535 LINE",
+"34.798 540 LINE",
+"39.798 545 LINE",
+"44.798 550 LINE",
+"49.798 555 LINE",
+"54.798 560 LINE",
+"59.798 565 LINE",
+"64.798 570 LINE",
+"69.798 575 LINE",
+"74.798 580 LINE",
+"79.798 585 LINE",
+"84.798 590 LINE",
+"89.798 595 LINE",
+"92.518 600 LINE",
+"92.518 605 LINE",
+"92.518 610 LINE",
+"92.518 615 LINE",
+"92.518 620 LINE",
+"92.518 625 LINE",
+"92.518 630 LINE",
+"9.798 630.74 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"579 -113.74 LINE",
-"496.28 -110 LINE",
-"496.28 -105 LINE",
-"496.28 -100 LINE",
-"496.28 -95 LINE",
-"496.28 -90 LINE",
-"496.28 -85 LINE",
-"499 -80 LINE",
-"504 -75 LINE",
-"509 -70 LINE",
-"514 -65 LINE",
-"519 -60 LINE",
-"524 -55 LINE",
-"529 -50 LINE",
-"534 -45 LINE",
-"539 -40 LINE",
-"544 -35 LINE",
-"549 -30 LINE",
-"554 -25 LINE",
-"559 -20 LINE",
-"564 -15 LINE",
-"569 -10 LINE",
-"574 -5 LINE",
-"579 0 LINE",
-"575.547 5 LINE",
-"572.095 10 LINE",
-"568.642 15 LINE",
-"565.19 20 LINE",
-"561.737 25 LINE",
-"558.284 30 LINE",
-"554.832 35 LINE",
-"551.379 40 LINE",
-"547.926 45 LINE",
-"544.474 50 LINE",
-"541.021 55 LINE",
-"537.569 60 LINE",
-"534.116 65 LINE",
-"530.663 70 LINE",
-"527.211 75 LINE",
-"523.758 80 LINE",
-"520.306 85 LINE",
-"516.853 90 LINE",
-"513.4 95 LINE",
-"509.948 100 LINE",
-"506.495 105 LINE",
-"503.043 110 LINE",
-"499.59 115 LINE",
-"496.28 120 LINE",
-"496.28 125 LINE",
-"496.28 130 LINE",
-"496.28 135 LINE",
-"496.28 140 LINE",
-"496.28 145 LINE",
-"496.28 150 LINE",
-"496.28 155 LINE",
-"496.28 160 LINE",
-"496.28 165 LINE",
-"496.28 170 LINE",
-"496.28 175 LINE",
-"496.28 180 LINE",
-"496.28 185 LINE",
-"496.28 190 LINE",
-"496.28 195 LINE",
-"496.28 200 LINE",
-"496.28 205 LINE",
-"496.28 210 LINE",
-"496.28 215 LINE",
-"496.28 220 LINE",
-"496.28 225 LINE",
-"496.28 230 LINE",
-"496.28 235 LINE",
-"496.28 240 LINE",
-"496.28 245 LINE",
-"496.28 250 LINE",
-"496.28 255 LINE",
-"496.28 260 LINE",
-"496.28 265 LINE",
-"496.28 270 LINE",
-"496.28 275 LINE",
-"496.28 280 LINE",
-"496.28 285 LINE",
-"496.28 290 LINE",
-"496.28 295 LINE",
-"496.28 300 LINE",
-"496.28 305 LINE",
-"496.28 310 LINE",
-"496.28 315 LINE",
-"496.28 320 LINE",
-"496.28 325 LINE",
-"496.28 330 LINE",
-"496.28 335 LINE",
-"496.28 340 LINE",
-"496.28 345 LINE",
-"496.28 350 LINE",
-"496.28 355 LINE",
-"496.28 360 LINE",
-"496.28 365 LINE",
-"496.28 370 LINE",
-"496.28 375 LINE",
-"496.28 380 LINE",
-"496.28 385 LINE",
-"496.28 390 LINE",
-"496.28 395 LINE",
-"496.28 400 LINE",
-"496.28 405 LINE",
-"496.28 410 LINE",
-"497.778 415 LINE",
-"501.269 420 LINE",
-"504.76 425 LINE",
-"508.251 430 LINE",
-"511.743 435 LINE",
-"515.234 440 LINE",
-"518.725 445 LINE",
-"522.217 450 LINE",
-"525.708 455 LINE",
-"529.199 460 LINE",
-"532.691 465 LINE",
-"536.182 470 LINE",
-"539.673 475 LINE",
-"543.164 480 LINE",
-"546.656 485 LINE",
-"550.147 490 LINE",
-"553.638 495 LINE",
-"557.13 500 LINE",
-"560.621 505 LINE",
-"564.112 510 LINE",
-"567.603 515 LINE",
-"562.603 520 LINE",
-"557.603 525 LINE",
-"552.603 530 LINE",
-"547.603 535 LINE",
-"542.603 540 LINE",
-"537.603 545 LINE",
-"532.603 550 LINE",
-"527.603 555 LINE",
-"522.603 560 LINE",
-"517.603 565 LINE",
-"512.603 570 LINE",
-"507.603 575 LINE",
-"502.603 580 LINE",
-"497.603 585 LINE",
-"496.28 590 LINE",
-"496.28 595 LINE",
-"496.28 600 LINE",
-"496.28 605 LINE",
-"496.28 610 LINE",
-"496.28 615 LINE",
-"496.28 620 LINE",
-"496.28 625 LINE",
-"496.28 630 LINE",
-"579 630.74 LINE"
+"605.251 -113.74 LINE",
+"522.531 -110 LINE",
+"522.531 -105 LINE",
+"522.531 -100 LINE",
+"522.531 -95 LINE",
+"522.531 -90 LINE",
+"522.531 -85 LINE",
+"522.531 -80 LINE",
+"522.531 -75 LINE",
+"522.531 -70 LINE",
+"522.531 -65 LINE",
+"522.531 -60 LINE",
+"522.531 -55 LINE",
+"522.531 -50 LINE",
+"522.531 -45 LINE",
+"522.531 -40 LINE",
+"522.531 -35 LINE",
+"522.531 -30 LINE",
+"522.531 -25 LINE",
+"522.531 -20 LINE",
+"522.531 -15 LINE",
+"522.531 -10 LINE",
+"522.531 -5 LINE",
+"522.531 0 LINE",
+"522.531 5 LINE",
+"522.531 10 LINE",
+"522.531 15 LINE",
+"522.531 20 LINE",
+"522.531 25 LINE",
+"522.531 30 LINE",
+"522.531 35 LINE",
+"522.531 40 LINE",
+"522.531 45 LINE",
+"522.531 50 LINE",
+"522.531 55 LINE",
+"522.531 60 LINE",
+"522.531 65 LINE",
+"522.531 70 LINE",
+"522.531 75 LINE",
+"522.531 80 LINE",
+"522.531 85 LINE",
+"522.531 90 LINE",
+"522.531 95 LINE",
+"522.531 100 LINE",
+"522.531 105 LINE",
+"522.531 110 LINE",
+"522.531 115 LINE",
+"522.531 120 LINE",
+"522.531 125 LINE",
+"522.531 130 LINE",
+"522.531 135 LINE",
+"522.531 140 LINE",
+"522.531 145 LINE",
+"522.531 150 LINE",
+"522.531 155 LINE",
+"522.531 160 LINE",
+"522.531 165 LINE",
+"522.531 170 LINE",
+"522.531 175 LINE",
+"522.531 180 LINE",
+"522.531 185 LINE",
+"522.531 190 LINE",
+"522.531 195 LINE",
+"522.531 200 LINE",
+"522.531 205 LINE",
+"522.531 210 LINE",
+"522.531 215 LINE",
+"522.531 220 LINE",
+"522.531 225 LINE",
+"522.531 230 LINE",
+"522.531 235 LINE",
+"522.531 240 LINE",
+"522.531 245 LINE",
+"522.531 250 LINE",
+"522.531 255 LINE",
+"522.531 260 LINE",
+"522.531 265 LINE",
+"522.531 270 LINE",
+"522.531 275 LINE",
+"522.531 280 LINE",
+"522.531 285 LINE",
+"522.531 290 LINE",
+"522.91 295 LINE",
+"524.781 300 LINE",
+"526.653 305 LINE",
+"528.524 310 LINE",
+"530.395 315 LINE",
+"532.267 320 LINE",
+"534.138 325 LINE",
+"536.01 330 LINE",
+"537.881 335 LINE",
+"539.752 340 LINE",
+"541.624 345 LINE",
+"543.495 350 LINE",
+"545.367 355 LINE",
+"547.238 360 LINE",
+"549.109 365 LINE",
+"550.981 370 LINE",
+"552.852 375 LINE",
+"554.724 380 LINE",
+"556.595 385 LINE",
+"558.466 390 LINE",
+"560.338 395 LINE",
+"562.209 400 LINE",
+"564.081 405 LINE",
+"565.952 410 LINE",
+"567.823 415 LINE",
+"569.695 420 LINE",
+"571.566 425 LINE",
+"573.438 430 LINE",
+"575.309 435 LINE",
+"577.18 440 LINE",
+"579.052 445 LINE",
+"580.923 450 LINE",
+"582.795 455 LINE",
+"584.666 460 LINE",
+"586.537 465 LINE",
+"588.409 470 LINE",
+"590.28 475 LINE",
+"592.152 480 LINE",
+"594.023 485 LINE",
+"595.894 490 LINE",
+"597.766 495 LINE",
+"599.637 500 LINE",
+"601.509 505 LINE",
+"603.38 510 LINE",
+"605.251 515 LINE",
+"600.251 520 LINE",
+"595.251 525 LINE",
+"590.251 530 LINE",
+"585.251 535 LINE",
+"580.251 540 LINE",
+"575.251 545 LINE",
+"570.251 550 LINE",
+"565.251 555 LINE",
+"560.251 560 LINE",
+"555.251 565 LINE",
+"550.251 570 LINE",
+"545.251 575 LINE",
+"540.251 580 LINE",
+"535.251 585 LINE",
+"530.251 590 LINE",
+"525.251 595 LINE",
+"522.531 600 LINE",
+"522.531 605 LINE",
+"522.531 610 LINE",
+"522.531 615 LINE",
+"522.531 620 LINE",
+"522.531 625 LINE",
+"522.531 630 LINE",
+"605.251 630.74 LINE"
 );
 }
 );
-width = 588;
+width = 612;
 },
 {
 layerId = "35616FF6-3D9C-499B-B113-AC9E0DB5842A";
