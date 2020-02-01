@@ -138,7 +138,7 @@ Is as follows:
 2. Draw
 3. Space
 4. Draw BubbleKern bubbles 
-5. Re-Run BubbleKern 
+5. Re-Run BubbleKern (use ../Sources/Metropolis BubbleKer Pairs.txt)
 6. Export 
 7. Commit 
 8. Create release tag
