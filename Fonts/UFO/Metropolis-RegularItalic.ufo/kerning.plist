@@ -26,6 +26,8 @@
 		<integer>-20</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-150</integer>
 		<key>divide</key>
 		<integer>-20</integer>
 		<key>dollar</key>
@@ -193,6 +195,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-20</integer>
+		<key>degree</key>
+		<integer>-65</integer>
 		<key>dollar</key>
 		<integer>-45</integer>
 		<key>ellipsis</key>
@@ -288,7 +292,7 @@
 		<key>quotedbl</key>
 		<integer>-35</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-50</integer>
 		<key>quotedblright</key>
@@ -297,6 +301,8 @@
 		<integer>-50</integer>
 		<key>quoteright</key>
 		<integer>-70</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>semicolon</key>
@@ -346,6 +352,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-25</integer>
+		<key>degree</key>
+		<integer>-110</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -531,7 +539,7 @@
 		<key>quotedbl</key>
 		<integer>-140</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-95</integer>
 		<key>quotedblright</key>
@@ -539,6 +547,8 @@
 		<key>quoteleft</key>
 		<integer>-95</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -680,6 +690,8 @@
 		<key>questiondown</key>
 		<integer>-180</integer>
 		<key>quotedblbase</key>
+		<integer>-195</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>slash</key>
 		<integer>-185</integer>
@@ -708,6 +720,8 @@
 		<integer>-30</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-70</integer>
 		<key>dollar</key>
 		<integer>-60</integer>
 		<key>ellipsis</key>
@@ -784,6 +798,8 @@
 		<integer>-55</integer>
 		<key>quoteright</key>
 		<integer>-70</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-45</integer>
 		<key>registered</key>
@@ -835,6 +851,8 @@
 		<integer>10</integer>
 		<key>copyright</key>
 		<integer>-90</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
 		<integer>-110</integer>
 		<key>dollar</key>
@@ -971,6 +989,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>10</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -1061,6 +1081,8 @@
 		<integer>-50</integer>
 		<key>copyright</key>
 		<integer>-45</integer>
+		<key>degree</key>
+		<integer>-35</integer>
 		<key>divide</key>
 		<integer>-45</integer>
 		<key>dollar</key>
@@ -1255,6 +1277,8 @@
 		<integer>-40</integer>
 		<key>quoteright</key>
 		<integer>-45</integer>
+		<key>quotesinglbase</key>
+		<integer>-50</integer>
 		<key>quotesingle</key>
 		<integer>-40</integer>
 		<key>registered</key>
@@ -1306,6 +1330,8 @@
 		<integer>-95</integer>
 		<key>copyright</key>
 		<integer>-50</integer>
+		<key>degree</key>
+		<integer>-100</integer>
 		<key>divide</key>
 		<integer>-50</integer>
 		<key>dollar</key>
@@ -1500,6 +1526,8 @@
 		<integer>-95</integer>
 		<key>quoteright</key>
 		<integer>-105</integer>
+		<key>quotesinglbase</key>
+		<integer>-95</integer>
 		<key>quotesingle</key>
 		<integer>-100</integer>
 		<key>registered</key>
@@ -1611,6 +1639,8 @@
 		<integer>-70</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-135</integer>
 		<key>dollar</key>
 		<integer>-90</integer>
 		<key>ellipsis</key>
@@ -1678,7 +1708,7 @@
 		<key>quotedbl</key>
 		<integer>-100</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-130</integer>
 		<key>quotedblleft</key>
 		<integer>-115</integer>
 		<key>quotedblright</key>
@@ -1686,6 +1716,8 @@
 		<key>quoteleft</key>
 		<integer>-115</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-100</integer>
@@ -1714,6 +1746,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-35</integer>
 		<key>dollar</key>
 		<integer>-25</integer>
 		<key>euro</key>
@@ -1793,6 +1827,8 @@
 		<integer>-30</integer>
 		<key>copyright</key>
 		<integer>-20</integer>
+		<key>degree</key>
+		<integer>-30</integer>
 		<key>dollar</key>
 		<integer>-30</integer>
 		<key>emdash</key>
@@ -1914,6 +1950,8 @@
 		<integer>-85</integer>
 		<key>copyright</key>
 		<integer>-70</integer>
+		<key>degree</key>
+		<integer>-115</integer>
 		<key>divide</key>
 		<integer>-115</integer>
 		<key>dollar</key>
@@ -2065,6 +2103,8 @@
 		<integer>-35</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-75</integer>
 		<key>dollar</key>
 		<integer>-65</integer>
 		<key>ellipsis</key>
@@ -2139,6 +2179,8 @@
 		<integer>-60</integer>
 		<key>quoteright</key>
 		<integer>-75</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-50</integer>
 		<key>registered</key>
@@ -2156,6 +2198,153 @@
 		<key>yen</key>
 		<integer>-70</integer>
 	</dict>
+	<key>degree</key>
+	<dict>
+		<key>ampersand</key>
+		<integer>-105</integer>
+		<key>asciicircum</key>
+		<integer>-45</integer>
+		<key>asciitilde</key>
+		<integer>-85</integer>
+		<key>asterisk</key>
+		<integer>-10</integer>
+		<key>at</key>
+		<integer>-45</integer>
+		<key>backslash</key>
+		<integer>-45</integer>
+		<key>braceleft</key>
+		<integer>-95</integer>
+		<key>braceright</key>
+		<integer>-55</integer>
+		<key>bullet</key>
+		<integer>-85</integer>
+		<key>cent</key>
+		<integer>-70</integer>
+		<key>colon</key>
+		<integer>-10</integer>
+		<key>comma</key>
+		<integer>-115</integer>
+		<key>copyright</key>
+		<integer>-50</integer>
+		<key>divide</key>
+		<integer>-45</integer>
+		<key>dollar</key>
+		<integer>-25</integer>
+		<key>ellipsis</key>
+		<integer>-210</integer>
+		<key>emdash</key>
+		<integer>-210</integer>
+		<key>endash</key>
+		<integer>-210</integer>
+		<key>euro</key>
+		<integer>-75</integer>
+		<key>guillemetleft</key>
+		<integer>-150</integer>
+		<key>guillemetright</key>
+		<integer>-45</integer>
+		<key>guilsinglleft</key>
+		<integer>-150</integer>
+		<key>guilsinglright</key>
+		<integer>-45</integer>
+		<key>hyphen</key>
+		<integer>-160</integer>
+		<key>less</key>
+		<integer>-60</integer>
+		<key>minus</key>
+		<integer>-45</integer>
+		<key>multiply</key>
+		<integer>-60</integer>
+		<key>numbersign</key>
+		<integer>-135</integer>
+		<key>parenleft</key>
+		<integer>-45</integer>
+		<key>parenright</key>
+		<integer>-40</integer>
+		<key>periodcentered</key>
+		<integer>-110</integer>
+		<key>plus</key>
+		<integer>-45</integer>
+		<key>public.kern2.A</key>
+		<integer>-125</integer>
+		<key>public.kern2.C</key>
+		<integer>-25</integer>
+		<key>public.kern2.G</key>
+		<integer>-35</integer>
+		<key>public.kern2.J</key>
+		<integer>-210</integer>
+		<key>public.kern2.O</key>
+		<integer>-25</integer>
+		<key>public.kern2.Oslash</key>
+		<integer>-25</integer>
+		<key>public.kern2.Q</key>
+		<integer>-25</integer>
+		<key>public.kern2.S</key>
+		<integer>-10</integer>
+		<key>public.kern2.V</key>
+		<integer>-35</integer>
+		<key>public.kern2.W</key>
+		<integer>-30</integer>
+		<key>public.kern2.X</key>
+		<integer>-40</integer>
+		<key>public.kern2.Y</key>
+		<integer>-35</integer>
+		<key>public.kern2.a</key>
+		<integer>-75</integer>
+		<key>public.kern2.a.alt</key>
+		<integer>-60</integer>
+		<key>public.kern2.c</key>
+		<integer>-80</integer>
+		<key>public.kern2.d</key>
+		<integer>-75</integer>
+		<key>public.kern2.dcaron</key>
+		<integer>-75</integer>
+		<key>public.kern2.dcroat</key>
+		<integer>-75</integer>
+		<key>public.kern2.e</key>
+		<integer>-80</integer>
+		<key>public.kern2.eth</key>
+		<integer>-90</integer>
+		<key>public.kern2.g</key>
+		<integer>-70</integer>
+		<key>public.kern2.o</key>
+		<integer>-75</integer>
+		<key>public.kern2.oslash</key>
+		<integer>-75</integer>
+		<key>public.kern2.q</key>
+		<integer>-75</integer>
+		<key>public.kern2.s</key>
+		<integer>-50</integer>
+		<key>public.kern2.x</key>
+		<integer>-15</integer>
+		<key>question</key>
+		<integer>-30</integer>
+		<key>questiondown</key>
+		<integer>-185</integer>
+		<key>quotedbl</key>
+		<integer>-10</integer>
+		<key>quotedblbase</key>
+		<integer>-210</integer>
+		<key>quotedblright</key>
+		<integer>-15</integer>
+		<key>quoteright</key>
+		<integer>-15</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
+		<key>quotesingle</key>
+		<integer>-10</integer>
+		<key>registered</key>
+		<integer>-15</integer>
+		<key>semicolon</key>
+		<integer>-10</integer>
+		<key>slash</key>
+		<integer>-210</integer>
+		<key>sterling</key>
+		<integer>-90</integer>
+		<key>underscore</key>
+		<integer>-210</integer>
+		<key>yen</key>
+		<integer>-30</integer>
+	</dict>
 	<key>divide</key>
 	<dict>
 		<key>asciitilde</key>
@@ -2172,6 +2361,8 @@
 		<integer>-15</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-70</integer>
 		<key>dollar</key>
 		<integer>-40</integer>
 		<key>ellipsis</key>
@@ -2229,7 +2420,7 @@
 		<key>quotedbl</key>
 		<integer>-200</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-210</integer>
 		<key>quotedblleft</key>
 		<integer>-55</integer>
 		<key>quotedblright</key>
@@ -2237,6 +2428,8 @@
 		<key>quoteleft</key>
 		<integer>-55</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -2279,6 +2472,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-10</integer>
+		<key>degree</key>
+		<integer>-65</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -2391,6 +2586,8 @@
 		<integer>-90</integer>
 		<key>quoteright</key>
 		<integer>-55</integer>
+		<key>quotesinglbase</key>
+		<integer>-15</integer>
 		<key>quotesingle</key>
 		<integer>-55</integer>
 		<key>registered</key>
@@ -2432,6 +2629,8 @@
 		<integer>-75</integer>
 		<key>copyright</key>
 		<integer>-65</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
 		<integer>-250</integer>
 		<key>dollar</key>
@@ -2581,6 +2780,8 @@
 		<integer>-105</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>dollar</key>
 		<integer>-90</integer>
 		<key>ellipsis</key>
@@ -2646,7 +2847,7 @@
 		<key>quotedbl</key>
 		<integer>-200</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-215</integer>
 		<key>quotedblright</key>
@@ -2654,6 +2855,8 @@
 		<key>quoteleft</key>
 		<integer>-115</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -2690,6 +2893,8 @@
 		<integer>-105</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>dollar</key>
 		<integer>-90</integer>
 		<key>ellipsis</key>
@@ -2755,7 +2960,7 @@
 		<key>quotedbl</key>
 		<integer>-200</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-215</integer>
 		<key>quotedblright</key>
@@ -2763,6 +2968,8 @@
 		<key>quoteleft</key>
 		<integer>-115</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -2839,6 +3046,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-50</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>slash</key>
@@ -2931,6 +3140,8 @@
 		<integer>-30</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-100</integer>
 		<key>dollar</key>
 		<integer>-55</integer>
 		<key>ellipsis</key>
@@ -2988,7 +3199,7 @@
 		<key>quotedbl</key>
 		<integer>-85</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-85</integer>
 		<key>quotedblright</key>
@@ -2996,6 +3207,8 @@
 		<key>quoteleft</key>
 		<integer>-85</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-85</integer>
@@ -3022,14 +3235,22 @@
 		<integer>-20</integer>
 		<key>backslash</key>
 		<integer>-105</integer>
+		<key>bar</key>
+		<integer>0</integer>
 		<key>braceleft</key>
 		<integer>-85</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>bracketleft</key>
+		<integer>0</integer>
+		<key>bracketright</key>
+		<integer>0</integer>
 		<key>bullet</key>
 		<integer>-25</integer>
 		<key>cent</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-65</integer>
 		<key>dollar</key>
 		<integer>-35</integer>
 		<key>emdash</key>
@@ -3038,6 +3259,8 @@
 		<integer>-40</integer>
 		<key>euro</key>
 		<integer>-65</integer>
+		<key>greater</key>
+		<integer>0</integer>
 		<key>guillemetleft</key>
 		<integer>-90</integer>
 		<key>guilsinglleft</key>
@@ -3053,13 +3276,15 @@
 		<key>parenright</key>
 		<integer>-125</integer>
 		<key>percent</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>periodcentered</key>
 		<integer>-60</integer>
 		<key>perthousand</key>
-		<integer>-20</integer>
+		<integer>-25</integer>
 		<key>public.kern2.A</key>
 		<integer>-25</integer>
+		<key>public.kern2.B</key>
+		<integer>0</integer>
 		<key>public.kern2.D</key>
 		<integer>0</integer>
 		<key>public.kern2.E</key>
@@ -3084,11 +3309,17 @@
 		<integer>0</integer>
 		<key>public.kern2.N</key>
 		<integer>0</integer>
+		<key>public.kern2.P</key>
+		<integer>0</integer>
+		<key>public.kern2.R</key>
+		<integer>0</integer>
 		<key>public.kern2.S</key>
 		<integer>-20</integer>
 		<key>public.kern2.T</key>
 		<integer>-105</integer>
 		<key>public.kern2.Thorn</key>
+		<integer>0</integer>
+		<key>public.kern2.U</key>
 		<integer>0</integer>
 		<key>public.kern2.V</key>
 		<integer>-60</integer>
@@ -3118,20 +3349,54 @@
 		<integer>-25</integer>
 		<key>public.kern2.eth</key>
 		<integer>-30</integer>
+		<key>public.kern2.f</key>
+		<integer>0</integer>
 		<key>public.kern2.g</key>
 		<integer>-15</integer>
+		<key>public.kern2.germandbls</key>
+		<integer>0</integer>
+		<key>public.kern2.h</key>
+		<integer>0</integer>
+		<key>public.kern2.i</key>
+		<integer>0</integer>
+		<key>public.kern2.j</key>
+		<integer>0</integer>
+		<key>public.kern2.l</key>
+		<integer>0</integer>
+		<key>public.kern2.lcaron</key>
+		<integer>0</integer>
+		<key>public.kern2.lslash</key>
+		<integer>0</integer>
+		<key>public.kern2.m</key>
+		<integer>0</integer>
+		<key>public.kern2.n</key>
+		<integer>0</integer>
 		<key>public.kern2.o</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
 		<key>public.kern2.oslash</key>
-		<integer>-25</integer>
+		<integer>-20</integer>
+		<key>public.kern2.p</key>
+		<integer>0</integer>
 		<key>public.kern2.q</key>
 		<integer>-20</integer>
+		<key>public.kern2.r</key>
+		<integer>0</integer>
 		<key>public.kern2.s</key>
 		<integer>-10</integer>
+		<key>public.kern2.t</key>
+		<integer>0</integer>
+		<key>public.kern2.tcaron</key>
+		<integer>0</integer>
+		<key>public.kern2.thorn</key>
+		<integer>0</integer>
+		<key>public.kern2.u</key>
+		<integer>0</integer>
 		<key>public.kern2.x</key>
 		<integer>-25</integer>
 		<key>public.kern2.y</key>
 		<integer>-10</integer>
+		<key>public.kern2.z</key>
+		<integer>0</integer>
 		<key>question</key>
 		<integer>-145</integer>
 		<key>questiondown</key>
@@ -3139,11 +3404,11 @@
 		<key>quotedbl</key>
 		<integer>-65</integer>
 		<key>quotedblleft</key>
-		<integer>-45</integer>
+		<integer>-50</integer>
 		<key>quotedblright</key>
 		<integer>-125</integer>
 		<key>quoteleft</key>
-		<integer>-45</integer>
+		<integer>-50</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
@@ -3191,6 +3456,8 @@
 		<integer>-100</integer>
 		<key>copyright</key>
 		<integer>15</integer>
+		<key>degree</key>
+		<integer>-195</integer>
 		<key>divide</key>
 		<integer>15</integer>
 		<key>dollar</key>
@@ -3371,6 +3638,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-100</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -3410,6 +3679,8 @@
 		<integer>-25</integer>
 		<key>cent</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-65</integer>
 		<key>dollar</key>
 		<integer>-35</integer>
 		<key>emdash</key>
@@ -3615,6 +3886,8 @@
 		<integer>-100</integer>
 		<key>copyright</key>
 		<integer>15</integer>
+		<key>degree</key>
+		<integer>-165</integer>
 		<key>divide</key>
 		<integer>15</integer>
 		<key>dollar</key>
@@ -3795,6 +4068,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-100</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -3828,6 +4103,8 @@
 		<integer>-75</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-175</integer>
 		<key>dollar</key>
 		<integer>-80</integer>
 		<key>ellipsis</key>
@@ -3893,7 +4170,7 @@
 		<key>quotedbl</key>
 		<integer>-175</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-175</integer>
 		<key>quotedblleft</key>
 		<integer>-175</integer>
 		<key>quotedblright</key>
@@ -3901,6 +4178,8 @@
 		<key>quoteleft</key>
 		<integer>-115</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -3970,6 +4249,8 @@
 		<integer>-15</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-70</integer>
 		<key>dollar</key>
 		<integer>-40</integer>
 		<key>ellipsis</key>
@@ -4027,7 +4308,7 @@
 		<key>quotedbl</key>
 		<integer>-200</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-55</integer>
 		<key>quotedblright</key>
@@ -4035,6 +4316,8 @@
 		<key>quoteleft</key>
 		<integer>-55</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -4085,6 +4368,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-35</integer>
+		<key>degree</key>
+		<integer>-80</integer>
 		<key>divide</key>
 		<integer>-30</integer>
 		<key>dollar</key>
@@ -4270,7 +4555,7 @@
 		<key>quotedbl</key>
 		<integer>-45</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-155</integer>
 		<key>quotedblleft</key>
 		<integer>-65</integer>
 		<key>quotedblright</key>
@@ -4278,6 +4563,8 @@
 		<key>quoteleft</key>
 		<integer>-65</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-45</integer>
@@ -4330,6 +4617,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-85</integer>
+		<key>degree</key>
+		<integer>-35</integer>
 		<key>divide</key>
 		<integer>-70</integer>
 		<key>dollar</key>
@@ -4515,7 +4804,7 @@
 		<key>quotedbl</key>
 		<integer>-40</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-175</integer>
 		<key>quotedblleft</key>
 		<integer>-35</integer>
 		<key>quotedblright</key>
@@ -4524,6 +4813,8 @@
 		<integer>-35</integer>
 		<key>quoteright</key>
 		<integer>-55</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-40</integer>
 		<key>registered</key>
@@ -4610,6 +4901,8 @@
 		<integer>-55</integer>
 		<key>copyright</key>
 		<integer>-135</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>divide</key>
 		<integer>-135</integer>
 		<key>dollar</key>
@@ -4804,6 +5097,8 @@
 		<integer>-25</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-55</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -4837,6 +5132,8 @@
 		<integer>-25</integer>
 		<key>comma</key>
 		<integer>-25</integer>
+		<key>degree</key>
+		<integer>-70</integer>
 		<key>dollar</key>
 		<integer>-65</integer>
 		<key>ellipsis</key>
@@ -4919,6 +5216,8 @@
 		<integer>-55</integer>
 		<key>quoteright</key>
 		<integer>-70</integer>
+		<key>quotesinglbase</key>
+		<integer>-25</integer>
 		<key>quotesingle</key>
 		<integer>-50</integer>
 		<key>registered</key>
@@ -4962,6 +5261,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-100</integer>
 		<key>divide</key>
 		<integer>-20</integer>
 		<key>dollar</key>
@@ -5074,6 +5375,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-85</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-85</integer>
 		<key>registered</key>
@@ -5108,6 +5411,8 @@
 		<key>colon</key>
 		<integer>-110</integer>
 		<key>comma</key>
+		<integer>-110</integer>
+		<key>degree</key>
 		<integer>-110</integer>
 		<key>dollar</key>
 		<integer>-110</integer>
@@ -5195,6 +5500,8 @@
 		<integer>-110</integer>
 		<key>quoteright</key>
 		<integer>-110</integer>
+		<key>quotesinglbase</key>
+		<integer>-110</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -5238,6 +5545,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
 		<integer>-20</integer>
 		<key>dollar</key>
@@ -5350,6 +5659,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -5383,6 +5694,8 @@
 		<integer>-15</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-70</integer>
 		<key>dollar</key>
 		<integer>-40</integer>
 		<key>ellipsis</key>
@@ -5440,7 +5753,7 @@
 		<key>quotedbl</key>
 		<integer>-200</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-55</integer>
 		<key>quotedblright</key>
@@ -5448,6 +5761,8 @@
 		<key>quoteleft</key>
 		<integer>-55</integer>
 		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
@@ -5492,6 +5807,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-55</integer>
+		<key>degree</key>
+		<integer>-135</integer>
 		<key>divide</key>
 		<integer>-60</integer>
 		<key>dollar</key>
@@ -5614,6 +5931,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -5655,6 +5974,8 @@
 		<integer>-20</integer>
 		<key>copyright</key>
 		<integer>-10</integer>
+		<key>degree</key>
+		<integer>-35</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -5763,6 +6084,8 @@
 		<integer>-30</integer>
 		<key>quoteright</key>
 		<integer>-40</integer>
+		<key>quotesinglbase</key>
+		<integer>-20</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -5853,6 +6176,8 @@
 		<integer>-20</integer>
 		<key>comma</key>
 		<integer>-85</integer>
+		<key>degree</key>
+		<integer>-55</integer>
 		<key>dollar</key>
 		<integer>-50</integer>
 		<key>ellipsis</key>
@@ -5923,6 +6248,8 @@
 		<integer>-40</integer>
 		<key>quoteright</key>
 		<integer>-55</integer>
+		<key>quotesinglbase</key>
+		<integer>-85</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -6016,6 +6343,8 @@
 		<key>questiondown</key>
 		<integer>-175</integer>
 		<key>quotedblbase</key>
+		<integer>-215</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>slash</key>
 		<integer>-110</integer>
@@ -6191,6 +6520,8 @@
 		<integer>-35</integer>
 		<key>quotedblbase</key>
 		<integer>-25</integer>
+		<key>quotesinglbase</key>
+		<integer>-25</integer>
 		<key>slash</key>
 		<integer>-55</integer>
 		<key>sterling</key>
@@ -6224,6 +6555,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-50</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>divide</key>
 		<integer>-50</integer>
 		<key>dollar</key>
@@ -6336,6 +6669,8 @@
 		<integer>-35</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -6371,6 +6706,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
 		<integer>-185</integer>
 		<key>dollar</key>
@@ -6518,6 +6855,8 @@
 		<integer>-30</integer>
 		<key>copyright</key>
 		<integer>-25</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
 		<integer>-195</integer>
 		<key>dollar</key>
@@ -6731,6 +7070,8 @@
 		<integer>-20</integer>
 		<key>comma</key>
 		<integer>-70</integer>
+		<key>degree</key>
+		<integer>-55</integer>
 		<key>dollar</key>
 		<integer>-50</integer>
 		<key>ellipsis</key>
@@ -6807,6 +7148,8 @@
 		<integer>-40</integer>
 		<key>quoteright</key>
 		<integer>-55</integer>
+		<key>quotesinglbase</key>
+		<integer>-70</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -6842,6 +7185,8 @@
 		<integer>-25</integer>
 		<key>comma</key>
 		<integer>-70</integer>
+		<key>degree</key>
+		<integer>-30</integer>
 		<key>dollar</key>
 		<integer>-50</integer>
 		<key>ellipsis</key>
@@ -6916,6 +7261,8 @@
 		<integer>-45</integer>
 		<key>quoteright</key>
 		<integer>-15</integer>
+		<key>quotesinglbase</key>
+		<integer>-70</integer>
 		<key>quotesingle</key>
 		<integer>-15</integer>
 		<key>registered</key>
@@ -6955,6 +7302,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>dollar</key>
 		<integer>-25</integer>
 		<key>ellipsis</key>
@@ -7038,7 +7387,7 @@
 		<key>quotedbl</key>
 		<integer>-20</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-10</integer>
 		<key>quotedblright</key>
@@ -7047,6 +7396,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-20</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-20</integer>
 		<key>slash</key>
@@ -7078,6 +7429,8 @@
 		<integer>-20</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-55</integer>
 		<key>dollar</key>
 		<integer>-50</integer>
 		<key>ellipsis</key>
@@ -7154,6 +7507,8 @@
 		<integer>-40</integer>
 		<key>quoteright</key>
 		<integer>-55</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -7193,6 +7548,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>dollar</key>
 		<integer>-25</integer>
 		<key>ellipsis</key>
@@ -7281,6 +7638,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-20</integer>
+		<key>quotesinglbase</key>
+		<integer>-15</integer>
 		<key>quotesingle</key>
 		<integer>-20</integer>
 		<key>sterling</key>
@@ -7316,6 +7675,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-10</integer>
+		<key>degree</key>
+		<integer>-50</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -7428,6 +7789,8 @@
 		<integer>-75</integer>
 		<key>quoteright</key>
 		<integer>-40</integer>
+		<key>quotesinglbase</key>
+		<integer>-15</integer>
 		<key>quotesingle</key>
 		<integer>-45</integer>
 		<key>registered</key>
@@ -7583,6 +7946,8 @@
 		<integer>-115</integer>
 		<key>quotedblbase</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>registered</key>
 		<integer>-20</integer>
 		<key>semicolon</key>
@@ -7614,6 +7979,8 @@
 		<integer>-30</integer>
 		<key>comma</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-70</integer>
 		<key>dollar</key>
 		<integer>-55</integer>
 		<key>ellipsis</key>
@@ -7681,7 +8048,7 @@
 		<key>quotedbl</key>
 		<integer>-45</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-135</integer>
 		<key>quotedblleft</key>
 		<integer>-55</integer>
 		<key>quotedblright</key>
@@ -7690,6 +8057,8 @@
 		<integer>-55</integer>
 		<key>quoteright</key>
 		<integer>-80</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-45</integer>
 		<key>registered</key>
@@ -7749,6 +8118,8 @@
 		<integer>-60</integer>
 		<key>quotedblbase</key>
 		<integer>-45</integer>
+		<key>quotesinglbase</key>
+		<integer>-45</integer>
 		<key>slash</key>
 		<integer>-75</integer>
 		<key>sterling</key>
@@ -7782,6 +8153,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-80</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>divide</key>
 		<integer>-65</integer>
 		<key>dollar</key>
@@ -7909,7 +8282,7 @@
 		<key>quotedbl</key>
 		<integer>-10</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-150</integer>
 		<key>quotedblleft</key>
 		<integer>-30</integer>
 		<key>quotedblright</key>
@@ -7918,6 +8291,8 @@
 		<integer>-30</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -7959,6 +8334,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-70</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-55</integer>
 		<key>dollar</key>
@@ -8086,11 +8463,13 @@
 		<key>quotedbl</key>
 		<integer>-10</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-130</integer>
 		<key>quotedblleft</key>
 		<integer>-25</integer>
 		<key>quoteleft</key>
 		<integer>-25</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -8132,6 +8511,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-65</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>divide</key>
 		<integer>-70</integer>
 		<key>dollar</key>
@@ -8244,6 +8625,8 @@
 		<integer>-35</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-15</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -8283,6 +8666,8 @@
 		<integer>-110</integer>
 		<key>copyright</key>
 		<integer>-90</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>divide</key>
 		<integer>-75</integer>
 		<key>dollar</key>
@@ -8419,6 +8804,8 @@
 		<integer>-35</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-110</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -8479,6 +8866,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -8534,6 +8923,8 @@
 		<integer>-45</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-80</integer>
 		<key>dollar</key>
 		<integer>-30</integer>
 		<key>euro</key>
@@ -8625,6 +9016,8 @@
 		<integer>-40</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-115</integer>
 		<key>dollar</key>
 		<integer>-85</integer>
 		<key>ellipsis</key>
@@ -8707,6 +9100,8 @@
 		<integer>-95</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-80</integer>
 		<key>registered</key>
@@ -8734,6 +9129,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-35</integer>
 		<key>dollar</key>
 		<integer>-25</integer>
 		<key>euro</key>
@@ -8866,6 +9263,8 @@
 		<integer>-35</integer>
 		<key>copyright</key>
 		<integer>-35</integer>
+		<key>degree</key>
+		<integer>30</integer>
 		<key>divide</key>
 		<integer>-35</integer>
 		<key>ellipsis</key>
@@ -9056,6 +9455,8 @@
 		<integer>20</integer>
 		<key>quoteright</key>
 		<integer>30</integer>
+		<key>quotesinglbase</key>
+		<integer>-35</integer>
 		<key>quotesingle</key>
 		<integer>30</integer>
 		<key>semicolon</key>
@@ -9088,6 +9489,8 @@
 		<key>bracketleft</key>
 		<integer>20</integer>
 		<key>bracketright</key>
+		<integer>20</integer>
+		<key>degree</key>
 		<integer>20</integer>
 		<key>euro</key>
 		<integer>-70</integer>
@@ -9220,6 +9623,8 @@
 		<integer>-10</integer>
 		<key>comma</key>
 		<integer>-10</integer>
+		<key>degree</key>
+		<integer>-75</integer>
 		<key>dollar</key>
 		<integer>-50</integer>
 		<key>ellipsis</key>
@@ -9298,6 +9703,8 @@
 		<integer>-55</integer>
 		<key>quoteright</key>
 		<integer>-100</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-40</integer>
 		<key>registered</key>
@@ -9333,6 +9740,8 @@
 		<integer>-45</integer>
 		<key>comma</key>
 		<integer>-45</integer>
+		<key>degree</key>
+		<integer>-90</integer>
 		<key>dollar</key>
 		<integer>-75</integer>
 		<key>ellipsis</key>
@@ -9415,6 +9824,8 @@
 		<integer>-75</integer>
 		<key>quoteright</key>
 		<integer>-100</integer>
+		<key>quotesinglbase</key>
+		<integer>-45</integer>
 		<key>quotesingle</key>
 		<integer>-60</integer>
 		<key>registered</key>
@@ -9459,6 +9870,8 @@
 		<key>comma</key>
 		<integer>-100</integer>
 		<key>copyright</key>
+		<integer>-10</integer>
+		<key>degree</key>
 		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
@@ -9550,6 +9963,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-100</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>slash</key>
@@ -9571,6 +9986,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -9642,6 +10059,8 @@
 		<integer>-20</integer>
 		<key>copyright</key>
 		<integer>-10</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -9750,6 +10169,8 @@
 		<integer>-15</integer>
 		<key>quoteright</key>
 		<integer>-25</integer>
+		<key>quotesinglbase</key>
+		<integer>-20</integer>
 		<key>quotesingle</key>
 		<integer>-20</integer>
 		<key>registered</key>
@@ -9781,6 +10202,8 @@
 		<integer>-45</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-80</integer>
 		<key>dollar</key>
 		<integer>-30</integer>
 		<key>euro</key>
@@ -9864,6 +10287,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -9913,6 +10338,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-35</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -10027,6 +10454,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-15</integer>
+		<key>degree</key>
+		<integer>55</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -10203,6 +10632,8 @@
 		<integer>45</integer>
 		<key>quoteright</key>
 		<integer>55</integer>
+		<key>quotesinglbase</key>
+		<integer>-15</integer>
 		<key>quotesingle</key>
 		<integer>55</integer>
 		<key>registered</key>
@@ -10269,6 +10700,8 @@
 		<integer>-45</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-75</integer>
 		<key>dollar</key>
 		<integer>-30</integer>
 		<key>euro</key>
@@ -10356,6 +10789,8 @@
 		<integer>-45</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-80</integer>
 		<key>dollar</key>
 		<integer>-30</integer>
 		<key>euro</key>
@@ -10447,6 +10882,8 @@
 		<integer>-45</integer>
 		<key>comma</key>
 		<integer>-45</integer>
+		<key>degree</key>
+		<integer>-125</integer>
 		<key>dollar</key>
 		<integer>-95</integer>
 		<key>ellipsis</key>
@@ -10531,6 +10968,8 @@
 		<integer>-105</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-45</integer>
 		<key>quotesingle</key>
 		<integer>-85</integer>
 		<key>registered</key>
@@ -10566,6 +11005,8 @@
 		<integer>-10</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>dollar</key>
 		<integer>-25</integer>
 		<key>ellipsis</key>
@@ -10632,6 +11073,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-15</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-20</integer>
 		<key>registered</key>
@@ -10665,6 +11108,8 @@
 		<integer>-40</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-115</integer>
 		<key>dollar</key>
 		<integer>-85</integer>
 		<key>ellipsis</key>
@@ -10747,6 +11192,8 @@
 		<integer>-95</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-80</integer>
 		<key>registered</key>
@@ -10774,6 +11221,8 @@
 		<integer>-45</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -10910,11 +11359,13 @@
 		<key>questiondown</key>
 		<integer>-175</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-175</integer>
 		<key>quotedblright</key>
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>slash</key>
 		<integer>-170</integer>
 		<key>sterling</key>
@@ -10950,6 +11401,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-20</integer>
+		<key>degree</key>
+		<integer>-55</integer>
 		<key>divide</key>
 		<integer>-50</integer>
 		<key>dollar</key>
@@ -11072,6 +11525,8 @@
 		<integer>-40</integer>
 		<key>quoteright</key>
 		<integer>-65</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-50</integer>
 		<key>registered</key>
@@ -11110,6 +11565,8 @@
 		<key>comma</key>
 		<integer>-30</integer>
 		<key>copyright</key>
+		<integer>-10</integer>
+		<key>degree</key>
 		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
@@ -11191,6 +11648,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-30</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>slash</key>
@@ -11230,6 +11689,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>50</integer>
 		<key>divide</key>
 		<integer>-140</integer>
 		<key>dollar</key>
@@ -11413,7 +11874,7 @@
 		<key>quotedbl</key>
 		<integer>50</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-170</integer>
 		<key>quotedblleft</key>
 		<integer>40</integer>
 		<key>quotedblright</key>
@@ -11422,6 +11883,8 @@
 		<integer>40</integer>
 		<key>quoteright</key>
 		<integer>50</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>50</integer>
 		<key>registered</key>
@@ -11455,6 +11918,8 @@
 		<integer>-40</integer>
 		<key>comma</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-115</integer>
 		<key>dollar</key>
 		<integer>-85</integer>
 		<key>ellipsis</key>
@@ -11537,6 +12002,8 @@
 		<integer>-95</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-40</integer>
 		<key>quotesingle</key>
 		<integer>-80</integer>
 		<key>registered</key>
@@ -11564,6 +12031,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -11633,6 +12102,8 @@
 		<integer>-50</integer>
 		<key>copyright</key>
 		<integer>-20</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-10</integer>
 		<key>dollar</key>
@@ -11735,6 +12206,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-50</integer>
 		<key>quotesingle</key>
 		<integer>-15</integer>
 		<key>slash</key>
@@ -11770,6 +12243,8 @@
 		<integer>-65</integer>
 		<key>copyright</key>
 		<integer>-25</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-15</integer>
 		<key>dollar</key>
@@ -11872,6 +12347,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-65</integer>
 		<key>quotesingle</key>
 		<integer>-15</integer>
 		<key>slash</key>
@@ -11911,6 +12388,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-45</integer>
+		<key>degree</key>
+		<integer>-20</integer>
 		<key>divide</key>
 		<integer>-30</integer>
 		<key>dollar</key>
@@ -12029,6 +12508,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-20</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-20</integer>
 		<key>registered</key>
@@ -12068,6 +12549,8 @@
 		<integer>-90</integer>
 		<key>copyright</key>
 		<integer>-35</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-20</integer>
 		<key>dollar</key>
@@ -12170,6 +12653,8 @@
 		<integer>-15</integer>
 		<key>quoteright</key>
 		<integer>-15</integer>
+		<key>quotesinglbase</key>
+		<integer>-90</integer>
 		<key>quotesingle</key>
 		<integer>-15</integer>
 		<key>registered</key>
@@ -12193,6 +12678,8 @@
 		<integer>-40</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>dollar</key>
 		<integer>-20</integer>
 		<key>euro</key>
@@ -12262,6 +12749,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-35</integer>
+		<key>degree</key>
+		<integer>-10</integer>
 		<key>divide</key>
 		<integer>-20</integer>
 		<key>dollar</key>
@@ -12357,11 +12846,13 @@
 		<key>quotedbl</key>
 		<integer>-10</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-180</integer>
 		<key>quotedblright</key>
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>slash</key>
@@ -12392,7 +12883,7 @@
 		<key>braceleft</key>
 		<integer>-135</integer>
 		<key>braceright</key>
-		<integer>-60</integer>
+		<integer>-55</integer>
 		<key>bracketleft</key>
 		<integer>-10</integer>
 		<key>bracketright</key>
@@ -12407,6 +12898,8 @@
 		<integer>-60</integer>
 		<key>copyright</key>
 		<integer>-150</integer>
+		<key>degree</key>
+		<integer>-165</integer>
 		<key>divide</key>
 		<integer>-150</integer>
 		<key>dollar</key>
@@ -12601,6 +13094,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-60</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -12713,7 +13208,7 @@
 		<key>public.kern2.a.alt</key>
 		<integer>-65</integer>
 		<key>public.kern2.c</key>
-		<integer>-60</integer>
+		<integer>-65</integer>
 		<key>public.kern2.d</key>
 		<integer>-60</integer>
 		<key>public.kern2.dcaron</key>
@@ -12723,11 +13218,11 @@
 		<key>public.kern2.e</key>
 		<integer>-65</integer>
 		<key>public.kern2.eth</key>
-		<integer>-70</integer>
+		<integer>-75</integer>
 		<key>public.kern2.f</key>
 		<integer>-10</integer>
 		<key>public.kern2.g</key>
-		<integer>-50</integer>
+		<integer>-55</integer>
 		<key>public.kern2.i</key>
 		<integer>-10</integer>
 		<key>public.kern2.j</key>
@@ -12769,6 +13264,8 @@
 		<key>questiondown</key>
 		<integer>-185</integer>
 		<key>quotedblbase</key>
+		<integer>-200</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>registered</key>
 		<integer>-15</integer>
@@ -12788,57 +13285,59 @@
 		<key>ampersand</key>
 		<integer>-50</integer>
 		<key>asciicircum</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>asciitilde</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>asterisk</key>
-		<integer>-115</integer>
+		<integer>-195</integer>
 		<key>at</key>
 		<integer>-70</integer>
 		<key>backslash</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>braceleft</key>
 		<integer>-95</integer>
 		<key>braceright</key>
 		<integer>-40</integer>
 		<key>bullet</key>
-		<integer>-115</integer>
+		<integer>-175</integer>
 		<key>cent</key>
 		<integer>-85</integer>
 		<key>copyright</key>
 		<integer>-70</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>dollar</key>
 		<integer>-40</integer>
 		<key>emdash</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>endash</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>equal</key>
 		<integer>-85</integer>
 		<key>euro</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>guillemetleft</key>
-		<integer>-115</integer>
+		<integer>-140</integer>
 		<key>guillemetright</key>
 		<integer>-20</integer>
 		<key>guilsinglleft</key>
-		<integer>-115</integer>
+		<integer>-140</integer>
 		<key>guilsinglright</key>
 		<integer>-20</integer>
 		<key>hyphen</key>
-		<integer>-115</integer>
+		<integer>-175</integer>
 		<key>less</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>minus</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>multiply</key>
-		<integer>-115</integer>
+		<integer>-195</integer>
 		<key>numbersign</key>
 		<integer>-55</integer>
 		<key>paragraph</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>parenleft</key>
 		<integer>-55</integer>
 		<key>parenright</key>
@@ -12850,17 +13349,17 @@
 		<key>perthousand</key>
 		<integer>-75</integer>
 		<key>plus</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>public.kern2.C</key>
-		<integer>-115</integer>
+		<integer>-130</integer>
 		<key>public.kern2.G</key>
-		<integer>-115</integer>
+		<integer>-120</integer>
 		<key>public.kern2.J</key>
 		<integer>-15</integer>
 		<key>public.kern2.O</key>
-		<integer>-115</integer>
+		<integer>-125</integer>
 		<key>public.kern2.Q</key>
-		<integer>-115</integer>
+		<integer>-125</integer>
 		<key>public.kern2.S</key>
 		<integer>-25</integer>
 		<key>public.kern2.T</key>
@@ -12868,9 +13367,9 @@
 		<key>public.kern2.U</key>
 		<integer>-85</integer>
 		<key>public.kern2.V</key>
-		<integer>-115</integer>
+		<integer>-165</integer>
 		<key>public.kern2.W</key>
-		<integer>-115</integer>
+		<integer>-140</integer>
 		<key>public.kern2.Y</key>
 		<integer>-100</integer>
 		<key>public.kern2.a</key>
@@ -12916,13 +13415,13 @@
 		<key>public.kern2.y</key>
 		<integer>-85</integer>
 		<key>question</key>
-		<integer>-115</integer>
+		<integer>-150</integer>
 		<key>quotedbl</key>
-		<integer>-115</integer>
+		<integer>-200</integer>
 		<key>quotedblleft</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblright</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quoteleft</key>
 		<integer>-115</integer>
 		<key>quoteright</key>
@@ -12930,13 +13429,13 @@
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>slash</key>
 		<integer>20</integer>
 		<key>sterling</key>
 		<integer>-20</integer>
 		<key>trademark</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>yen</key>
 		<integer>-70</integer>
 	</dict>
@@ -12964,6 +13463,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-30</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-25</integer>
 		<key>dollar</key>
@@ -13063,7 +13564,7 @@
 		<key>quotedbl</key>
 		<integer>-15</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-10</integer>
 		<key>quotedblright</key>
@@ -13072,6 +13573,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-15</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-15</integer>
 		<key>slash</key>
@@ -13234,6 +13737,8 @@
 		<key>questiondown</key>
 		<integer>-190</integer>
 		<key>quotedblbase</key>
+		<integer>-215</integer>
+		<key>quotesinglbase</key>
 		<integer>-115</integer>
 		<key>registered</key>
 		<integer>-20</integer>
@@ -13272,6 +13777,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-30</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-25</integer>
 		<key>dollar</key>
@@ -13380,6 +13887,8 @@
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-15</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-15</integer>
 		<key>slash</key>
@@ -13543,6 +14052,8 @@
 		<integer>-115</integer>
 		<key>quotedblbase</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>registered</key>
 		<integer>-20</integer>
 		<key>semicolon</key>
@@ -13555,6 +14066,165 @@
 		<integer>-115</integer>
 		<key>yen</key>
 		<integer>-20</integer>
+	</dict>
+	<key>quotesinglbase</key>
+	<dict>
+		<key>ampersand</key>
+		<integer>-50</integer>
+		<key>asciicircum</key>
+		<integer>-115</integer>
+		<key>asciitilde</key>
+		<integer>-115</integer>
+		<key>asterisk</key>
+		<integer>-115</integer>
+		<key>at</key>
+		<integer>-70</integer>
+		<key>backslash</key>
+		<integer>-115</integer>
+		<key>braceleft</key>
+		<integer>-95</integer>
+		<key>braceright</key>
+		<integer>-40</integer>
+		<key>bullet</key>
+		<integer>-115</integer>
+		<key>cent</key>
+		<integer>-85</integer>
+		<key>copyright</key>
+		<integer>-70</integer>
+		<key>degree</key>
+		<integer>-115</integer>
+		<key>divide</key>
+		<integer>-115</integer>
+		<key>dollar</key>
+		<integer>-40</integer>
+		<key>emdash</key>
+		<integer>-115</integer>
+		<key>endash</key>
+		<integer>-115</integer>
+		<key>equal</key>
+		<integer>-85</integer>
+		<key>euro</key>
+		<integer>-115</integer>
+		<key>guillemetleft</key>
+		<integer>-115</integer>
+		<key>guillemetright</key>
+		<integer>-20</integer>
+		<key>guilsinglleft</key>
+		<integer>-115</integer>
+		<key>guilsinglright</key>
+		<integer>-20</integer>
+		<key>hyphen</key>
+		<integer>-115</integer>
+		<key>less</key>
+		<integer>-115</integer>
+		<key>minus</key>
+		<integer>-115</integer>
+		<key>multiply</key>
+		<integer>-115</integer>
+		<key>numbersign</key>
+		<integer>-55</integer>
+		<key>paragraph</key>
+		<integer>-115</integer>
+		<key>parenleft</key>
+		<integer>-55</integer>
+		<key>parenright</key>
+		<integer>-30</integer>
+		<key>percent</key>
+		<integer>-70</integer>
+		<key>periodcentered</key>
+		<integer>-110</integer>
+		<key>perthousand</key>
+		<integer>-75</integer>
+		<key>plus</key>
+		<integer>-115</integer>
+		<key>public.kern2.C</key>
+		<integer>-115</integer>
+		<key>public.kern2.G</key>
+		<integer>-115</integer>
+		<key>public.kern2.J</key>
+		<integer>-15</integer>
+		<key>public.kern2.O</key>
+		<integer>-115</integer>
+		<key>public.kern2.Q</key>
+		<integer>-115</integer>
+		<key>public.kern2.S</key>
+		<integer>-25</integer>
+		<key>public.kern2.T</key>
+		<integer>-115</integer>
+		<key>public.kern2.U</key>
+		<integer>-85</integer>
+		<key>public.kern2.V</key>
+		<integer>-115</integer>
+		<key>public.kern2.W</key>
+		<integer>-115</integer>
+		<key>public.kern2.Y</key>
+		<integer>-100</integer>
+		<key>public.kern2.a</key>
+		<integer>-80</integer>
+		<key>public.kern2.a.alt</key>
+		<integer>-40</integer>
+		<key>public.kern2.c</key>
+		<integer>-90</integer>
+		<key>public.kern2.d</key>
+		<integer>-80</integer>
+		<key>public.kern2.dcaron</key>
+		<integer>-80</integer>
+		<key>public.kern2.dcroat</key>
+		<integer>-80</integer>
+		<key>public.kern2.e</key>
+		<integer>-80</integer>
+		<key>public.kern2.eth</key>
+		<integer>-75</integer>
+		<key>public.kern2.f</key>
+		<integer>-55</integer>
+		<key>public.kern2.g</key>
+		<integer>-105</integer>
+		<key>public.kern2.j</key>
+		<integer>50</integer>
+		<key>public.kern2.o</key>
+		<integer>-85</integer>
+		<key>public.kern2.oslash</key>
+		<integer>-15</integer>
+		<key>public.kern2.q</key>
+		<integer>-80</integer>
+		<key>public.kern2.s</key>
+		<integer>-20</integer>
+		<key>public.kern2.t</key>
+		<integer>-85</integer>
+		<key>public.kern2.tcaron</key>
+		<integer>-85</integer>
+		<key>public.kern2.u</key>
+		<integer>-50</integer>
+		<key>public.kern2.v</key>
+		<integer>-60</integer>
+		<key>public.kern2.w</key>
+		<integer>-70</integer>
+		<key>public.kern2.y</key>
+		<integer>-85</integer>
+		<key>question</key>
+		<integer>-115</integer>
+		<key>quotedbl</key>
+		<integer>-115</integer>
+		<key>quotedblleft</key>
+		<integer>-115</integer>
+		<key>quotedblright</key>
+		<integer>-115</integer>
+		<key>quoteleft</key>
+		<integer>-115</integer>
+		<key>quoteright</key>
+		<integer>-115</integer>
+		<key>quotesingle</key>
+		<integer>-110</integer>
+		<key>registered</key>
+		<integer>-115</integer>
+		<key>slash</key>
+		<integer>20</integer>
+		<key>sterling</key>
+		<integer>-20</integer>
+		<key>trademark</key>
+		<integer>-115</integer>
+		<key>yen</key>
+		<integer>-70</integer>
 	</dict>
 	<key>quotesingle</key>
 	<dict>
@@ -13708,6 +14378,8 @@
 		<integer>-110</integer>
 		<key>quotedblbase</key>
 		<integer>-110</integer>
+		<key>quotesinglbase</key>
+		<integer>-110</integer>
 		<key>registered</key>
 		<integer>-15</integer>
 		<key>semicolon</key>
@@ -13743,6 +14415,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-10</integer>
+		<key>degree</key>
+		<integer>-30</integer>
 		<key>dollar</key>
 		<integer>-30</integer>
 		<key>ellipsis</key>
@@ -13830,7 +14504,7 @@
 		<key>quotedbl</key>
 		<integer>-25</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-20</integer>
 		<key>quotedblright</key>
@@ -13839,6 +14513,8 @@
 		<integer>-20</integer>
 		<key>quoteright</key>
 		<integer>-25</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>quotesingle</key>
 		<integer>-25</integer>
 		<key>slash</key>
@@ -13874,6 +14550,8 @@
 		<integer>-35</integer>
 		<key>copyright</key>
 		<integer>-25</integer>
+		<key>degree</key>
+		<integer>-40</integer>
 		<key>divide</key>
 		<integer>-10</integer>
 		<key>dollar</key>
@@ -14041,6 +14719,8 @@
 		<integer>-115</integer>
 		<key>copyright</key>
 		<integer>-115</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-105</integer>
 		<key>dollar</key>
@@ -14218,11 +14898,13 @@
 		<key>questiondown</key>
 		<integer>-240</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblleft</key>
 		<integer>-35</integer>
 		<key>quoteleft</key>
 		<integer>-35</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>registered</key>
 		<integer>-65</integer>
 		<key>semicolon</key>
@@ -14272,6 +14954,8 @@
 		<integer>-15</integer>
 		<key>copyright</key>
 		<integer>-20</integer>
+		<key>degree</key>
+		<integer>-35</integer>
 		<key>divide</key>
 		<integer>-20</integer>
 		<key>dollar</key>
@@ -14462,6 +15146,8 @@
 		<integer>-30</integer>
 		<key>quoteright</key>
 		<integer>-40</integer>
+		<key>quotesinglbase</key>
+		<integer>-15</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -14528,11 +15214,13 @@
 		<key>questiondown</key>
 		<integer>-175</integer>
 		<key>quotedblbase</key>
-		<integer>-115</integer>
+		<integer>-215</integer>
 		<key>quotedblright</key>
 		<integer>-10</integer>
 		<key>quoteright</key>
 		<integer>-10</integer>
+		<key>quotesinglbase</key>
+		<integer>-115</integer>
 		<key>slash</key>
 		<integer>-115</integer>
 		<key>sterling</key>
@@ -14570,6 +15258,8 @@
 		<integer>-10</integer>
 		<key>copyright</key>
 		<integer>-125</integer>
+		<key>degree</key>
+		<integer>-210</integer>
 		<key>divide</key>
 		<integer>-290</integer>
 		<key>dollar</key>
@@ -14750,6 +15440,8 @@
 		<integer>-115</integer>
 		<key>quoteright</key>
 		<integer>-115</integer>
+		<key>quotesinglbase</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-110</integer>
 		<key>registered</key>
@@ -14791,6 +15483,8 @@
 		<integer>-60</integer>
 		<key>copyright</key>
 		<integer>-60</integer>
+		<key>degree</key>
+		<integer>-15</integer>
 		<key>divide</key>
 		<integer>-45</integer>
 		<key>dollar</key>
@@ -14923,6 +15617,8 @@
 		<integer>-25</integer>
 		<key>quoteleft</key>
 		<integer>-25</integer>
+		<key>quotesinglbase</key>
+		<integer>-60</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>

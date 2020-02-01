@@ -11,7 +11,7 @@
 	<key>familyName</key>
 	<string>Metropolis</string>
 	<key>openTypeHeadCreated</key>
-	<string>2019/05/02 11:09:40</string>
+	<string>2020/01/02 11:09:40</string>
 	<key>openTypeHheaAscender</key>
 	<integer>795</integer>
 	<key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>

@@ -324,6 +324,8 @@
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
+	<key>degree</key>
+	<string>degree.glif</string>
 	<key>descender</key>
 	<string>descender.glif</string>
 	<key>dieresis</key>
@@ -544,6 +546,8 @@
 	<string>quoteleft.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
+	<key>quotesinglbase</key>
+	<string>quotesinglbase.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>

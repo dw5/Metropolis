@@ -139,7 +139,7 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>50.0</real>
+		<real>55.0</real>
 		<key>GSOffsetProportional</key>
 		<true/>
 		<key>GSOffsetVertical</key>
@@ -421,6 +421,7 @@
 		<string>endash</string>
 		<string>emdash</string>
 		<string>underscore</string>
+		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
@@ -461,6 +462,7 @@
 		<string>copyright</string>
 		<string>registered</string>
 		<string>trademark</string>
+		<string>degree</string>
 		<string>bar</string>
 		<string>dotaccentcomb</string>
 		<string>commaaccentcomb</string>

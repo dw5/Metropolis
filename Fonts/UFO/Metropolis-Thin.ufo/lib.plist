@@ -137,11 +137,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>53</integer>
+		<real>86.0</real>
 		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<true/>
 		<key>GSOffsetVertical</key>
-		<integer>79</integer>
+		<real>79.0</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>3B040282-CF47-4846-BCAF-7BFF90FB63BC</string>
@@ -417,6 +417,7 @@
 		<string>endash</string>
 		<string>emdash</string>
 		<string>underscore</string>
+		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
@@ -457,6 +458,7 @@
 		<string>copyright</string>
 		<string>registered</string>
 		<string>trademark</string>
+		<string>degree</string>
 		<string>bar</string>
 		<string>dotaccentcomb</string>
 		<string>commaaccentcomb</string>

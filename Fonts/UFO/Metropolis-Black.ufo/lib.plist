@@ -139,11 +139,11 @@
 		<key>GSCornerRadius</key>
 		<integer>180</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>20</integer>
+		<real>57.0</real>
 		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<true/>
 		<key>GSOffsetVertical</key>
-		<integer>24</integer>
+		<real>24.0</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>A0D976AB-773B-4D3A-9F7E-7A0C42AF1E7B</string>
@@ -421,6 +421,7 @@
 		<string>endash</string>
 		<string>emdash</string>
 		<string>underscore</string>
+		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
@@ -461,6 +462,7 @@
 		<string>copyright</string>
 		<string>registered</string>
 		<string>trademark</string>
+		<string>degree</string>
 		<string>bar</string>
 		<string>dotaccentcomb</string>
 		<string>commaaccentcomb</string>

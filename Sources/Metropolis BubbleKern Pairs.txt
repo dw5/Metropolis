@@ -98,6 +98,7 @@ A hyphen
 A endash
 A emdash
 A underscore
+A quotesinglbase
 A quotedblbase
 A quotedblleft
 A quotedblright
@@ -132,6 +133,7 @@ A copyright
 A registered
 A trademark
 A bar
+A degree
 B A
 B B
 B C
@@ -232,6 +234,7 @@ B hyphen
 B endash
 B emdash
 B underscore
+B quotesinglbase
 B quotedblbase
 B quotedblleft
 B quotedblright
@@ -266,6 +269,7 @@ B copyright
 B registered
 B trademark
 B bar
+B degree
 C A
 C B
 C C
@@ -366,6 +370,7 @@ C hyphen
 C endash
 C emdash
 C underscore
+C quotesinglbase
 C quotedblbase
 C quotedblleft
 C quotedblright
@@ -400,6 +405,7 @@ C copyright
 C registered
 C trademark
 C bar
+C degree
 D A
 D B
 D C
@@ -500,6 +506,7 @@ D hyphen
 D endash
 D emdash
 D underscore
+D quotesinglbase
 D quotedblbase
 D quotedblleft
 D quotedblright
@@ -534,6 +541,7 @@ D copyright
 D registered
 D trademark
 D bar
+D degree
 Eth A
 Eth B
 Eth C
@@ -634,6 +642,7 @@ Eth hyphen
 Eth endash
 Eth emdash
 Eth underscore
+Eth quotesinglbase
 Eth quotedblbase
 Eth quotedblleft
 Eth quotedblright
@@ -668,6 +677,7 @@ Eth copyright
 Eth registered
 Eth trademark
 Eth bar
+Eth degree
 E A
 E B
 E C
@@ -768,6 +778,7 @@ E hyphen
 E endash
 E emdash
 E underscore
+E quotesinglbase
 E quotedblbase
 E quotedblleft
 E quotedblright
@@ -802,6 +813,7 @@ E copyright
 E registered
 E trademark
 E bar
+E degree
 F A
 F B
 F C
@@ -902,6 +914,7 @@ F hyphen
 F endash
 F emdash
 F underscore
+F quotesinglbase
 F quotedblbase
 F quotedblleft
 F quotedblright
@@ -936,6 +949,7 @@ F copyright
 F registered
 F trademark
 F bar
+F degree
 G A
 G B
 G C
@@ -1036,6 +1050,7 @@ G hyphen
 G endash
 G emdash
 G underscore
+G quotesinglbase
 G quotedblbase
 G quotedblleft
 G quotedblright
@@ -1070,6 +1085,7 @@ G copyright
 G registered
 G trademark
 G bar
+G degree
 H A
 H B
 H C
@@ -1170,6 +1186,7 @@ H hyphen
 H endash
 H emdash
 H underscore
+H quotesinglbase
 H quotedblbase
 H quotedblleft
 H quotedblright
@@ -1204,6 +1221,7 @@ H copyright
 H registered
 H trademark
 H bar
+H degree
 I A
 I B
 I C
@@ -1304,6 +1322,7 @@ I hyphen
 I endash
 I emdash
 I underscore
+I quotesinglbase
 I quotedblbase
 I quotedblleft
 I quotedblright
@@ -1338,6 +1357,7 @@ I copyright
 I registered
 I trademark
 I bar
+I degree
 J A
 J B
 J C
@@ -1438,6 +1458,7 @@ J hyphen
 J endash
 J emdash
 J underscore
+J quotesinglbase
 J quotedblbase
 J quotedblleft
 J quotedblright
@@ -1472,6 +1493,7 @@ J copyright
 J registered
 J trademark
 J bar
+J degree
 K A
 K B
 K C
@@ -1572,6 +1594,7 @@ K hyphen
 K endash
 K emdash
 K underscore
+K quotesinglbase
 K quotedblbase
 K quotedblleft
 K quotedblright
@@ -1606,6 +1629,7 @@ K copyright
 K registered
 K trademark
 K bar
+K degree
 L A
 L B
 L C
@@ -1706,6 +1730,7 @@ L hyphen
 L endash
 L emdash
 L underscore
+L quotesinglbase
 L quotedblbase
 L quotedblleft
 L quotedblright
@@ -1740,6 +1765,7 @@ L copyright
 L registered
 L trademark
 L bar
+L degree
 Lslash A
 Lslash B
 Lslash C
@@ -1840,6 +1866,7 @@ Lslash hyphen
 Lslash endash
 Lslash emdash
 Lslash underscore
+Lslash quotesinglbase
 Lslash quotedblbase
 Lslash quotedblleft
 Lslash quotedblright
@@ -1874,6 +1901,7 @@ Lslash copyright
 Lslash registered
 Lslash trademark
 Lslash bar
+Lslash degree
 M A
 M B
 M C
@@ -1974,6 +2002,7 @@ M hyphen
 M endash
 M emdash
 M underscore
+M quotesinglbase
 M quotedblbase
 M quotedblleft
 M quotedblright
@@ -2008,6 +2037,7 @@ M copyright
 M registered
 M trademark
 M bar
+M degree
 N A
 N B
 N C
@@ -2108,6 +2138,7 @@ N hyphen
 N endash
 N emdash
 N underscore
+N quotesinglbase
 N quotedblbase
 N quotedblleft
 N quotedblright
@@ -2142,6 +2173,7 @@ N copyright
 N registered
 N trademark
 N bar
+N degree
 O A
 O B
 O C
@@ -2242,6 +2274,7 @@ O hyphen
 O endash
 O emdash
 O underscore
+O quotesinglbase
 O quotedblbase
 O quotedblleft
 O quotedblright
@@ -2276,6 +2309,7 @@ O copyright
 O registered
 O trademark
 O bar
+O degree
 Oslash A
 Oslash B
 Oslash C
@@ -2376,6 +2410,7 @@ Oslash hyphen
 Oslash endash
 Oslash emdash
 Oslash underscore
+Oslash quotesinglbase
 Oslash quotedblbase
 Oslash quotedblleft
 Oslash quotedblright
@@ -2410,6 +2445,7 @@ Oslash copyright
 Oslash registered
 Oslash trademark
 Oslash bar
+Oslash degree
 P A
 P B
 P C
@@ -2510,6 +2546,7 @@ P hyphen
 P endash
 P emdash
 P underscore
+P quotesinglbase
 P quotedblbase
 P quotedblleft
 P quotedblright
@@ -2544,6 +2581,7 @@ P copyright
 P registered
 P trademark
 P bar
+P degree
 Thorn A
 Thorn B
 Thorn C
@@ -2644,6 +2682,7 @@ Thorn hyphen
 Thorn endash
 Thorn emdash
 Thorn underscore
+Thorn quotesinglbase
 Thorn quotedblbase
 Thorn quotedblleft
 Thorn quotedblright
@@ -2678,6 +2717,7 @@ Thorn copyright
 Thorn registered
 Thorn trademark
 Thorn bar
+Thorn degree
 Q A
 Q B
 Q C
@@ -2778,6 +2818,7 @@ Q hyphen
 Q endash
 Q emdash
 Q underscore
+Q quotesinglbase
 Q quotedblbase
 Q quotedblleft
 Q quotedblright
@@ -2812,6 +2853,7 @@ Q copyright
 Q registered
 Q trademark
 Q bar
+Q degree
 R A
 R B
 R C
@@ -2912,6 +2954,7 @@ R hyphen
 R endash
 R emdash
 R underscore
+R quotesinglbase
 R quotedblbase
 R quotedblleft
 R quotedblright
@@ -2946,6 +2989,7 @@ R copyright
 R registered
 R trademark
 R bar
+R degree
 S A
 S B
 S C
@@ -3046,6 +3090,7 @@ S hyphen
 S endash
 S emdash
 S underscore
+S quotesinglbase
 S quotedblbase
 S quotedblleft
 S quotedblright
@@ -3080,6 +3125,7 @@ S copyright
 S registered
 S trademark
 S bar
+S degree
 T A
 T B
 T C
@@ -3180,6 +3226,7 @@ T hyphen
 T endash
 T emdash
 T underscore
+T quotesinglbase
 T quotedblbase
 T quotedblleft
 T quotedblright
@@ -3214,6 +3261,7 @@ T copyright
 T registered
 T trademark
 T bar
+T degree
 U A
 U B
 U C
@@ -3314,6 +3362,7 @@ U hyphen
 U endash
 U emdash
 U underscore
+U quotesinglbase
 U quotedblbase
 U quotedblleft
 U quotedblright
@@ -3348,6 +3397,7 @@ U copyright
 U registered
 U trademark
 U bar
+U degree
 V A
 V B
 V C
@@ -3448,6 +3498,7 @@ V hyphen
 V endash
 V emdash
 V underscore
+V quotesinglbase
 V quotedblbase
 V quotedblleft
 V quotedblright
@@ -3482,6 +3533,7 @@ V copyright
 V registered
 V trademark
 V bar
+V degree
 W A
 W B
 W C
@@ -3582,6 +3634,7 @@ W hyphen
 W endash
 W emdash
 W underscore
+W quotesinglbase
 W quotedblbase
 W quotedblleft
 W quotedblright
@@ -3616,6 +3669,7 @@ W copyright
 W registered
 W trademark
 W bar
+W degree
 X A
 X B
 X C
@@ -3716,6 +3770,7 @@ X hyphen
 X endash
 X emdash
 X underscore
+X quotesinglbase
 X quotedblbase
 X quotedblleft
 X quotedblright
@@ -3750,6 +3805,7 @@ X copyright
 X registered
 X trademark
 X bar
+X degree
 Y A
 Y B
 Y C
@@ -3850,6 +3906,7 @@ Y hyphen
 Y endash
 Y emdash
 Y underscore
+Y quotesinglbase
 Y quotedblbase
 Y quotedblleft
 Y quotedblright
@@ -3884,6 +3941,7 @@ Y copyright
 Y registered
 Y trademark
 Y bar
+Y degree
 Z A
 Z B
 Z C
@@ -3984,6 +4042,7 @@ Z hyphen
 Z endash
 Z emdash
 Z underscore
+Z quotesinglbase
 Z quotedblbase
 Z quotedblleft
 Z quotedblright
@@ -4018,6 +4077,7 @@ Z copyright
 Z registered
 Z trademark
 Z bar
+Z degree
 a A
 a B
 a C
@@ -4118,6 +4178,7 @@ a hyphen
 a endash
 a emdash
 a underscore
+a quotesinglbase
 a quotedblbase
 a quotedblleft
 a quotedblright
@@ -4152,6 +4213,7 @@ a copyright
 a registered
 a trademark
 a bar
+a degree
 b A
 b B
 b C
@@ -4252,6 +4314,7 @@ b hyphen
 b endash
 b emdash
 b underscore
+b quotesinglbase
 b quotedblbase
 b quotedblleft
 b quotedblright
@@ -4286,6 +4349,7 @@ b copyright
 b registered
 b trademark
 b bar
+b degree
 c A
 c B
 c C
@@ -4386,6 +4450,7 @@ c hyphen
 c endash
 c emdash
 c underscore
+c quotesinglbase
 c quotedblbase
 c quotedblleft
 c quotedblright
@@ -4420,6 +4485,7 @@ c copyright
 c registered
 c trademark
 c bar
+c degree
 d A
 d B
 d C
@@ -4520,6 +4586,7 @@ d hyphen
 d endash
 d emdash
 d underscore
+d quotesinglbase
 d quotedblbase
 d quotedblleft
 d quotedblright
@@ -4554,6 +4621,7 @@ d copyright
 d registered
 d trademark
 d bar
+d degree
 eth A
 eth B
 eth C
@@ -4654,6 +4722,7 @@ eth hyphen
 eth endash
 eth emdash
 eth underscore
+eth quotesinglbase
 eth quotedblbase
 eth quotedblleft
 eth quotedblright
@@ -4688,6 +4757,7 @@ eth copyright
 eth registered
 eth trademark
 eth bar
+eth degree
 dcaron A
 dcaron B
 dcaron C
@@ -4788,6 +4858,7 @@ dcaron hyphen
 dcaron endash
 dcaron emdash
 dcaron underscore
+dcaron quotesinglbase
 dcaron quotedblbase
 dcaron quotedblleft
 dcaron quotedblright
@@ -4822,6 +4893,7 @@ dcaron copyright
 dcaron registered
 dcaron trademark
 dcaron bar
+dcaron degree
 dcroat A
 dcroat B
 dcroat C
@@ -4922,6 +4994,7 @@ dcroat hyphen
 dcroat endash
 dcroat emdash
 dcroat underscore
+dcroat quotesinglbase
 dcroat quotedblbase
 dcroat quotedblleft
 dcroat quotedblright
@@ -4956,6 +5029,7 @@ dcroat copyright
 dcroat registered
 dcroat trademark
 dcroat bar
+dcroat degree
 e A
 e B
 e C
@@ -5056,6 +5130,7 @@ e hyphen
 e endash
 e emdash
 e underscore
+e quotesinglbase
 e quotedblbase
 e quotedblleft
 e quotedblright
@@ -5090,6 +5165,7 @@ e copyright
 e registered
 e trademark
 e bar
+e degree
 f A
 f B
 f C
@@ -5190,6 +5266,7 @@ f hyphen
 f endash
 f emdash
 f underscore
+f quotesinglbase
 f quotedblbase
 f quotedblleft
 f quotedblright
@@ -5224,6 +5301,7 @@ f copyright
 f registered
 f trademark
 f bar
+f degree
 g A
 g B
 g C
@@ -5324,6 +5402,7 @@ g hyphen
 g endash
 g emdash
 g underscore
+g quotesinglbase
 g quotedblbase
 g quotedblleft
 g quotedblright
@@ -5358,6 +5437,7 @@ g copyright
 g registered
 g trademark
 g bar
+g degree
 h A
 h B
 h C
@@ -5458,6 +5538,7 @@ h hyphen
 h endash
 h emdash
 h underscore
+h quotesinglbase
 h quotedblbase
 h quotedblleft
 h quotedblright
@@ -5492,6 +5573,7 @@ h copyright
 h registered
 h trademark
 h bar
+h degree
 i A
 i B
 i C
@@ -5592,6 +5674,7 @@ i hyphen
 i endash
 i emdash
 i underscore
+i quotesinglbase
 i quotedblbase
 i quotedblleft
 i quotedblright
@@ -5626,6 +5709,7 @@ i copyright
 i registered
 i trademark
 i bar
+i degree
 j A
 j B
 j C
@@ -5726,6 +5810,7 @@ j hyphen
 j endash
 j emdash
 j underscore
+j quotesinglbase
 j quotedblbase
 j quotedblleft
 j quotedblright
@@ -5760,6 +5845,7 @@ j copyright
 j registered
 j trademark
 j bar
+j degree
 l A
 l B
 l C
@@ -5860,6 +5946,7 @@ l hyphen
 l endash
 l emdash
 l underscore
+l quotesinglbase
 l quotedblbase
 l quotedblleft
 l quotedblright
@@ -5894,6 +5981,7 @@ l copyright
 l registered
 l trademark
 l bar
+l degree
 lcaron A
 lcaron B
 lcaron C
@@ -5994,6 +6082,7 @@ lcaron hyphen
 lcaron endash
 lcaron emdash
 lcaron underscore
+lcaron quotesinglbase
 lcaron quotedblbase
 lcaron quotedblleft
 lcaron quotedblright
@@ -6028,6 +6117,7 @@ lcaron copyright
 lcaron registered
 lcaron trademark
 lcaron bar
+lcaron degree
 lslash A
 lslash B
 lslash C
@@ -6128,6 +6218,7 @@ lslash hyphen
 lslash endash
 lslash emdash
 lslash underscore
+lslash quotesinglbase
 lslash quotedblbase
 lslash quotedblleft
 lslash quotedblright
@@ -6162,6 +6253,7 @@ lslash copyright
 lslash registered
 lslash trademark
 lslash bar
+lslash degree
 m A
 m B
 m C
@@ -6262,6 +6354,7 @@ m hyphen
 m endash
 m emdash
 m underscore
+m quotesinglbase
 m quotedblbase
 m quotedblleft
 m quotedblright
@@ -6296,6 +6389,7 @@ m copyright
 m registered
 m trademark
 m bar
+m degree
 n A
 n B
 n C
@@ -6396,6 +6490,7 @@ n hyphen
 n endash
 n emdash
 n underscore
+n quotesinglbase
 n quotedblbase
 n quotedblleft
 n quotedblright
@@ -6430,6 +6525,7 @@ n copyright
 n registered
 n trademark
 n bar
+n degree
 o A
 o B
 o C
@@ -6530,6 +6626,7 @@ o hyphen
 o endash
 o emdash
 o underscore
+o quotesinglbase
 o quotedblbase
 o quotedblleft
 o quotedblright
@@ -6564,6 +6661,7 @@ o copyright
 o registered
 o trademark
 o bar
+o degree
 oslash A
 oslash B
 oslash C
@@ -6664,6 +6762,7 @@ oslash hyphen
 oslash endash
 oslash emdash
 oslash underscore
+oslash quotesinglbase
 oslash quotedblbase
 oslash quotedblleft
 oslash quotedblright
@@ -6698,6 +6797,7 @@ oslash copyright
 oslash registered
 oslash trademark
 oslash bar
+oslash degree
 p A
 p B
 p C
@@ -6798,6 +6898,7 @@ p hyphen
 p endash
 p emdash
 p underscore
+p quotesinglbase
 p quotedblbase
 p quotedblleft
 p quotedblright
@@ -6832,6 +6933,7 @@ p copyright
 p registered
 p trademark
 p bar
+p degree
 thorn A
 thorn B
 thorn C
@@ -6932,6 +7034,7 @@ thorn hyphen
 thorn endash
 thorn emdash
 thorn underscore
+thorn quotesinglbase
 thorn quotedblbase
 thorn quotedblleft
 thorn quotedblright
@@ -6966,6 +7069,7 @@ thorn copyright
 thorn registered
 thorn trademark
 thorn bar
+thorn degree
 q A
 q B
 q C
@@ -7066,6 +7170,7 @@ q hyphen
 q endash
 q emdash
 q underscore
+q quotesinglbase
 q quotedblbase
 q quotedblleft
 q quotedblright
@@ -7100,6 +7205,7 @@ q copyright
 q registered
 q trademark
 q bar
+q degree
 r A
 r B
 r C
@@ -7200,6 +7306,7 @@ r hyphen
 r endash
 r emdash
 r underscore
+r quotesinglbase
 r quotedblbase
 r quotedblleft
 r quotedblright
@@ -7234,6 +7341,7 @@ r copyright
 r registered
 r trademark
 r bar
+r degree
 s A
 s B
 s C
@@ -7334,6 +7442,7 @@ s hyphen
 s endash
 s emdash
 s underscore
+s quotesinglbase
 s quotedblbase
 s quotedblleft
 s quotedblright
@@ -7368,6 +7477,7 @@ s copyright
 s registered
 s trademark
 s bar
+s degree
 germandbls A
 germandbls B
 germandbls C
@@ -7468,6 +7578,7 @@ germandbls hyphen
 germandbls endash
 germandbls emdash
 germandbls underscore
+germandbls quotesinglbase
 germandbls quotedblbase
 germandbls quotedblleft
 germandbls quotedblright
@@ -7502,6 +7613,7 @@ germandbls copyright
 germandbls registered
 germandbls trademark
 germandbls bar
+germandbls degree
 t A
 t B
 t C
@@ -7602,6 +7714,7 @@ t hyphen
 t endash
 t emdash
 t underscore
+t quotesinglbase
 t quotedblbase
 t quotedblleft
 t quotedblright
@@ -7636,6 +7749,7 @@ t copyright
 t registered
 t trademark
 t bar
+t degree
 tcaron A
 tcaron B
 tcaron C
@@ -7736,6 +7850,7 @@ tcaron hyphen
 tcaron endash
 tcaron emdash
 tcaron underscore
+tcaron quotesinglbase
 tcaron quotedblbase
 tcaron quotedblleft
 tcaron quotedblright
@@ -7770,6 +7885,7 @@ tcaron copyright
 tcaron registered
 tcaron trademark
 tcaron bar
+tcaron degree
 u A
 u B
 u C
@@ -7870,6 +7986,7 @@ u hyphen
 u endash
 u emdash
 u underscore
+u quotesinglbase
 u quotedblbase
 u quotedblleft
 u quotedblright
@@ -7904,6 +8021,7 @@ u copyright
 u registered
 u trademark
 u bar
+u degree
 v A
 v B
 v C
@@ -8004,6 +8122,7 @@ v hyphen
 v endash
 v emdash
 v underscore
+v quotesinglbase
 v quotedblbase
 v quotedblleft
 v quotedblright
@@ -8038,6 +8157,7 @@ v copyright
 v registered
 v trademark
 v bar
+v degree
 w A
 w B
 w C
@@ -8138,6 +8258,7 @@ w hyphen
 w endash
 w emdash
 w underscore
+w quotesinglbase
 w quotedblbase
 w quotedblleft
 w quotedblright
@@ -8172,6 +8293,7 @@ w copyright
 w registered
 w trademark
 w bar
+w degree
 x A
 x B
 x C
@@ -8272,6 +8394,7 @@ x hyphen
 x endash
 x emdash
 x underscore
+x quotesinglbase
 x quotedblbase
 x quotedblleft
 x quotedblright
@@ -8306,6 +8429,7 @@ x copyright
 x registered
 x trademark
 x bar
+x degree
 y A
 y B
 y C
@@ -8406,6 +8530,7 @@ y hyphen
 y endash
 y emdash
 y underscore
+y quotesinglbase
 y quotedblbase
 y quotedblleft
 y quotedblright
@@ -8440,6 +8565,7 @@ y copyright
 y registered
 y trademark
 y bar
+y degree
 z A
 z B
 z C
@@ -8540,6 +8666,7 @@ z hyphen
 z endash
 z emdash
 z underscore
+z quotesinglbase
 z quotedblbase
 z quotedblleft
 z quotedblright
@@ -8574,6 +8701,7 @@ z copyright
 z registered
 z trademark
 z bar
+z degree
 a.alt A
 a.alt B
 a.alt C
@@ -8674,6 +8802,7 @@ a.alt hyphen
 a.alt endash
 a.alt emdash
 a.alt underscore
+a.alt quotesinglbase
 a.alt quotedblbase
 a.alt quotedblleft
 a.alt quotedblright
@@ -8708,6 +8837,7 @@ a.alt copyright
 a.alt registered
 a.alt trademark
 a.alt bar
+a.alt degree
 0 A
 0 B
 0 C
@@ -8808,6 +8938,7 @@ a.alt bar
 0 endash
 0 emdash
 0 underscore
+0 quotesinglbase
 0 quotedblbase
 0 quotedblleft
 0 quotedblright
@@ -8842,6 +8973,7 @@ a.alt bar
 0 registered
 0 trademark
 0 bar
+0 degree
 1 A
 1 B
 1 C
@@ -8942,6 +9074,7 @@ a.alt bar
 1 endash
 1 emdash
 1 underscore
+1 quotesinglbase
 1 quotedblbase
 1 quotedblleft
 1 quotedblright
@@ -8976,6 +9109,7 @@ a.alt bar
 1 registered
 1 trademark
 1 bar
+1 degree
 2 A
 2 B
 2 C
@@ -9076,6 +9210,7 @@ a.alt bar
 2 endash
 2 emdash
 2 underscore
+2 quotesinglbase
 2 quotedblbase
 2 quotedblleft
 2 quotedblright
@@ -9110,6 +9245,7 @@ a.alt bar
 2 registered
 2 trademark
 2 bar
+2 degree
 3 A
 3 B
 3 C
@@ -9210,6 +9346,7 @@ a.alt bar
 3 endash
 3 emdash
 3 underscore
+3 quotesinglbase
 3 quotedblbase
 3 quotedblleft
 3 quotedblright
@@ -9244,6 +9381,7 @@ a.alt bar
 3 registered
 3 trademark
 3 bar
+3 degree
 4 A
 4 B
 4 C
@@ -9344,6 +9482,7 @@ a.alt bar
 4 endash
 4 emdash
 4 underscore
+4 quotesinglbase
 4 quotedblbase
 4 quotedblleft
 4 quotedblright
@@ -9378,6 +9517,7 @@ a.alt bar
 4 registered
 4 trademark
 4 bar
+4 degree
 5 A
 5 B
 5 C
@@ -9478,6 +9618,7 @@ a.alt bar
 5 endash
 5 emdash
 5 underscore
+5 quotesinglbase
 5 quotedblbase
 5 quotedblleft
 5 quotedblright
@@ -9512,6 +9653,7 @@ a.alt bar
 5 registered
 5 trademark
 5 bar
+5 degree
 6 A
 6 B
 6 C
@@ -9612,6 +9754,7 @@ a.alt bar
 6 endash
 6 emdash
 6 underscore
+6 quotesinglbase
 6 quotedblbase
 6 quotedblleft
 6 quotedblright
@@ -9646,6 +9789,7 @@ a.alt bar
 6 registered
 6 trademark
 6 bar
+6 degree
 7 A
 7 B
 7 C
@@ -9746,6 +9890,7 @@ a.alt bar
 7 endash
 7 emdash
 7 underscore
+7 quotesinglbase
 7 quotedblbase
 7 quotedblleft
 7 quotedblright
@@ -9780,6 +9925,7 @@ a.alt bar
 7 registered
 7 trademark
 7 bar
+7 degree
 8 A
 8 B
 8 C
@@ -9880,6 +10026,7 @@ a.alt bar
 8 endash
 8 emdash
 8 underscore
+8 quotesinglbase
 8 quotedblbase
 8 quotedblleft
 8 quotedblright
@@ -9914,6 +10061,7 @@ a.alt bar
 8 registered
 8 trademark
 8 bar
+8 degree
 9 A
 9 B
 9 C
@@ -10014,6 +10162,7 @@ a.alt bar
 9 endash
 9 emdash
 9 underscore
+9 quotesinglbase
 9 quotedblbase
 9 quotedblleft
 9 quotedblright
@@ -10048,6 +10197,7 @@ a.alt bar
 9 registered
 9 trademark
 9 bar
+9 degree
 . A
 . B
 . C
@@ -10148,6 +10298,7 @@ a.alt bar
 . endash
 . emdash
 . underscore
+. quotesinglbase
 . quotedblbase
 . quotedblleft
 . quotedblright
@@ -10182,6 +10333,7 @@ a.alt bar
 . registered
 . trademark
 . bar
+. degree
 comma A
 comma B
 comma C
@@ -10282,6 +10434,7 @@ comma hyphen
 comma endash
 comma emdash
 comma underscore
+comma quotesinglbase
 comma quotedblbase
 comma quotedblleft
 comma quotedblright
@@ -10316,6 +10469,7 @@ comma copyright
 comma registered
 comma trademark
 comma bar
+comma degree
 colon A
 colon B
 colon C
@@ -10416,6 +10570,7 @@ colon hyphen
 colon endash
 colon emdash
 colon underscore
+colon quotesinglbase
 colon quotedblbase
 colon quotedblleft
 colon quotedblright
@@ -10450,6 +10605,7 @@ colon copyright
 colon registered
 colon trademark
 colon bar
+colon degree
 semicolon A
 semicolon B
 semicolon C
@@ -10550,6 +10706,7 @@ semicolon hyphen
 semicolon endash
 semicolon emdash
 semicolon underscore
+semicolon quotesinglbase
 semicolon quotedblbase
 semicolon quotedblleft
 semicolon quotedblright
@@ -10584,6 +10741,7 @@ semicolon copyright
 semicolon registered
 semicolon trademark
 semicolon bar
+semicolon degree
 ellipsis A
 ellipsis B
 ellipsis C
@@ -10684,6 +10842,7 @@ ellipsis hyphen
 ellipsis endash
 ellipsis emdash
 ellipsis underscore
+ellipsis quotesinglbase
 ellipsis quotedblbase
 ellipsis quotedblleft
 ellipsis quotedblright
@@ -10718,6 +10877,7 @@ ellipsis copyright
 ellipsis registered
 ellipsis trademark
 ellipsis bar
+ellipsis degree
 exclaim A
 exclaim B
 exclaim C
@@ -10818,6 +10978,7 @@ exclaim hyphen
 exclaim endash
 exclaim emdash
 exclaim underscore
+exclaim quotesinglbase
 exclaim quotedblbase
 exclaim quotedblleft
 exclaim quotedblright
@@ -10852,6 +11013,7 @@ exclaim copyright
 exclaim registered
 exclaim trademark
 exclaim bar
+exclaim degree
 exclaimdown A
 exclaimdown B
 exclaimdown C
@@ -10952,6 +11114,7 @@ exclaimdown hyphen
 exclaimdown endash
 exclaimdown emdash
 exclaimdown underscore
+exclaimdown quotesinglbase
 exclaimdown quotedblbase
 exclaimdown quotedblleft
 exclaimdown quotedblright
@@ -10986,6 +11149,7 @@ exclaimdown copyright
 exclaimdown registered
 exclaimdown trademark
 exclaimdown bar
+exclaimdown degree
 question A
 question B
 question C
@@ -11086,6 +11250,7 @@ question hyphen
 question endash
 question emdash
 question underscore
+question quotesinglbase
 question quotedblbase
 question quotedblleft
 question quotedblright
@@ -11120,6 +11285,7 @@ question copyright
 question registered
 question trademark
 question bar
+question degree
 questiondown A
 questiondown B
 questiondown C
@@ -11220,6 +11386,7 @@ questiondown hyphen
 questiondown endash
 questiondown emdash
 questiondown underscore
+questiondown quotesinglbase
 questiondown quotedblbase
 questiondown quotedblleft
 questiondown quotedblright
@@ -11254,6 +11421,7 @@ questiondown copyright
 questiondown registered
 questiondown trademark
 questiondown bar
+questiondown degree
 periodcentered A
 periodcentered B
 periodcentered C
@@ -11354,6 +11522,7 @@ periodcentered hyphen
 periodcentered endash
 periodcentered emdash
 periodcentered underscore
+periodcentered quotesinglbase
 periodcentered quotedblbase
 periodcentered quotedblleft
 periodcentered quotedblright
@@ -11388,6 +11557,7 @@ periodcentered copyright
 periodcentered registered
 periodcentered trademark
 periodcentered bar
+periodcentered degree
 bullet A
 bullet B
 bullet C
@@ -11488,6 +11658,7 @@ bullet hyphen
 bullet endash
 bullet emdash
 bullet underscore
+bullet quotesinglbase
 bullet quotedblbase
 bullet quotedblleft
 bullet quotedblright
@@ -11522,6 +11693,7 @@ bullet copyright
 bullet registered
 bullet trademark
 bullet bar
+bullet degree
 asterisk A
 asterisk B
 asterisk C
@@ -11622,6 +11794,7 @@ asterisk hyphen
 asterisk endash
 asterisk emdash
 asterisk underscore
+asterisk quotesinglbase
 asterisk quotedblbase
 asterisk quotedblleft
 asterisk quotedblright
@@ -11656,6 +11829,7 @@ asterisk copyright
 asterisk registered
 asterisk trademark
 asterisk bar
+asterisk degree
 numbersign A
 numbersign B
 numbersign C
@@ -11756,6 +11930,7 @@ numbersign hyphen
 numbersign endash
 numbersign emdash
 numbersign underscore
+numbersign quotesinglbase
 numbersign quotedblbase
 numbersign quotedblleft
 numbersign quotedblright
@@ -11790,6 +11965,7 @@ numbersign copyright
 numbersign registered
 numbersign trademark
 numbersign bar
+numbersign degree
 slash A
 slash B
 slash C
@@ -11890,6 +12066,7 @@ slash hyphen
 slash endash
 slash emdash
 slash underscore
+slash quotesinglbase
 slash quotedblbase
 slash quotedblleft
 slash quotedblright
@@ -11924,6 +12101,7 @@ slash copyright
 slash registered
 slash trademark
 slash bar
+slash degree
 backslash A
 backslash B
 backslash C
@@ -12024,6 +12202,7 @@ backslash hyphen
 backslash endash
 backslash emdash
 backslash underscore
+backslash quotesinglbase
 backslash quotedblbase
 backslash quotedblleft
 backslash quotedblright
@@ -12058,6 +12237,7 @@ backslash copyright
 backslash registered
 backslash trademark
 backslash bar
+backslash degree
 parenleft A
 parenleft B
 parenleft C
@@ -12158,6 +12338,7 @@ parenleft hyphen
 parenleft endash
 parenleft emdash
 parenleft underscore
+parenleft quotesinglbase
 parenleft quotedblbase
 parenleft quotedblleft
 parenleft quotedblright
@@ -12192,6 +12373,7 @@ parenleft copyright
 parenleft registered
 parenleft trademark
 parenleft bar
+parenleft degree
 parenright A
 parenright B
 parenright C
@@ -12292,6 +12474,7 @@ parenright hyphen
 parenright endash
 parenright emdash
 parenright underscore
+parenright quotesinglbase
 parenright quotedblbase
 parenright quotedblleft
 parenright quotedblright
@@ -12326,6 +12509,7 @@ parenright copyright
 parenright registered
 parenright trademark
 parenright bar
+parenright degree
 braceleft A
 braceleft B
 braceleft C
@@ -12426,6 +12610,7 @@ braceleft hyphen
 braceleft endash
 braceleft emdash
 braceleft underscore
+braceleft quotesinglbase
 braceleft quotedblbase
 braceleft quotedblleft
 braceleft quotedblright
@@ -12460,6 +12645,7 @@ braceleft copyright
 braceleft registered
 braceleft trademark
 braceleft bar
+braceleft degree
 braceright A
 braceright B
 braceright C
@@ -12560,6 +12746,7 @@ braceright hyphen
 braceright endash
 braceright emdash
 braceright underscore
+braceright quotesinglbase
 braceright quotedblbase
 braceright quotedblleft
 braceright quotedblright
@@ -12594,6 +12781,7 @@ braceright copyright
 braceright registered
 braceright trademark
 braceright bar
+braceright degree
 bracketleft A
 bracketleft B
 bracketleft C
@@ -12694,6 +12882,7 @@ bracketleft hyphen
 bracketleft endash
 bracketleft emdash
 bracketleft underscore
+bracketleft quotesinglbase
 bracketleft quotedblbase
 bracketleft quotedblleft
 bracketleft quotedblright
@@ -12728,6 +12917,7 @@ bracketleft copyright
 bracketleft registered
 bracketleft trademark
 bracketleft bar
+bracketleft degree
 bracketright A
 bracketright B
 bracketright C
@@ -12828,6 +13018,7 @@ bracketright hyphen
 bracketright endash
 bracketright emdash
 bracketright underscore
+bracketright quotesinglbase
 bracketright quotedblbase
 bracketright quotedblleft
 bracketright quotedblright
@@ -12862,6 +13053,7 @@ bracketright copyright
 bracketright registered
 bracketright trademark
 bracketright bar
+bracketright degree
 hyphen A
 hyphen B
 hyphen C
@@ -12962,6 +13154,7 @@ hyphen hyphen
 hyphen endash
 hyphen emdash
 hyphen underscore
+hyphen quotesinglbase
 hyphen quotedblbase
 hyphen quotedblleft
 hyphen quotedblright
@@ -12996,6 +13189,7 @@ hyphen copyright
 hyphen registered
 hyphen trademark
 hyphen bar
+hyphen degree
 endash A
 endash B
 endash C
@@ -13096,6 +13290,7 @@ endash hyphen
 endash endash
 endash emdash
 endash underscore
+endash quotesinglbase
 endash quotedblbase
 endash quotedblleft
 endash quotedblright
@@ -13130,6 +13325,7 @@ endash copyright
 endash registered
 endash trademark
 endash bar
+endash degree
 emdash A
 emdash B
 emdash C
@@ -13230,6 +13426,7 @@ emdash hyphen
 emdash endash
 emdash emdash
 emdash underscore
+emdash quotesinglbase
 emdash quotedblbase
 emdash quotedblleft
 emdash quotedblright
@@ -13264,6 +13461,7 @@ emdash copyright
 emdash registered
 emdash trademark
 emdash bar
+emdash degree
 underscore A
 underscore B
 underscore C
@@ -13364,6 +13562,7 @@ underscore hyphen
 underscore endash
 underscore emdash
 underscore underscore
+underscore quotesinglbase
 underscore quotedblbase
 underscore quotedblleft
 underscore quotedblright
@@ -13398,6 +13597,143 @@ underscore copyright
 underscore registered
 underscore trademark
 underscore bar
+underscore degree
+quotesinglbase A
+quotesinglbase B
+quotesinglbase C
+quotesinglbase D
+quotesinglbase Eth
+quotesinglbase E
+quotesinglbase F
+quotesinglbase G
+quotesinglbase H
+quotesinglbase I
+quotesinglbase J
+quotesinglbase K
+quotesinglbase L
+quotesinglbase Lslash
+quotesinglbase M
+quotesinglbase N
+quotesinglbase O
+quotesinglbase Oslash
+quotesinglbase P
+quotesinglbase Thorn
+quotesinglbase Q
+quotesinglbase R
+quotesinglbase S
+quotesinglbase T
+quotesinglbase U
+quotesinglbase V
+quotesinglbase W
+quotesinglbase X
+quotesinglbase Y
+quotesinglbase Z
+quotesinglbase a
+quotesinglbase b
+quotesinglbase c
+quotesinglbase d
+quotesinglbase eth
+quotesinglbase dcaron
+quotesinglbase dcroat
+quotesinglbase e
+quotesinglbase f
+quotesinglbase g
+quotesinglbase h
+quotesinglbase i
+quotesinglbase j
+quotesinglbase l
+quotesinglbase lcaron
+quotesinglbase lslash
+quotesinglbase m
+quotesinglbase n
+quotesinglbase o
+quotesinglbase oslash
+quotesinglbase p
+quotesinglbase thorn
+quotesinglbase q
+quotesinglbase r
+quotesinglbase s
+quotesinglbase germandbls
+quotesinglbase t
+quotesinglbase tcaron
+quotesinglbase u
+quotesinglbase v
+quotesinglbase w
+quotesinglbase x
+quotesinglbase y
+quotesinglbase z
+quotesinglbase a.alt
+quotesinglbase 0
+quotesinglbase 1
+quotesinglbase 2
+quotesinglbase 3
+quotesinglbase 4
+quotesinglbase 5
+quotesinglbase 6
+quotesinglbase 7
+quotesinglbase 8
+quotesinglbase 9
+quotesinglbase .
+quotesinglbase comma
+quotesinglbase colon
+quotesinglbase semicolon
+quotesinglbase ellipsis
+quotesinglbase exclaim
+quotesinglbase exclaimdown
+quotesinglbase question
+quotesinglbase questiondown
+quotesinglbase periodcentered
+quotesinglbase bullet
+quotesinglbase asterisk
+quotesinglbase numbersign
+quotesinglbase slash
+quotesinglbase backslash
+quotesinglbase parenleft
+quotesinglbase parenright
+quotesinglbase braceleft
+quotesinglbase braceright
+quotesinglbase bracketleft
+quotesinglbase bracketright
+quotesinglbase hyphen
+quotesinglbase endash
+quotesinglbase emdash
+quotesinglbase underscore
+quotesinglbase quotesinglbase
+quotesinglbase quotedblbase
+quotesinglbase quotedblleft
+quotesinglbase quotedblright
+quotesinglbase quoteleft
+quotesinglbase quoteright
+quotesinglbase guillemetleft
+quotesinglbase guillemetright
+quotesinglbase guilsinglleft
+quotesinglbase guilsinglright
+quotesinglbase quotedbl
+quotesinglbase quotesingle
+quotesinglbase cent
+quotesinglbase dollar
+quotesinglbase euro
+quotesinglbase sterling
+quotesinglbase yen
+quotesinglbase plus
+quotesinglbase minus
+quotesinglbase multiply
+quotesinglbase divide
+quotesinglbase equal
+quotesinglbase greater
+quotesinglbase less
+quotesinglbase asciitilde
+quotesinglbase asciicircum
+quotesinglbase percent
+quotesinglbase perthousand
+quotesinglbase at
+quotesinglbase ampersand
+quotesinglbase paragraph
+quotesinglbase copyright
+quotesinglbase registered
+quotesinglbase trademark
+quotesinglbase bar
+quotesinglbase degree
 quotedblbase A
 quotedblbase B
 quotedblbase C
@@ -13498,6 +13834,7 @@ quotedblbase hyphen
 quotedblbase endash
 quotedblbase emdash
 quotedblbase underscore
+quotedblbase quotesinglbase
 quotedblbase quotedblbase
 quotedblbase quotedblleft
 quotedblbase quotedblright
@@ -13532,6 +13869,7 @@ quotedblbase copyright
 quotedblbase registered
 quotedblbase trademark
 quotedblbase bar
+quotedblbase degree
 quotedblleft A
 quotedblleft B
 quotedblleft C
@@ -13632,6 +13970,7 @@ quotedblleft hyphen
 quotedblleft endash
 quotedblleft emdash
 quotedblleft underscore
+quotedblleft quotesinglbase
 quotedblleft quotedblbase
 quotedblleft quotedblleft
 quotedblleft quotedblright
@@ -13666,6 +14005,7 @@ quotedblleft copyright
 quotedblleft registered
 quotedblleft trademark
 quotedblleft bar
+quotedblleft degree
 quotedblright A
 quotedblright B
 quotedblright C
@@ -13766,6 +14106,7 @@ quotedblright hyphen
 quotedblright endash
 quotedblright emdash
 quotedblright underscore
+quotedblright quotesinglbase
 quotedblright quotedblbase
 quotedblright quotedblleft
 quotedblright quotedblright
@@ -13800,6 +14141,7 @@ quotedblright copyright
 quotedblright registered
 quotedblright trademark
 quotedblright bar
+quotedblright degree
 quoteleft A
 quoteleft B
 quoteleft C
@@ -13900,6 +14242,7 @@ quoteleft hyphen
 quoteleft endash
 quoteleft emdash
 quoteleft underscore
+quoteleft quotesinglbase
 quoteleft quotedblbase
 quoteleft quotedblleft
 quoteleft quotedblright
@@ -13934,6 +14277,7 @@ quoteleft copyright
 quoteleft registered
 quoteleft trademark
 quoteleft bar
+quoteleft degree
 quoteright A
 quoteright B
 quoteright C
@@ -14034,6 +14378,7 @@ quoteright hyphen
 quoteright endash
 quoteright emdash
 quoteright underscore
+quoteright quotesinglbase
 quoteright quotedblbase
 quoteright quotedblleft
 quoteright quotedblright
@@ -14068,6 +14413,7 @@ quoteright copyright
 quoteright registered
 quoteright trademark
 quoteright bar
+quoteright degree
 guillemetleft A
 guillemetleft B
 guillemetleft C
@@ -14168,6 +14514,7 @@ guillemetleft hyphen
 guillemetleft endash
 guillemetleft emdash
 guillemetleft underscore
+guillemetleft quotesinglbase
 guillemetleft quotedblbase
 guillemetleft quotedblleft
 guillemetleft quotedblright
@@ -14202,6 +14549,7 @@ guillemetleft copyright
 guillemetleft registered
 guillemetleft trademark
 guillemetleft bar
+guillemetleft degree
 guillemetright A
 guillemetright B
 guillemetright C
@@ -14302,6 +14650,7 @@ guillemetright hyphen
 guillemetright endash
 guillemetright emdash
 guillemetright underscore
+guillemetright quotesinglbase
 guillemetright quotedblbase
 guillemetright quotedblleft
 guillemetright quotedblright
@@ -14336,6 +14685,7 @@ guillemetright copyright
 guillemetright registered
 guillemetright trademark
 guillemetright bar
+guillemetright degree
 guilsinglleft A
 guilsinglleft B
 guilsinglleft C
@@ -14436,6 +14786,7 @@ guilsinglleft hyphen
 guilsinglleft endash
 guilsinglleft emdash
 guilsinglleft underscore
+guilsinglleft quotesinglbase
 guilsinglleft quotedblbase
 guilsinglleft quotedblleft
 guilsinglleft quotedblright
@@ -14470,6 +14821,7 @@ guilsinglleft copyright
 guilsinglleft registered
 guilsinglleft trademark
 guilsinglleft bar
+guilsinglleft degree
 guilsinglright A
 guilsinglright B
 guilsinglright C
@@ -14570,6 +14922,7 @@ guilsinglright hyphen
 guilsinglright endash
 guilsinglright emdash
 guilsinglright underscore
+guilsinglright quotesinglbase
 guilsinglright quotedblbase
 guilsinglright quotedblleft
 guilsinglright quotedblright
@@ -14604,6 +14957,7 @@ guilsinglright copyright
 guilsinglright registered
 guilsinglright trademark
 guilsinglright bar
+guilsinglright degree
 quotedbl A
 quotedbl B
 quotedbl C
@@ -14704,6 +15058,7 @@ quotedbl hyphen
 quotedbl endash
 quotedbl emdash
 quotedbl underscore
+quotedbl quotesinglbase
 quotedbl quotedblbase
 quotedbl quotedblleft
 quotedbl quotedblright
@@ -14738,6 +15093,7 @@ quotedbl copyright
 quotedbl registered
 quotedbl trademark
 quotedbl bar
+quotedbl degree
 quotesingle A
 quotesingle B
 quotesingle C
@@ -14838,6 +15194,7 @@ quotesingle hyphen
 quotesingle endash
 quotesingle emdash
 quotesingle underscore
+quotesingle quotesinglbase
 quotesingle quotedblbase
 quotesingle quotedblleft
 quotesingle quotedblright
@@ -14872,6 +15229,7 @@ quotesingle copyright
 quotesingle registered
 quotesingle trademark
 quotesingle bar
+quotesingle degree
 cent A
 cent B
 cent C
@@ -14972,6 +15330,7 @@ cent hyphen
 cent endash
 cent emdash
 cent underscore
+cent quotesinglbase
 cent quotedblbase
 cent quotedblleft
 cent quotedblright
@@ -15006,6 +15365,7 @@ cent copyright
 cent registered
 cent trademark
 cent bar
+cent degree
 dollar A
 dollar B
 dollar C
@@ -15106,6 +15466,7 @@ dollar hyphen
 dollar endash
 dollar emdash
 dollar underscore
+dollar quotesinglbase
 dollar quotedblbase
 dollar quotedblleft
 dollar quotedblright
@@ -15140,6 +15501,7 @@ dollar copyright
 dollar registered
 dollar trademark
 dollar bar
+dollar degree
 euro A
 euro B
 euro C
@@ -15240,6 +15602,7 @@ euro hyphen
 euro endash
 euro emdash
 euro underscore
+euro quotesinglbase
 euro quotedblbase
 euro quotedblleft
 euro quotedblright
@@ -15274,6 +15637,7 @@ euro copyright
 euro registered
 euro trademark
 euro bar
+euro degree
 sterling A
 sterling B
 sterling C
@@ -15374,6 +15738,7 @@ sterling hyphen
 sterling endash
 sterling emdash
 sterling underscore
+sterling quotesinglbase
 sterling quotedblbase
 sterling quotedblleft
 sterling quotedblright
@@ -15408,6 +15773,7 @@ sterling copyright
 sterling registered
 sterling trademark
 sterling bar
+sterling degree
 yen A
 yen B
 yen C
@@ -15508,6 +15874,7 @@ yen hyphen
 yen endash
 yen emdash
 yen underscore
+yen quotesinglbase
 yen quotedblbase
 yen quotedblleft
 yen quotedblright
@@ -15542,6 +15909,7 @@ yen copyright
 yen registered
 yen trademark
 yen bar
+yen degree
 plus A
 plus B
 plus C
@@ -15642,6 +16010,7 @@ plus hyphen
 plus endash
 plus emdash
 plus underscore
+plus quotesinglbase
 plus quotedblbase
 plus quotedblleft
 plus quotedblright
@@ -15676,6 +16045,7 @@ plus copyright
 plus registered
 plus trademark
 plus bar
+plus degree
 minus A
 minus B
 minus C
@@ -15776,6 +16146,7 @@ minus hyphen
 minus endash
 minus emdash
 minus underscore
+minus quotesinglbase
 minus quotedblbase
 minus quotedblleft
 minus quotedblright
@@ -15810,6 +16181,7 @@ minus copyright
 minus registered
 minus trademark
 minus bar
+minus degree
 multiply A
 multiply B
 multiply C
@@ -15910,6 +16282,7 @@ multiply hyphen
 multiply endash
 multiply emdash
 multiply underscore
+multiply quotesinglbase
 multiply quotedblbase
 multiply quotedblleft
 multiply quotedblright
@@ -15944,6 +16317,7 @@ multiply copyright
 multiply registered
 multiply trademark
 multiply bar
+multiply degree
 divide A
 divide B
 divide C
@@ -16044,6 +16418,7 @@ divide hyphen
 divide endash
 divide emdash
 divide underscore
+divide quotesinglbase
 divide quotedblbase
 divide quotedblleft
 divide quotedblright
@@ -16078,6 +16453,7 @@ divide copyright
 divide registered
 divide trademark
 divide bar
+divide degree
 equal A
 equal B
 equal C
@@ -16178,6 +16554,7 @@ equal hyphen
 equal endash
 equal emdash
 equal underscore
+equal quotesinglbase
 equal quotedblbase
 equal quotedblleft
 equal quotedblright
@@ -16212,6 +16589,7 @@ equal copyright
 equal registered
 equal trademark
 equal bar
+equal degree
 greater A
 greater B
 greater C
@@ -16312,6 +16690,7 @@ greater hyphen
 greater endash
 greater emdash
 greater underscore
+greater quotesinglbase
 greater quotedblbase
 greater quotedblleft
 greater quotedblright
@@ -16346,6 +16725,7 @@ greater copyright
 greater registered
 greater trademark
 greater bar
+greater degree
 less A
 less B
 less C
@@ -16446,6 +16826,7 @@ less hyphen
 less endash
 less emdash
 less underscore
+less quotesinglbase
 less quotedblbase
 less quotedblleft
 less quotedblright
@@ -16480,6 +16861,7 @@ less copyright
 less registered
 less trademark
 less bar
+less degree
 asciitilde A
 asciitilde B
 asciitilde C
@@ -16580,6 +16962,7 @@ asciitilde hyphen
 asciitilde endash
 asciitilde emdash
 asciitilde underscore
+asciitilde quotesinglbase
 asciitilde quotedblbase
 asciitilde quotedblleft
 asciitilde quotedblright
@@ -16614,6 +16997,7 @@ asciitilde copyright
 asciitilde registered
 asciitilde trademark
 asciitilde bar
+asciitilde degree
 asciicircum A
 asciicircum B
 asciicircum C
@@ -16714,6 +17098,7 @@ asciicircum hyphen
 asciicircum endash
 asciicircum emdash
 asciicircum underscore
+asciicircum quotesinglbase
 asciicircum quotedblbase
 asciicircum quotedblleft
 asciicircum quotedblright
@@ -16748,6 +17133,7 @@ asciicircum copyright
 asciicircum registered
 asciicircum trademark
 asciicircum bar
+asciicircum degree
 percent A
 percent B
 percent C
@@ -16848,6 +17234,7 @@ percent hyphen
 percent endash
 percent emdash
 percent underscore
+percent quotesinglbase
 percent quotedblbase
 percent quotedblleft
 percent quotedblright
@@ -16882,6 +17269,7 @@ percent copyright
 percent registered
 percent trademark
 percent bar
+percent degree
 perthousand A
 perthousand B
 perthousand C
@@ -16982,6 +17370,7 @@ perthousand hyphen
 perthousand endash
 perthousand emdash
 perthousand underscore
+perthousand quotesinglbase
 perthousand quotedblbase
 perthousand quotedblleft
 perthousand quotedblright
@@ -17016,6 +17405,7 @@ perthousand copyright
 perthousand registered
 perthousand trademark
 perthousand bar
+perthousand degree
 at A
 at B
 at C
@@ -17116,6 +17506,7 @@ at hyphen
 at endash
 at emdash
 at underscore
+at quotesinglbase
 at quotedblbase
 at quotedblleft
 at quotedblright
@@ -17150,6 +17541,7 @@ at copyright
 at registered
 at trademark
 at bar
+at degree
 ampersand A
 ampersand B
 ampersand C
@@ -17250,6 +17642,7 @@ ampersand hyphen
 ampersand endash
 ampersand emdash
 ampersand underscore
+ampersand quotesinglbase
 ampersand quotedblbase
 ampersand quotedblleft
 ampersand quotedblright
@@ -17284,6 +17677,7 @@ ampersand copyright
 ampersand registered
 ampersand trademark
 ampersand bar
+ampersand degree
 paragraph A
 paragraph B
 paragraph C
@@ -17384,6 +17778,7 @@ paragraph hyphen
 paragraph endash
 paragraph emdash
 paragraph underscore
+paragraph quotesinglbase
 paragraph quotedblbase
 paragraph quotedblleft
 paragraph quotedblright
@@ -17418,6 +17813,7 @@ paragraph copyright
 paragraph registered
 paragraph trademark
 paragraph bar
+paragraph degree
 copyright A
 copyright B
 copyright C
@@ -17518,6 +17914,7 @@ copyright hyphen
 copyright endash
 copyright emdash
 copyright underscore
+copyright quotesinglbase
 copyright quotedblbase
 copyright quotedblleft
 copyright quotedblright
@@ -17552,6 +17949,7 @@ copyright copyright
 copyright registered
 copyright trademark
 copyright bar
+copyright degree
 registered A
 registered B
 registered C
@@ -17652,6 +18050,7 @@ registered hyphen
 registered endash
 registered emdash
 registered underscore
+registered quotesinglbase
 registered quotedblbase
 registered quotedblleft
 registered quotedblright
@@ -17686,6 +18085,7 @@ registered copyright
 registered registered
 registered trademark
 registered bar
+registered degree
 trademark A
 trademark B
 trademark C
@@ -17786,6 +18186,7 @@ trademark hyphen
 trademark endash
 trademark emdash
 trademark underscore
+trademark quotesinglbase
 trademark quotedblbase
 trademark quotedblleft
 trademark quotedblright
@@ -17820,6 +18221,7 @@ trademark copyright
 trademark registered
 trademark trademark
 trademark bar
+trademark degree
 bar A
 bar B
 bar C
@@ -17920,6 +18322,7 @@ bar hyphen
 bar endash
 bar emdash
 bar underscore
+bar quotesinglbase
 bar quotedblbase
 bar quotedblleft
 bar quotedblright
@@ -17954,3 +18357,140 @@ bar copyright
 bar registered
 bar trademark
 bar bar
+bar degree
+degree A
+degree B
+degree C
+degree D
+degree Eth
+degree E
+degree F
+degree G
+degree H
+degree I
+degree J
+degree K
+degree L
+degree Lslash
+degree M
+degree N
+degree O
+degree Oslash
+degree P
+degree Thorn
+degree Q
+degree R
+degree S
+degree T
+degree U
+degree V
+degree W
+degree X
+degree Y
+degree Z
+degree a
+degree b
+degree c
+degree d
+degree eth
+degree dcaron
+degree dcroat
+degree e
+degree f
+degree g
+degree h
+degree i
+degree j
+degree l
+degree lcaron
+degree lslash
+degree m
+degree n
+degree o
+degree oslash
+degree p
+degree thorn
+degree q
+degree r
+degree s
+degree germandbls
+degree t
+degree tcaron
+degree u
+degree v
+degree w
+degree x
+degree y
+degree z
+degree a.alt
+degree 0
+degree 1
+degree 2
+degree 3
+degree 4
+degree 5
+degree 6
+degree 7
+degree 8
+degree 9
+degree .
+degree comma
+degree colon
+degree semicolon
+degree ellipsis
+degree exclaim
+degree exclaimdown
+degree question
+degree questiondown
+degree periodcentered
+degree bullet
+degree asterisk
+degree numbersign
+degree slash
+degree backslash
+degree parenleft
+degree parenright
+degree braceleft
+degree braceright
+degree bracketleft
+degree bracketright
+degree hyphen
+degree endash
+degree emdash
+degree underscore
+degree quotesinglbase
+degree quotedblbase
+degree quotedblleft
+degree quotedblright
+degree quoteleft
+degree quoteright
+degree guillemetleft
+degree guillemetright
+degree guilsinglleft
+degree guilsinglright
+degree quotedbl
+degree quotesingle
+degree cent
+degree dollar
+degree euro
+degree sterling
+degree yen
+degree plus
+degree minus
+degree multiply
+degree divide
+degree equal
+degree greater
+degree less
+degree asciitilde
+degree asciicircum
+degree percent
+degree perthousand
+degree at
+degree ampersand
+degree paragraph
+degree copyright
+degree registered
+degree trademark
+degree bar
+degree degree
