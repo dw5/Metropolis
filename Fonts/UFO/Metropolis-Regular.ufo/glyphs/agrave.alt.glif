@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="agrave.alt" format="1">
-  <advance width="638"/>
-  <outline>
-    <component base="a.alt"/>
-    <component base="grave" xOffset="132"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-29 08:49:00 +0000</string>
-    </dict>
-  </lib>
+<glyph name="agrave.alt" format="2">
+	<advance width="595"/>
+	<outline>
+		<component base="a.alt"/>
+		<component base="grave" xOffset="100"/>
+	</outline>
 </glyph>

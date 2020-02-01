@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quoteleft" format="1">
-  <advance width="264"/>
-  <unicode hex="2018"/>
-  <outline>
-    <component base="comma" xOffset="264" yOffset="540" xScale="-1" yScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-08-27 09:18:04 +0000</string>
-    </dict>
-  </lib>
+<glyph name="quoteleft" format="2">
+	<advance width="230"/>
+	<unicode hex="2018"/>
+	<outline>
+		<component base="comma" xScale="-1" yScale="-1" xOffset="230" yOffset="540"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
 </glyph>
