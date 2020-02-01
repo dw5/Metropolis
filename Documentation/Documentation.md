@@ -118,6 +118,8 @@ It is crucial the width of the corresponding layers are the same (e.g. the 'Thin
 
 Once defined/drawn for every glyph, BubbleKern is then run. I have prepared `Metropolis BubbleKern Pairs.txt` for this. **Any kern pairs must go in this file/BubbleKern must only be run using this file.**
 
+As a guide, I am using 56, 53 & 50 as offset values when drawing the kern bubbles for Thin, Regular & Black, respectively. As a rule, I try to honor the values already arrived at by HT Letterspacer. 
+
 ## <a name="cursify"></a> Cursify
 
 I'm largely using Glyph's 'Cursify' tool to do the italics. This yeilds better results that simply slanting the glyph shapes from the regular/normal glyph, though from memory I was doing something tricky like slanting the vertical bars and cursifying everything else.
